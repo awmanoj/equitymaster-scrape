@@ -1,6 +1,15 @@
 import xmltodict
 import sys
 
+min_roe = 20.0
+max_dte = 1.0
+
+if len(sys.argv) > 1:
+	min_roe = float(sys.argv[1])
+
+if len(sys.argv) > 2:
+	min_dte = float(sys.argv[2])
+
 with open("ResearchCompanies.xml") as fd:
 	doc = xmltodict.parse(fd.read())
 
@@ -18,7 +27,7 @@ with open("report.txt") as file:
 	
 		skip = False
 		for roe in roes:
-			if roe < float(sys.argv[1]):
+			if roe < min_roe:
 				skip = True
 				break
 	
@@ -26,7 +35,7 @@ with open("report.txt") as file:
 
 		skip = False
 		for der in ders:
-			if der > float(sys.argv[2]) or der < 0:
+			if der > max_dte or der < 0:
 				skip = True
 				break
 	

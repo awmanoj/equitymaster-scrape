@@ -1,3 +1,17 @@
+#!/bin/bash
+########################################################
+#
+# @author: Manoj Awasthi
+#  
+# Usage: nohup bash fetch.sh > report-0.txt&
+#
+########################################################
+
+if [ ! -f ResearchCompanies.xml ]; then 
+	echo "err: ResearchCompanies.xml file not found. Download it from equitymaster."
+	exit 1
+fi
+
 URL="https://www.equitymaster.com/research-it/company-info/detailed-financial-information.asp?symbol="
 STOCKS=`cat ResearchCompanies.xml | grep Symbol | awk -F'>' '{print $2}' | awk -F '<' '{print $1}'`
 for STOCK in $STOCKS; do 
