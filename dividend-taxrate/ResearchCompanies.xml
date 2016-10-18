@@ -1,0 +1,5400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Companies>
+  <Company>
+    <Symbol>20MIC</Symbol>
+    <DispName>20 MICRONS</DispName>
+    <Desc>20MIC 20 MICRONS LTD 533022|20MICRONS~EQ|</Desc>
+    <BSE>533022</BSE>
+    <Sector>83</Sector>
+  </Company>
+  <Company>
+    <Symbol>IINFO</Symbol>
+    <DispName>3I INFOTECH LTD.</DispName>
+    <Desc>IINFO 3I INFOTECH 532628 3IINFOTECH|3IINFOTECH~BE</Desc>
+    <BSE>532628</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>BR3M</Symbol>
+    <DispName>3M INDIA</DispName>
+    <Desc>3M INDIA LTD. BR3M BIRLA 3M BIRLA3M 523395 |3MINDIA~EQ|</Desc>
+    <BSE>523395</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>ARTI</Symbol>
+    <DispName>AARTI INDUST</DispName>
+    <Desc>ARTI AARTI INDUST AARTIIND 524208 2704|AARTIIND~EQ|</Desc>
+    <BSE>524208</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>ABAN</Symbol>
+    <DispName>ABAN OFFSHORE</DispName>
+    <Desc>ABAN ABAN LOYD ABANLLOYD 523204 1035|ABAN~EQ|</Desc>
+    <BSE>523204</BSE>
+    <Sector>25</Sector>
+  </Company>
+  <Company>
+    <Symbol>ABB</Symbol>
+    <DispName>ABB INDIA LTD.</DispName>
+    <Desc>ABB LTD. ABB INDIA LTD. ASEA BROWN BOVERI 500002 229|ABB~EQ|</Desc>
+    <BSE>500002</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>KNOL</Symbol>
+    <DispName>ABBOTT INDIA</DispName>
+    <Desc>KNOL ABBOTT INDIA KNOLL PHARMACEUTICALS BOOTSPHARM 500488|ABBOTINDIA~EQ|</Desc>
+    <BSE>500488</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>ABGS</Symbol>
+    <DispName>ABG SHIPYARD</DispName>
+    <Desc>ABGS ABG SHIPYARD 532682 6972|ABGSHIP~EQ|</Desc>
+    <BSE>532682</BSE>
+    <Sector>25</Sector>
+  </Company>
+  <Company>
+    <Symbol>ACC</Symbol>
+    <DispName>ACC LTD</DispName>
+    <Desc>ACC LIMITED ASSOCIATED CEMENT COMPANIES  A C C A.C.C. 500410 26|ACC~EQ|</Desc>
+    <BSE>500410</BSE>
+    <Sector>5</Sector>
+  </Company>
+  <Company>
+    <Symbol>ADEX</Symbol>
+    <DispName>ADANI ENTERPR.</DispName>
+    <Desc>ADEX ADANI EXPORT ADANIEXPO ADANI ENTERPRISES 512599 84|ADANIENT~EQ|</Desc>
+    <BSE>512599</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>MNDRA</Symbol>
+    <DispName>ADANI PORTS &amp; SEZ</DispName>
+    <Desc>MNDRA ADANI PORTS &amp; SEZ ADANI PORTS &amp; SPECIAL ECONOMIC ZONE MUNDRA PORT &amp; SEZ MUNDRA PORT AND SPECIAL ECONOMIC ZONE 532921|ADANIPORTS~EQ|</Desc>
+    <BSE>532921</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>ADPL</Symbol>
+    <DispName>ADANI POWER</DispName>
+    <Desc>ADPL ADANI POWER LTD 533096|ADANIPOWER~EQ|</Desc>
+    <BSE>533096</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>ADMT</Symbol>
+    <DispName>ADHUNIK METALIKS</DispName>
+    <Desc>ADMT ADHUNIK METALIKS 532727|ADHUNIK~EQ|</Desc>
+    <BSE>532727</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>IRYN</Symbol>
+    <DispName>ADITYA BIRLA NUVO</DispName>
+    <Desc>IRYN INDIAN RAYON ADITYA BIRLA NUVO 500303 372|ABIRLANUVO~EQ|</Desc>
+    <BSE>500303</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>ADOR</Symbol>
+    <DispName>ADOR WELDING</DispName>
+    <Desc>ADVANIORLI  ADOR ADOR WELDING ADVA.OERLIK ADVANI OERLIKON 517041 2126|ADORWELD~EQ|</Desc>
+    <BSE>517041</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>ADHT</Symbol>
+    <DispName>ADVANI HOTELS</DispName>
+    <Desc>ADHT ADVANI HOTELS &amp; RESORTS INDIA RAMADA HOTELS INDIA LTD. RAMADHOTEL 523269|ADVANIHOTR~EQ|</Desc>
+    <BSE>523269</BSE>
+    <Sector>13</Sector>
+  </Company>
+  <Company>
+    <Symbol>ADIL</Symbol>
+    <DispName>ADVANTA LTD.</DispName>
+    <Desc>ADVANTA ADVANTA LTD. ADVANTA LIMITED INDIA ADVANTA INDIA LIMITED 532840 ADIL|ADVANTA~EQ|</Desc>
+    <BSE>532840</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>AEGS</Symbol>
+    <DispName>AEGIS LOGISTICS</DispName>
+    <Desc>AEGS AEGIS CHEM. AEGIS CHEMICALS AEGISCHEM 500003 3821|AEGISCHEM~EQ|</Desc>
+    <BSE>500003</BSE>
+    <Sector>103</Sector>
+  </Company>
+  <Company>
+    <Symbol>AFTEK</Symbol>
+    <DispName>AFTEK LTD.</DispName>
+    <Desc>AFTEK LIMITED AFTEK INFOSYS AFTEKINFO 530707|AFTEK~EQ|</Desc>
+    <BSE>530707</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>TTEL</Symbol>
+    <DispName>AGC NETWORKS</DispName>
+    <Desc>TTEL AGC NETWORKS AGC AGCNET AVAYA GLOBAL CONNECT TATA TELCOM TATA TELECOM TATATELECM 500463 523|AGCNET~EQ|</Desc>
+    <BSE>500463</BSE>
+    <Sector>28</Sector>
+  </Company>
+  <Company>
+    <Symbol>ITAT</Symbol>
+    <DispName>AGRO TECH FOODS</DispName>
+    <Desc>AGRO TECH FOODS ITC AGRO TECH ITAT ITCAGRO 500215 30603 |ATFL~EQ|</Desc>
+    <BSE>500215</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>AHLU</Symbol>
+    <DispName>AHLUWALIA CONTRACTS</DispName>
+    <Desc>AHLU AHLUWALIA CONTRACTS INDIA LTD. AHLUWALIA CONTRACTS INDIA LIMITED 532811|AHLUCONT~EQ|</Desc>
+    <BSE>532811</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>AIAE</Symbol>
+    <DispName>AIA ENGINEERING</DispName>
+    <Desc>AIAE AIA ENGINEERING 532683|AIAENG~EQ|</Desc>
+    <BSE>532683</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>AJPH</Symbol>
+    <DispName>AJANTA PHARMA</DispName>
+    <Desc>AJPH AJANTA PHARMA AJANTPHARM 532331 1330|AJANTPHARM~EQ|</Desc>
+    <BSE>532331</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>SHPRC</Symbol>
+    <DispName>AJMERA REALTY</DispName>
+    <Desc>SHPRC AJMERA REALTY &amp; INFRA INDIA SH.PRECOATED SHREE PRECOATED SHREPRECOT 513349 -943|AJMERA~EQ|</Desc>
+    <BSE>513349</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>AKSHO</Symbol>
+    <DispName>AKSH OPTIFIBRE</DispName>
+    <Desc>AKSH OPTIFIBRE AKSH OPTIFIBRE 532351 174|AKSHOPTFBR~EQ|</Desc>
+    <BSE>532351</BSE>
+    <Sector>29</Sector>
+  </Company>
+  <Company>
+    <Symbol>ICI</Symbol>
+    <DispName>AKZO NOBEL</DispName>
+    <Desc>ICI AKZO NOBEL INDIA ICI INDIA ICI 500710 694|AKZOINDIA~EQ|</Desc>
+    <BSE>500710</BSE>
+    <Sector>18</Sector>
+  </Company>
+  <Company>
+    <Symbol>ALMC</Symbol>
+    <DispName>ALEMBIC LTD</DispName>
+    <Desc>ALMC ALEMBIC CHEM  ALEMBICLTD 506235 877|ALEMBICLTD~EQ|</Desc>
+    <BSE>506235</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>APLL</Symbol>
+    <DispName>ALEMBIC PHARMA</DispName>
+    <Desc>APLL ALEMBIC PHARMA ALEMBIC PHARMACEUTICALS ALEMBIC PHARMACEUTICALS LIMITED ALEMBIC PHARMACEUTICALS LTD. ALEMPHARM 533573|APLLTD~EQ|</Desc>
+    <BSE>533573</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>ALBK</Symbol>
+    <DispName>ALLAHABAD BANK</DispName>
+    <Desc>ALBK ALLAHABAD BANK|ALBK~EQ|</Desc>
+    <BSE>532480</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>ACGL</Symbol>
+    <DispName>ALLCARGO LOGISTIC</DispName>
+    <Desc>ACGL ALLCARGO LOGISTIC ALLCARGO LOGISTIC LIMITED ALLCARGO GLOBAL LOGISTICS 532749|ALLCARGO~EQ|</Desc>
+    <BSE>532749</BSE>
+    <Sector>103</Sector>
+  </Company>
+  <Company>
+    <Symbol>ADSL</Symbol>
+    <DispName>ALLIED DIGITAL</DispName>
+    <Desc>ADSL ALLIED DIGITAL SERVICES ALLIED DIGITAL LTD. ALLIED DIGITAL LIMITED 532875|ADSL~EQ|</Desc>
+    <BSE>532875</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>ALST</Symbol>
+    <DispName>ALLSEC TEC</DispName>
+    <Desc>ALST ALLSEC TECHNOLOGIES 532633|ALLSEC~EQ|</Desc>
+    <BSE>532633</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>ALTE</Symbol>
+    <DispName>ALOK INDUSTRIES</DispName>
+    <Desc>ALTE ALOK TEXTILE ALOK INDUSTRIES 521070 789|ALOKTEXT~EQ|</Desc>
+    <BSE>521070</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>ABBA</Symbol>
+    <DispName>ALSTOM PROJECTS</DispName>
+    <Desc>ABBA ABB ALSTHOM ALSTOM POWER PROJECTS INDIA 532309 875|AIL~EQ|</Desc>
+    <BSE>532309</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>ALSTM</Symbol>
+    <DispName>ALSTOM T&amp;D</DispName>
+    <Desc>ALSTM ALSTOM T&amp;D ALSTOM T&amp;D INDIA ALSTOM T&amp;D INDIA LIMITED ALSTOMTND AREVA T&amp;D INDIA ALSTOM T &amp; D GEC ALSTHOM GEC ALSTOM 522275|ALSTOMT&amp;D~EQ|</Desc>
+    <BSE>522275</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>AMAD</Symbol>
+    <DispName>AMAR REMEDIES</DispName>
+    <Desc>AMAR AMAD AMAR REMEDIES 532664|AMAR|</Desc>
+    <BSE>532664</BSE>
+    <Sector>10</Sector>
+  </Company>
+  <Company>
+    <Symbol>AMAR</Symbol>
+    <DispName>AMARA RAJA BATT.</DispName>
+    <Desc>AMAR AMARA RAJA B AMARA RAJA BATTERIES AMARAJABAT 500008 116|AMARAJABAT~EQ|</Desc>
+    <BSE>500008</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>ACTN</Symbol>
+    <DispName>AMBIKA COTTON</DispName>
+    <Desc>ACTN AMBICA COTTON AMBIKA COTTON MILLS AMBIKCO 531978|AMBIKCO~EQ|</Desc>
+    <BSE>531978</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>GACM</Symbol>
+    <DispName>AMBUJA CEMENT</DispName>
+    <Desc>AMBUJA CEMENTS GACM GUJARAT AMBUJA AMBUJA CEMENTS AMBUJA CEMENTS LTD 500425 87|AMBUJACEM~EQ|</Desc>
+    <BSE>500425</BSE>
+    <Sector>5</Sector>
+  </Company>
+  <Company>
+    <Symbol>AATO</Symbol>
+    <DispName>AMTEK AUTO</DispName>
+    <Desc>AATO AMTEK AUTO AMTEKAUTO 520077 277|AMTEKAUTO~EQ|</Desc>
+    <BSE>520077</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>ANRI</Symbol>
+    <DispName>ANANT RAJ LTD.</DispName>
+    <Desc>ANRI ANANT RAJ LTD. ANANT RAJ LIMITED ANANT RAJ INDUSTRIES ANANTRAJ 515055|ANANTRAJ~EQ|</Desc>
+    <BSE>515055</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>ANDBK</Symbol>
+    <DispName>ANDHRA BANK</DispName>
+    <Desc>ANDBK ANDHRA BANK  532418 900|ANDHRABANK~EQ|</Desc>
+    <BSE>532418</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>ADPE</Symbol>
+    <DispName>ANDHRA PETRO</DispName>
+    <Desc>ADPE ANDHRA PETRO ANDHRAPET 500012 2726</Desc>
+    <BSE>500012</BSE>
+    <Sector>20</Sector>
+  </Company>
+  <Company>
+    <Symbol>AGEX</Symbol>
+    <DispName>ANG INDUSTRIES</DispName>
+    <Desc>AGEX ANG INDUSTRIES ANG AUTO EXPORTS 530721|ANGIND~EQ|</Desc>
+    <BSE>530721</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>ANSH</Symbol>
+    <DispName>ANSAL HOUSING</DispName>
+    <Desc>ANSH ANSAL HOUS. ANSAL HOUSING ANSALHOUS 507828 -703|ANSALHSG~EQ|</Desc>
+    <BSE>507828</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>ANSAL</Symbol>
+    <DispName>ANSAL PROPERTIES</DispName>
+    <Desc>ANSAL ANSAL PROP. ANSAL PROPERTIES ANSALPROP 500013 |ANSALAPI~EQ|</Desc>
+    <BSE>500013</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>APAR</Symbol>
+    <DispName>APAR INDUSTRIES </DispName>
+    <Desc>APAR APAR INDUSTRIES APARIND 532259 64589|APARINDS~EQ|</Desc>
+    <BSE>532259</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>APMI</Symbol>
+    <DispName>APM INDUSTRIES</DispName>
+    <Desc>APMI APM INDUSTRIES APM INDUSTRIES LTD. 523537</Desc>
+    <BSE>523537</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>APLH</Symbol>
+    <DispName>APOLLO HOSPITALS</DispName>
+    <Desc>APLH APOLLO HOSP. APOLLO HOSPITALS APOLLOHOSP 508869 486|APOLLOHOSP~EQ|</Desc>
+    <BSE>508869</BSE>
+    <Sector>72</Sector>
+  </Company>
+  <Company>
+    <Symbol>APLO</Symbol>
+    <DispName>APOLLO TYRES</DispName>
+    <Desc>APLO APOLLO TYRES APOLLOTYRE 500877 337|APOLLOTYRE~EQ|</Desc>
+    <BSE>500877</BSE>
+    <Sector>24</Sector>
+  </Company>
+  <Company>
+    <Symbol>APTTR</Symbol>
+    <DispName>APTECH LTD</DispName>
+    <Desc>APTTR APTECH LTD. APTECH TRAINING 532475 22454|APTECHT~EQ|</Desc>
+    <BSE>532475</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>AQUA</Symbol>
+    <DispName>AQUA LOGISTICS</DispName>
+    <Desc>AQUA AQUA LOGISTICS 533159|AQUA|</Desc>
+    <BSE>533159</BSE>
+    <Sector>103</Sector>
+  </Company>
+  <Company>
+    <Symbol>ARCHI</Symbol>
+    <DispName>ARCHIES LTD</DispName>
+    <Desc>ARCHI ARCHIES GREETINGS ARCHIES LTD. 532212 |ARCHIES~EQ|</Desc>
+    <BSE>532212</BSE>
+    <Sector>10</Sector>
+  </Company>
+  <Company>
+    <Symbol>IIDF</Symbol>
+    <DispName>ARSHIYA INTL.</DispName>
+    <Desc>IIDF ARSHIYA INTL. ARSHIYA INTERNATIONAL IID FORGINGS 506074|ARSHIYA~EQ|</Desc>
+    <BSE>506074</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>AIPL</Symbol>
+    <DispName>ARSS INFRASTRUCTURE</DispName>
+    <Desc>AIPL ARSS INFRASTRUCTURE PROJECTS 533163|ARSSINFRA~EQ|</Desc>
+    <BSE>533163</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>ARMI</Symbol>
+    <DispName>ARVIND LTD.</DispName>
+    <Desc>ARMI ARVIND LTD ARVIND MILLS ARVINDMILL 500101 |ARVIND~EQ|</Desc>
+    <BSE>500101</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>ASAHI</Symbol>
+    <DispName>ASAHI INDIA</DispName>
+    <Desc>515030 ASAHI ASAHI INDIA ASAHIINDIA|ASAHIINDIA~EQ|</Desc>
+    <BSE>515030</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>ASON</Symbol>
+    <DispName>ASAHI SONGWON</DispName>
+    <Desc>ASON ASAHI SONGWON COLORS ASAHI SONGWON COLORS LIMITED 532853|ASAHISONG~EQ|</Desc>
+    <BSE>532853</BSE>
+    <Sector>18</Sector>
+  </Company>
+  <Company>
+    <Symbol>ASHAP</Symbol>
+    <DispName>ASHAPURA MINECHEM</DispName>
+    <Desc>ASHAP ASHAPURA LTD ASHAPURMIN 527001|ASHAPURMIN~EQ|</Desc>
+    <BSE>527001</BSE>
+    <Sector>83</Sector>
+  </Company>
+  <Company>
+    <Symbol>ASHG</Symbol>
+    <DispName>ASHIANA HOUSING</DispName>
+    <Desc>ASHG ASHIANA HOUSING ASHIANA HOUSING LTD. ASHIANA HOUSING LIMITED ASHIHOU 523716|ASHIANA~EQ|</Desc>
+    <BSE>523716</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>ASOK</Symbol>
+    <DispName>ASHOK LEYLAND</DispName>
+    <Desc>ASOK ASHOK LEYLAND ASHOKLEY 500477 1886|ASHOKLEY~EQ|</Desc>
+    <BSE>500477</BSE>
+    <Sector>35</Sector>
+  </Company>
+  <Company>
+    <Symbol>ASHBL</Symbol>
+    <DispName>ASHOKA BUILDCON</DispName>
+    <Desc>ASHBL ASHOKA BUILDCON ASHOKA BUILDCON LTD. ASHOKA 533271|ASHOKA~EQ|</Desc>
+    <BSE>533271</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>ASEL</Symbol>
+    <DispName>ASIAN ELECTR</DispName>
+    <Desc>ASEL ASIAN ELECTR ASIANELEC ASIAN ELECTRONICS  503940 2002|ASIANELEC|</Desc>
+    <BSE>503940</BSE>
+    <Sector>65</Sector>
+  </Company>
+  <Company>
+    <Symbol>ASHT</Symbol>
+    <DispName>ASIAN HOTELS (NORTH)</DispName>
+    <Desc>ASHT ASIAN HOTELS (NORTH) ASIAN HOTELS ASIANHOTEL 500023 1303|ASIANHOTNR~EQ|</Desc>
+    <BSE>500023</BSE>
+    <Sector>13</Sector>
+  </Company>
+  <Company>
+    <Symbol>ASPN</Symbol>
+    <DispName>ASIAN PAINTS</DispName>
+    <Desc>ASPN ASIAN PAINTS ASIANPAINT 500820 355|ASIANPAINT~EQ|</Desc>
+    <BSE>500820</BSE>
+    <Sector>18</Sector>
+  </Company>
+  <Company>
+    <Symbol>ASTM</Symbol>
+    <DispName>ASTRA MICRO</DispName>
+    <Desc>ASTM ASTRA MICRO 532493 40008|ASTRAMICRO~EQ|</Desc>
+    <BSE>532493</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>ASTRAL</Symbol>
+    <DispName>ASTRAL POLY</DispName>
+    <Desc>ASTRAL POLYTECHNIK LTD. ASTRAL POLY ASTRAL 532830|ASTRAL~EQ|</Desc>
+    <BSE>532830</BSE>
+    <Sector>22</Sector>
+  </Company>
+  <Company>
+    <Symbol>AIDL</Symbol>
+    <DispName>ASTRAZENECA PHARMA</DispName>
+    <Desc>AIDL ASTRAZENECA PHARMA ASTRA IDL ASTRAIDL 506820 824|ASTRAZEN~EQ|</Desc>
+    <BSE>506820</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>ATLT</Symbol>
+    <DispName>ATLANTA LTD</DispName>
+    <Desc>532759 ATLANTA LTD ATLT|ATLANTA~EQ|</Desc>
+    <BSE>532759</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>ATCY</Symbol>
+    <DispName>ATLAS CYCLE (HAR)</DispName>
+    <Desc>ATCY ATLAS CYCLE ATLASCYCLE HARYANA 505029 1777|ATLASCYCLE~EQ|</Desc>
+    <BSE>505029</BSE>
+    <Sector>35</Sector>
+  </Company>
+  <Company>
+    <Symbol>ATAO</Symbol>
+    <DispName>ATUL AUTO</DispName>
+    <Desc>ATAO ATUL AUTO 531795|ATULAUTO~EQ|</Desc>
+    <BSE>531795</BSE>
+    <Sector>35</Sector>
+  </Company>
+  <Company>
+    <Symbol>ATUL</Symbol>
+    <DispName>ATUL LTD.</DispName>
+    <Desc>ATUL ATUL LTD. ATULPROD 500027 1954|ATUL~EQ|</Desc>
+    <BSE>500027</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>APSL</Symbol>
+    <DispName>AURIONPRO SOLN</DispName>
+    <Desc>APSL AURIONPRO SOLN 532668|AURIONPRO~EQ|</Desc>
+    <BSE>532668</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>AUBD</Symbol>
+    <DispName>AUROBINDO PHARMA</DispName>
+    <Desc>AUBD AUROBINDO PHARMA AUROPHARMA 524804 199|AUROPHARMA~EQ|</Desc>
+    <BSE>524804</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>ASEG</Symbol>
+    <DispName>AUSTIN ENGG.</DispName>
+    <Desc>ASEG AUSTIN ENGG. 22005</Desc>
+    <BSE>522005</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>AUCG</Symbol>
+    <DispName>AUTO CORP. OF GOA</DispName>
+    <Desc>AUCG AUTOMOBILE CORPORATION OF GOA AUTO 505036 -716</Desc>
+    <BSE>505036</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>AUTOL</Symbol>
+    <DispName>AUTOLINE INDUST.</DispName>
+    <Desc>AUTOLINE INDUSTRIES AUTOLINE INDUSTRIES LIMITED AUTOLINE INDUSTRIES LTD. 532797 AUTOL|AUTOIND~EQ|</Desc>
+    <BSE>532797</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>AUAX</Symbol>
+    <DispName>AUTOMOTIVE AXLES</DispName>
+    <Desc>AUAX AUTOMOTIVE AXLES AUTOAXLES 505010 1119|AUTOAXLES~EQ|</Desc>
+    <BSE>505010</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>AVFD</Symbol>
+    <DispName>AVANTI FEEDS</DispName>
+    <Desc>AVFD AVANTI FEEDS LIMITED AVANTI FEEDS LTD. 512573|AVANTIFEED~EQ|</Desc>
+    <BSE>512573</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>UTIB</Symbol>
+    <DispName>AXIS BANK</DispName>
+    <Desc>AXIS BANK UTIB UTI BANK LTD UTIBANK 532215 |AXISBANK~EQ|</Desc>
+    <BSE>532215</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>BAJAU</Symbol>
+    <DispName>BAJAJ AUTO</DispName>
+    <Desc>BAJAU BAJAJ AUTO LTD BAJAJ-AUTO 532977|BAJAJ-AUTO~EQ|</Desc>
+    <BSE>532977</BSE>
+    <Sector>35</Sector>
+  </Company>
+  <Company>
+    <Symbol>BAJCL</Symbol>
+    <DispName>BAJAJ CORP</DispName>
+    <Desc>BAJCL BAJAJ CORP LTD BAJAJ CORP 533229|BAJAJCORP~EQ|</Desc>
+    <BSE>533229</BSE>
+    <Sector>10</Sector>
+  </Company>
+  <Company>
+    <Symbol>BJEL</Symbol>
+    <DispName>BAJAJ ELECTRICALS</DispName>
+    <Desc>BJEL BAJAJ ELECTRICALS 500031|BAJAJELEC~EQ|</Desc>
+    <BSE>500031</BSE>
+    <Sector>9</Sector>
+  </Company>
+  <Company>
+    <Symbol>BJFN</Symbol>
+    <DispName>BAJAJ FINANCE</DispName>
+    <Desc>BJFN BAJAJ FINANCE BAJAJ FINANCE LTD. BAJAJ AUTO FINANCE BAJAUTOFIN 500034 1913|BAJFINANCE~EQ|</Desc>
+    <BSE>500034</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>BAFIN</Symbol>
+    <DispName>BAJAJ FINSERV</DispName>
+    <Desc>BAFIN BAJAJ FINSERV LTD BAJAJFINSV 532978|BAJAJFINSV~EQ|</Desc>
+    <BSE>532978</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>BJHN</Symbol>
+    <DispName>BAJAJ HIND. SUGAR</DispName>
+    <Desc>BJHN BAJAJ HINDUSTHAN SUGAR BAJAJ HINDUSTHAN BABAJHINDUSTAN BAJAJHIND 500032|BAJAJHIND~EQ|</Desc>
+    <BSE>500032</BSE>
+    <Sector>27</Sector>
+  </Company>
+  <Company>
+    <Symbol>BALAJI</Symbol>
+    <DispName>BALAJI TELEFILMS</DispName>
+    <Desc>BALAJI TELEFILMS BALAJI TELEFILMS 532382 70|BALAJITELE~EQ|</Desc>
+    <BSE>532382</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>BLKH</Symbol>
+    <DispName>BALKRISHNA IND</DispName>
+    <Desc>BLKH BALKRISHNA IND BALKRISIND BALKRISHNA INDUSTRIES LIMITED 502355 -722|BALKRISIND~EQ|</Desc>
+    <BSE>502355</BSE>
+    <Sector>24</Sector>
+  </Company>
+  <Company>
+    <Symbol>BILT</Symbol>
+    <DispName>BALLARPUR INDUSTRIES</DispName>
+    <Desc>BILT BALLARPUR INDUSTRIES BILT BILT 500102|BALLARPUR~EQ|</Desc>
+    <BSE>500102</BSE>
+    <Sector>19</Sector>
+  </Company>
+  <Company>
+    <Symbol>BALW</Symbol>
+    <DispName>BALMER LAWRIE</DispName>
+    <Desc>BALW BALMER LAWRIE BALMLAWRIE 523319 1467|BALMLAWRIE~EQ|</Desc>
+    <BSE>523319</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>CHINI</Symbol>
+    <DispName>BALRAMPUR CHINI</DispName>
+    <Desc>CHINI BALRAMPUR CHINI MILLS BALRAMCHIN 500038 581|BALRAMCHIN~EQ|</Desc>
+    <BSE>500038</BSE>
+    <Sector>27</Sector>
+  </Company>
+  <Company>
+    <Symbol>BPRD</Symbol>
+    <DispName>BANCO PROD.</DispName>
+    <Desc>BPRD BANCO PROD. BANCOPROD 500039 2391|BANCOINDIA~EQ|</Desc>
+    <BSE>500039</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>BOB</Symbol>
+    <DispName>BANK OF BARODA</DispName>
+    <Desc>BOB BANK OF BARODA BOB BANKBARODA 532134 278|BANKBARODA~EQ|</Desc>
+    <BSE>532134</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>BOI</Symbol>
+    <DispName>BANK OF INDIA</DispName>
+    <Desc>BOI BANK OF INDIA BANKINDIA BOI 532149 396|BANKINDIA~EQ|</Desc>
+    <BSE>532149</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>BKMAH</Symbol>
+    <DispName>BANK OF MAHARASHTRA</DispName>
+    <Desc>BKMAH BANK OF MAHARASHTRA 532525 33983|MAHABANK~EQ|</Desc>
+    <BSE>532525</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>BAAN</Symbol>
+    <DispName>BANNARI AMMAN</DispName>
+    <Desc>BAAN BANNARI AMMAN SUGARS BANNARI AMMAN SUGARS LTD. BANARISUG BANNARIAM 500041|BANARISUG~EQ|</Desc>
+    <BSE>500041</BSE>
+    <Sector>27</Sector>
+  </Company>
+  <Company>
+    <Symbol>BASX</Symbol>
+    <DispName>BANSW.SYNTEX</DispName>
+    <Desc>BASX BANSW.SYNTEX BANSWARA SYNTEX 503722 |BANSWRAS~EQ|</Desc>
+    <BSE>503722</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>BART</Symbol>
+    <DispName>BARTRONICS INDIA</DispName>
+    <Desc>BART BARTRONICS INDIA BARTRONICS INDIA LIMITED 532694|BARTRONICS~EQ|</Desc>
+    <BSE>532694</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>BASF</Symbol>
+    <DispName>BASF INDIA</DispName>
+    <Desc>BASF BASF INDIA BASF 500042 667|BASF~EQ|</Desc>
+    <BSE>500042</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>BATA</Symbol>
+    <DispName>BATA INDIA</DispName>
+    <Desc>BATA BATA INDIA BATAINDIA 500043 335|BATAINDIA~EQ|</Desc>
+    <BSE>500043</BSE>
+    <Sector>10</Sector>
+  </Company>
+  <Company>
+    <Symbol>BTBL</Symbol>
+    <DispName>BATLIBOI LTD</DispName>
+    <Desc>BTBL BATLIBOI LTD 522004|BATLIBOI|</Desc>
+    <BSE>522004</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>BAYR</Symbol>
+    <DispName>BAYER CROPSCIENCE</DispName>
+    <Desc>BAYR BAYER CROP SCIENCE BAYER CROPSCIENCE LTD. 506285|BAYERCROP~EQ|</Desc>
+    <BSE>506285</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>BEML</Symbol>
+    <DispName>BEML LTD.</DispName>
+    <Desc>BEML BEML LIMITED BEML LTD. BHARAT EARTH MOVERS LIMITED 500048|BEML~EQ|</Desc>
+    <BSE>500048</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>BRGR</Symbol>
+    <DispName>BERGER PAINTS</DispName>
+    <Desc>BRGR BERGER PAINT BERGEPAINT 509480 1091|BERGEPAINT~EQ|</Desc>
+    <BSE>509480</BSE>
+    <Sector>18</Sector>
+  </Company>
+  <Company>
+    <Symbol>BFUL</Symbol>
+    <DispName>BF UTILITIES</DispName>
+    <Desc>BFUL BF UTILITIES BFUL BFUTIL 532430|BFUTILITIE~EQ|</Desc>
+    <BSE>532430</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>BGRE</Symbol>
+    <DispName>BGR ENERGY</DispName>
+    <Desc>BGRE BGR ENERGY SYSTEMS 532930|BGRENERGY~EQ|</Desc>
+    <BSE>532930</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>BYNG</Symbol>
+    <DispName>BHAGYANAGAR IND</DispName>
+    <Desc>BYNG BHAGYANAGAR INDIA LTD. BHAGYA NAGAR 512296 1907|BHAGYNAGAR~EQ|</Desc>
+    <BSE>512296</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>BHBJ</Symbol>
+    <DispName>BHARAT BIJLEE</DispName>
+    <Desc>BHBJ BHARAT BIJLEE 503960 |BBL~EQ|</Desc>
+    <BSE>503960</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>BHEC</Symbol>
+    <DispName>BHARAT ELECTRONICS</DispName>
+    <Desc>BHEC BHARAT ELECTRONICS BHARAT ELECTRICALS BEL 500049|BEL~EQ|</Desc>
+    <BSE>500049</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>BFRG</Symbol>
+    <DispName>BHARAT FORGE</DispName>
+    <Desc>BFRG BHARAT FORGE BHARATFORG 500493 423|BHARATFORG~EQ|</Desc>
+    <BSE>500493</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>BSHIP</Symbol>
+    <DispName>BHARATI DEFENCE AND INFRA</DispName>
+    <Desc>BSHIP BHARATI BHARTI SHIPYARD BHARATI DEFENCE &amp; INFRASTRUCTURE BHARATI DEFENSE AND INFRASTRUCTURE INFRA 532609|BHARATIDIL~EQ|</Desc>
+    <BSE>532609</BSE>
+    <Sector>25</Sector>
+  </Company>
+  <Company>
+    <Symbol>BTVL</Symbol>
+    <DispName>BHARTI AIRTEL</DispName>
+    <Desc>BTVL BHARTI AIRTEL TELE VENTURES TELEVENTURES BHARTI 532454 20651|BHARTIARTL~EQ|</Desc>
+    <BSE>532454</BSE>
+    <Sector>28</Sector>
+  </Company>
+  <Company>
+    <Symbol>BHIL</Symbol>
+    <DispName>BHARTI INFRATEL</DispName>
+    <Desc>BHARTI BHIL BHARTI INFRATEL BHARTI INFRATEL LIMITED BHARTI INFRATEL LTD. INFRATEL 534816|INFRATEL~EQ|</Desc>
+    <BSE>534816</BSE>
+    <Sector>28</Sector>
+  </Company>
+  <Company>
+    <Symbol>BHEL</Symbol>
+    <DispName>BHEL</DispName>
+    <Desc>BHEL BHARAT HEAVY ELECTRICALS LIMITED BHEL BHEL 500103 60|BHEL~EQ|</Desc>
+    <BSE>500103</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>BHSN</Symbol>
+    <DispName>BHUSHAN STEEL</DispName>
+    <Desc>BHSN BHUSHAN STEEL LTD. 500055 |BHUSANSTL~EQ|</Desc>
+    <BSE>500055</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>BIIN</Symbol>
+    <DispName>BILCARE LTD.</DispName>
+    <Desc>BIIN BILCARE LTD. BHANDARI IND 526853</Desc>
+    <BSE>526853</BSE>
+    <Sector>17</Sector>
+  </Company>
+  <Company>
+    <Symbol>BINA</Symbol>
+    <DispName>BINANI INDUSTRIES</DispName>
+    <Desc>BINA BINANI INDUSTRIES BINANIZINC 500059 807|BINANIIND~EQ|</Desc>
+    <BSE>500059</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>BICN</Symbol>
+    <DispName>BIOCON LTD</DispName>
+    <Desc>BICN BIOCON LIMITED 532523|BIOCON~EQ|</Desc>
+    <BSE>532523</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>BCORP</Symbol>
+    <DispName>BIRLA CORP</DispName>
+    <Desc>BIRLA BCORP BIRLA CORPORATION BIRLAJUTE 500335 631|BIRLACORPN~EQ|</Desc>
+    <BSE>500335</BSE>
+    <Sector>5</Sector>
+  </Company>
+  <Company>
+    <Symbol>BERC</Symbol>
+    <DispName>BIRLA ERICSON</DispName>
+    <Desc>BIRLA BERC BIRLA ERICSON BIRLAERIC 500060 945|BIRLAERIC~EQ|</Desc>
+    <BSE>500060</BSE>
+    <Sector>29</Sector>
+  </Company>
+  <Company>
+    <Symbol>BLKS</Symbol>
+    <DispName>BL KASHYAP &amp; SONS</DispName>
+    <Desc>BLKS BLKASHYAP B. L. KASHYAP &amp; SONS BL KASHYAP  B L KASHYAP 532719|BLKASHYAP~EQ|</Desc>
+    <BSE>532719</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>BLDE</Symbol>
+    <DispName>BLUE DART EXPRESS</DispName>
+    <Desc>BLDE BLUE DART EX BLUEDART 526612 690|BLUEDART~EQ|</Desc>
+    <BSE>526612</BSE>
+    <Sector>103</Sector>
+  </Company>
+  <Company>
+    <Symbol>BSTAR</Symbol>
+    <DispName>BLUE STAR</DispName>
+    <Desc>BSTAR BLUE STAR  BLUESTARCO 500067 1575|BLUESTARCO~EQ|</Desc>
+    <BSE>500067</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>BDYN</Symbol>
+    <DispName>BOMBAY DYEING</DispName>
+    <Desc>BDYN BOMBAY DYEING BOMDYEING 500020 216|BOMDYEING~EQ|</Desc>
+    <BSE>500020</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>BRFL</Symbol>
+    <DispName>BOMBAY RAYON F</DispName>
+    <Desc>BRFL BOMBAY RAYON FASHIONS 532678|BRFL~EQ|</Desc>
+    <BSE>532678</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>MICO</Symbol>
+    <DispName>BOSCH LTD</DispName>
+    <Desc>MICO BOSCH LIMITED BOSCHLTD MOTOR INDUSTRIES COMPANY MICO 500530 804|BOSCHLTD~EQ|</Desc>
+    <BSE>500530</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>BPCL</Symbol>
+    <DispName>BPCL</DispName>
+    <Desc>BPCL BHARAT PETRO BPCL BPCL 500547 108|BPCL~EQ|</Desc>
+    <BSE>500547</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>BRGD</Symbol>
+    <DispName>BRIGADE ENTERPRISES</DispName>
+    <Desc>BRGD BRIGADE ENTR. BRIGADE ENTERPRISES 532929|BRIGADE~EQ|</Desc>
+    <BSE>532929</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>BRIT</Symbol>
+    <DispName>BRITANNIA</DispName>
+    <Desc>BRIT BRITANNIA IND BRITANNIA BRITTANNIA BRITTANIA 500825 321|BRITANNIA~EQ|</Desc>
+    <BSE>500825</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>BSEL</Symbol>
+    <DispName>BSEL INFRASTRUCTURE</DispName>
+    <Desc>INFRA BSEL INFRASTRUCTURE BSEL INFORM. 532123 1544|BSELINFRA~EQ|</Desc>
+    <BSE>532123</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>CCON</Symbol>
+    <DispName>C &amp; C CONSTRUCTIONS</DispName>
+    <Desc>CCON C &amp; C CONSTRUCTIONS C&amp;C CONSTRUCTION C &amp; C CONSTRUCTIONS LIMITED 532813|CANDC~EQ|</Desc>
+    <BSE>532813</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>CADIL</Symbol>
+    <DispName>CADILA HEALTHCARE</DispName>
+    <Desc>CADIL CADILA HEALTHCARE CADILAHC 532321 285|CADILAHC~EQ|</Desc>
+    <BSE>532321</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>CAIRN</Symbol>
+    <DispName>CAIRN INDIA</DispName>
+    <Desc>CAIRN INDIA 532792 CAIRN|CAIRN~EQ|</Desc>
+    <BSE>532792</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>CNRA</Symbol>
+    <DispName>CANARA BANK</DispName>
+    <Desc>CNRA  CANARA BANK 532483 30077|CANBK~EQ|</Desc>
+    <BSE>532483</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>FCH</Symbol>
+    <DispName>CAPITAL FIRST</DispName>
+    <Desc>FCH CAPITAL FIRST CAPITAL FIRST LIMITED CAPITAL FIRST LTD. FUTURE CAPITAL HOLDINGS 532938|CAPF~EQ|</Desc>
+    <BSE>532938</BSE>
+    <Sector>14</Sector>
+  </Company>
+  <Company>
+    <Symbol>CRBM</Symbol>
+    <DispName>CARBORUNDUM UNIVERSAL</DispName>
+    <Desc>CRBM CARBORUNDUM CARBORUNIV 513375 1520|CARBORUNIV~EQ|</Desc>
+    <BSE>513375</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>CARE</Symbol>
+    <DispName>CARE RATING</DispName>
+    <Desc>CARE CREDIT ANALYSIS CREDIT ANALYSIS &amp; RESEARCH CREDIT ANALYSIS &amp; RESEARCH LIMITED CARERATING 534804|CARERATING~EQ|</Desc>
+    <BSE>534804</BSE>
+    <Sector>107</Sector>
+  </Company>
+  <Company>
+    <Symbol>CPIL</Symbol>
+    <DispName>CAREER POINT</DispName>
+    <Desc>CPIL CAREER POINT LTD. CAREER POINT LIMITED CAREER POINT INFOSYSTEMS CAREER POINT INFOSYSTEMS LTD. CAREE POINT CAREER 533260|CAREERP~EQ|</Desc>
+    <BSE>533260</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>AIDA</Symbol>
+    <DispName>CASTEX TECHNOLOGIES</DispName>
+    <Desc>AIDA CASTEX TECHNOLOGIES CASTEX TECHNOLOGIES LTD CASTEX TECHNOLOGIES LIMITED 532282|CASTEXTECH~EQ|</Desc>
+    <BSE>532282</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>CAST</Symbol>
+    <DispName>CASTROL INDIA</DispName>
+    <Desc>CAST CASTROL INDIA LIMITED CASTROL INDIA LTD. CASTROL 500870 153|CASTROLIND~EQ|</Desc>
+    <BSE>500870</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>CHCM</Symbol>
+    <DispName>CCL INTERNATIONAL</DispName>
+    <Desc>CHCM CCL INTERNATIONAL CHIRAWA CEM. 531900</Desc>
+    <BSE>531900</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>CEAT</Symbol>
+    <DispName>CEAT LTD.</DispName>
+    <Desc>CEAT CEAT LIMITED CEAT 500878 714|CEATLTD~EQ|</Desc>
+    <BSE>500878</BSE>
+    <Sector>24</Sector>
+  </Company>
+  <Company>
+    <Symbol>CENKA</Symbol>
+    <DispName>CENTURY ENKA</DispName>
+    <Desc>CENKA CENTURY ENKA CENTENKA 500280 746|CENTENKA~EQ|</Desc>
+    <BSE>500280</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>CNPLY</Symbol>
+    <DispName>CENTURY PLYBOARDS</DispName>
+    <Desc>CNPLY CENTURY PLYBOARDS CENTURYPLY 532548|CENTURYPLY~EQ|</Desc>
+    <BSE>532548</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>CENT</Symbol>
+    <DispName>CENTURY TEXTILES</DispName>
+    <Desc>CENT CENTURY CENTURY TEXTILES CENTURYTEX 500040 197|CENTURYTEX~EQ|</Desc>
+    <BSE>500040</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>CESC</Symbol>
+    <DispName>CESC LTD</DispName>
+    <Desc>CESC CESC LTD. CESC 500084 858|CESC~EQ|</Desc>
+    <BSE>500084</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>CHMBF</Symbol>
+    <DispName>CHAMBAL FERTILISERS</DispName>
+    <Desc>CHMBF CHAMBAL FERTILISERS CHAMBAL FERTILIZERS CHAMBLFERT 500085 716|CHAMBLFERT~EQ|</Desc>
+    <BSE>500085</BSE>
+    <Sector>36</Sector>
+  </Company>
+  <Company>
+    <Symbol>MDRF</Symbol>
+    <DispName>CHENNAI PETROLEUM</DispName>
+    <Desc>MDRF CHENNAI PETROLEUM MADRAS REFINERIES CHENNAI PETROLEUM CORPORATION FERROALLOY CPCL 500110 495|CHENNPETRO~EQ|</Desc>
+    <BSE>500110</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>CHETI</Symbol>
+    <DispName>CHETTINAD CEMENT</DispName>
+    <Desc>CHETI CHETTINAD CEMENT CHETINAD CEM CHETNADCEM 822|CHETTINAD|</Desc>
+    <BSE>590001</BSE>
+    <Sector>5</Sector>
+  </Company>
+  <Company>
+    <Symbol>CHIF</Symbol>
+    <DispName>CHOLAMANDALAM INVEST.</DispName>
+    <Desc>CHIF CHOLAMANDALAM INVESTMENT &amp; FINANCE CHOLA.INV&amp;FI CHOLAINV 511243 1685|CHOLAFIN~EQ|</Desc>
+    <BSE>511243</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>CNMX</Symbol>
+    <DispName>CINELINE INDIA</DispName>
+    <Desc>CNMX CINELINE INDIA LIMITED CINELINE INDIA LTD. CINEMAX CINEMAX PROPERTIES LIMITED CINEMAX PROPERTIES LTD. CINEMAX PROPERTIES CNMX 532807|CINELINE~EQ|</Desc>
+    <BSE>532807</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>CIPL</Symbol>
+    <DispName>CIPLA</DispName>
+    <Desc>CIPL CIPLA CIPLA 500087 71|CIPLA~EQ|</Desc>
+    <BSE>500087</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>CTUN</Symbol>
+    <DispName>CITY UNION BANK</DispName>
+    <Desc>CTUN CITY UNION BANK CUB CITY UNION BANK LIMITED 532210|CUB~EQ|</Desc>
+    <BSE>532210</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>COLR</Symbol>
+    <DispName>CLARIANT CHEMICALS</DispName>
+    <Desc>COLR CLARIANT CHEMICALS (INDIA)  LTD 506390 1037|CLNINDIA~EQ|</Desc>
+    <BSE>506390</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>CMC</Symbol>
+    <DispName>CMC LTD.</DispName>
+    <Desc>CMC CMC LTD. CMC 517326 201|CMC~EQ|</Desc>
+    <BSE>517326</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>COIND</Symbol>
+    <DispName>COAL INDIA</DispName>
+    <Desc>COIND COAL INDIA COAL INDIA LTD. CIL COALINDIA COAL 533278|COALINDIA~EQ|</Desc>
+    <BSE>533278</BSE>
+    <Sector>83</Sector>
+  </Company>
+  <Company>
+    <Symbol>COLG</Symbol>
+    <DispName>COLGATE</DispName>
+    <Desc>COLG COLGATE COLGATE 500830 214|COLPAL~EQ|</Desc>
+    <BSE>500830</BSE>
+    <Sector>10</Sector>
+  </Company>
+  <Company>
+    <Symbol>BECOM</Symbol>
+    <DispName>COMMEX TECHNOLOGY</DispName>
+    <Desc>BECOM COMMEX TECHNOLOGY COMMEX TECHNOLOGY LIMITED COMMEX TECHNOLOGY LTD. STARMAX INFOMEDIA IT PEOPLE BALWAS E-COM 532342</Desc>
+    <BSE>532342</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>CMPD</Symbol>
+    <DispName>COMPACT DISC</DispName>
+    <Desc>CMPD COMPACT DISC COMPACDISC COMPACT DISC INDIA LIMITED 526141</Desc>
+    <BSE>526141</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>CCORP</Symbol>
+    <DispName>CONTAINER CORP</DispName>
+    <Desc>CCORP CONTAINER CORPORATION CONCOR 531344 685|CONCOR~EQ|</Desc>
+    <BSE>531344</BSE>
+    <Sector>103</Sector>
+  </Company>
+  <Company>
+    <Symbol>CNPR</Symbol>
+    <DispName>CONTROL PRINT</DispName>
+    <Desc>CNPR CONTROL PRINT 522295 INE663B01015|CONTROLPR~EQ|</Desc>
+    <BSE>522295</BSE>
+    <Sector>17</Sector>
+  </Company>
+  <Company>
+    <Symbol>AKLN</Symbol>
+    <DispName>CORE EDUCATION</DispName>
+    <Desc>AKLN CORE EDUCATION &amp; TECHNOLOGIES CORE EDUCATION AKHIL.TEXPORTS CORE PROJECTS 512199|COREEDUTEC~EQ|</Desc>
+    <BSE>512199</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>CFRT</Symbol>
+    <DispName>COROMANDEL INTERN.</DispName>
+    <Desc>CFRT COROMANDEL INTERNATIONAL COROMANDEL FERTILISERS FERTILIZERS COROMNFERT 506395 1189|COROMANDEL~EQ|</Desc>
+    <BSE>506395</BSE>
+    <Sector>36</Sector>
+  </Company>
+  <Company>
+    <Symbol>CRBK</Symbol>
+    <DispName>CORPORATION BANK</DispName>
+    <Desc>CRBK CORPORATION BANK CORPBANK 532179 250|CORPBANK~EQ|</Desc>
+    <BSE>532179</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>CCLB</Symbol>
+    <DispName>COUNTRY CLUB</DispName>
+    <Desc>CCLB COUNTRY CLUB HOSPITALITY &amp; HOLIDAYS COUNTRY CLUB CCHHL 526550|CCHHL~EQ|</Desc>
+    <BSE>526550</BSE>
+    <Sector>13</Sector>
+  </Company>
+  <Company>
+    <Symbol>CAKIL</Symbol>
+    <DispName>COX &amp; KINGS</DispName>
+    <Desc>CAKIL COX &amp; KINGS COX &amp; KINGS LTD COX &amp; KINGS (INDIA) LTD. 533144|COX&amp;KINGS~EQ|</Desc>
+    <BSE>533144</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>EDMR</Symbol>
+    <DispName>CRANES SOFTWARE</DispName>
+    <Desc>EDMR CRANES SOFTWARE EIDER COMMER 512093 38856|CRANESSOFT|</Desc>
+    <BSE>512093</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>SRYS</Symbol>
+    <DispName>CREST VENTURES</DispName>
+    <Desc>SRYS CREST VENTURES LIMITED CREST VENTURES LTD. SHARYANS RESOURCES LTD SHARYANRES SHARRESLTD 511413|CREST~EQ|</Desc>
+    <BSE>511413</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>CRISIL</Symbol>
+    <DispName>CRISIL</DispName>
+    <Desc>CRISIL CREDIT RATING CRISIL CRISIL 500092 557|CRISIL~EQ|</Desc>
+    <BSE>500092</BSE>
+    <Sector>107</Sector>
+  </Company>
+  <Company>
+    <Symbol>CRGR</Symbol>
+    <DispName>CROMPTON GREAVES</DispName>
+    <Desc>CRGR CROMPTON GREAVES CROMPGREAV 500093 459|CROMPGREAV~EQ|</Desc>
+    <BSE>500093</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>CUMM</Symbol>
+    <DispName>CUMMINS INDIA</DispName>
+    <Desc>CUMM CUMMINS INDIA KIRLOSKCUM 500480 315|CUMMINSIND~EQ|</Desc>
+    <BSE>500480</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>INTE</Symbol>
+    <DispName>CYIENT LTD</DispName>
+    <Desc>INTE CYIENT LTD. CYIENT LIMITED CYIENT INFOTECH ENTERPRISES INFOTECENT 532175 387|CYIENT~EQ|</Desc>
+    <BSE>532175</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>DBCL</Symbol>
+    <DispName>D. B. CORP</DispName>
+    <Desc>DBCL D. B. CORP D B CORP DB CORP DBCORP 533151|DBCORP~EQ|</Desc>
+    <BSE>533151</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>DABR</Symbol>
+    <DispName>DABUR</DispName>
+    <Desc>DABR DABUR INDIA DABUR 500096 262|DABUR~EQ|</Desc>
+    <BSE>500096</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>DBEL</Symbol>
+    <DispName>DALMIA BHARAT</DispName>
+    <Desc>DBEL DALMIA BHARAT LIMITED DALMIA BHARAT DALMIA BHARAT ENTERPRISES DALMIA BHARAT ENTERPRISES LTD. DALMIABHA 533309|DALMIABHA~EQ|</Desc>
+    <BSE>533309</BSE>
+    <Sector>5</Sector>
+  </Company>
+  <Company>
+    <Symbol>DLCN</Symbol>
+    <DispName>DALMIA BHARAT SUG.</DispName>
+    <Desc>DLCN DALMIA BHARAT SUGAR &amp; INDUSTRIES DALMIA BHARAT SUGAR &amp; INDUSTRIES LTD DALMIA BHARAT SUGAR DALMIA CEMENT DALMIACEM 500097|DALMIASUG~EQ|</Desc>
+    <BSE>500097</BSE>
+    <Sector>27</Sector>
+  </Company>
+  <Company>
+    <Symbol>DBRL</Symbol>
+    <DispName>DB REALTY</DispName>
+    <Desc>DBRL D B REALTY DB REALTY 533160 |DBREALTY~EQ|</Desc>
+    <BSE>533160</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>DCBL</Symbol>
+    <DispName>DCB BANK</DispName>
+    <Desc>DCBL DCB BANK LIMITED DCB BANK LTD. DEVELOPMENT CREDIT BANK 532772 DCBL|DCBBANK~EQ|</Desc>
+    <BSE>532772</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>DCMC</Symbol>
+    <DispName>DCM SHRIRAM</DispName>
+    <Desc>DCMC DCM SHRIRAM LIMITED DCM SHRIRAM LTD. DCM SHRIRAM CONSOLIDATED DCMSRMCONS 523367 893|DCMSHRIRAM~EQ|</Desc>
+    <BSE>523367</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>DECH</Symbol>
+    <DispName>DECCAN CHRONICLE</DispName>
+    <Desc>DECH DECCAN CHRONICLE HOLDINGS LTD DECCAN CHRONICLE 532608 43348|DCHL|</Desc>
+    <BSE>532608</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>DEFR</Symbol>
+    <DispName>DEEPAK FERTILISERS</DispName>
+    <Desc>DEFR DEEPAK FERTILISERS DEEPAKFERT DEEPAK FERTILISERS &amp; PETROCHEMICALS CORPORATION LIMITED 500645|DEEPAKFERT~EQ|</Desc>
+    <BSE>500645</BSE>
+    <Sector>36</Sector>
+  </Company>
+  <Company>
+    <Symbol>ARWEB</Symbol>
+    <DispName>DELTA CORP.</DispName>
+    <Desc>ARWEB DELTA CORPORATION ARROW WEBTEX LTD. 532848|DELTACORP~EQ|</Desc>
+    <BSE>532848</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>DEN</Symbol>
+    <DispName>DEN NETWORKS</DispName>
+    <Desc>DEN DEN NETWORKS 533137 |DEN~EQ|</Desc>
+    <BSE>533137</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>DENA</Symbol>
+    <DispName>DENA BANK</DispName>
+    <Desc>DENA DENA BANK DENABANK 532121 1345|DENABANK~EQ|</Desc>
+    <BSE>532121</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>DNSI</Symbol>
+    <DispName>DENSO INDIA</DispName>
+    <Desc>DNSI DENSO INDIA NIPPONDENS 520022|DENSO|</Desc>
+    <BSE>520022</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>DWHF</Symbol>
+    <DispName>DEWAN H.FIN.</DispName>
+    <Desc>DWHF DEWAN HOUSING FINANCE DEWANHOUS 511072 3303|DHFL~EQ|</Desc>
+    <BSE>511072</BSE>
+    <Sector>14</Sector>
+  </Company>
+  <Company>
+    <Symbol>DHBN</Symbol>
+    <DispName>DHANLAXMI BANK</DispName>
+    <Desc>DHBN DHANLAXMI BANK DHANALAKSHMI DHANBANK DHANLAXMI BANK LIMITED 532180|DHANBANK~EQ|</Desc>
+    <BSE>532180</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>GRFS</Symbol>
+    <DispName>DISA INDIA</DispName>
+    <Desc>GRFS DISA INDIA DISA GEORG FISCHER GEORGFISCH 500068 -1458</Desc>
+    <BSE>500068</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>DISH</Symbol>
+    <DispName>DISH TV</DispName>
+    <Desc>DISH TV  INDIA LTD DISH TV DISH 532839 58730 |DISHTV~EQ|</Desc>
+    <BSE>532839</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>DHPH</Symbol>
+    <DispName>DISHMAN PHARMA</DispName>
+    <Desc>DHPH DISHMAN PHARMA 532526 34698|DISHMAN~EQ|</Desc>
+    <BSE>532526</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>DIVI</Symbol>
+    <DispName>DIVIS LABORATORIES</DispName>
+    <Desc>DIVI DIVIS LABORATORIES DIVIS LABORATIES 532488|DIVISLAB~EQ|</Desc>
+    <BSE>532488</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>DLFL</Symbol>
+    <DispName>DLF LTD</DispName>
+    <Desc>DLFL DLF LIMITED 532868|DLF~EQ|</Desc>
+    <BSE>532868</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>ALCL</Symbol>
+    <DispName>DR. DATSONS LABS</DispName>
+    <Desc>ALCL DR. DATSONS LABS LIMITED DR. DATSONS LABS LTD. AANJANEYA LIFECAREA ANJANEYA LIFECARE LTD. 533412|DRDATSONS~EQ|</Desc>
+    <BSE>533412</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>REDY</Symbol>
+    <DispName>DR. REDDYS LAB</DispName>
+    <Desc>REDY DR. REDDYS LAB DRREDDY RDY DR REDDYS REDDYS DR. REDDY DRREDDY DR.REDDY`S 500124|DRREDDY~EQ|</Desc>
+    <BSE>500124</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>DGCR</Symbol>
+    <DispName>DREDGING CORP</DispName>
+    <Desc>DGCR DREDGING COR 523618 24988|DREDGECORP~EQ|</Desc>
+    <BSE>523618</BSE>
+    <Sector>25</Sector>
+  </Company>
+  <Company>
+    <Symbol>DSKL</Symbol>
+    <DispName>DS KULKARNI</DispName>
+    <Desc>DSKL DS.KULKARNI DSKULKARNI D S KULKARNI 523890 4821|DSKULKARNI~EQ|</Desc>
+    <BSE>523890</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>EID</Symbol>
+    <DispName>E.I.D. PARRY</DispName>
+    <Desc>EID E.I.D PARRY E I D EID EIDPARRY 500125 632|EIDPARRY~EQ|</Desc>
+    <BSE>500125</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>ESILK</Symbol>
+    <DispName>EASTERN SILK IND</DispName>
+    <Desc>ESILK EASTERN SILK IND 590022 3361|EASTSILK~EQ|</Desc>
+    <BSE>590022</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>EASUN</Symbol>
+    <DispName>EASUN REYROLLE</DispName>
+    <Desc>EASUN EASUN REYROLLE EASUNREYRL 532751|EASUNREYRL~EQ|</Desc>
+    <BSE>532751</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>ECEI</Symbol>
+    <DispName>ECE INDUSTRIES</DispName>
+    <Desc>ECEI ECE INDUSTRIES 532491|ECEIND~EQ|</Desc>
+    <BSE>532491</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>ECXS</Symbol>
+    <DispName>ECLERX SERVICES</DispName>
+    <Desc>ECXS ECLERX SERVICES LTD ECLERX SERVICES LIMITED 532927|ECLERX~EQ|</Desc>
+    <BSE>532927</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>EDWS</Symbol>
+    <DispName>EDELWEISS FINANCIAL</DispName>
+    <Desc>EDWS EDELWEISS FINANCIAL SERVICES EDELWEISS FINANCIAL SERVICES LTD. EDELWEISS CAPITAL 532922|EDELWEISS~EQ|</Desc>
+    <BSE>532922</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>EDUCO</Symbol>
+    <DispName>EDUCOMP SOLUTIONS</DispName>
+    <Desc>EDUCO EDUCOMP SOLUTIONS 532696|EDUCOMP~EQ|</Desc>
+    <BSE>532696</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>ECHM</Symbol>
+    <DispName>EICHER MOTOR</DispName>
+    <Desc>ECHM EICHER MOTOR EICHERMOT 505200 1080|EICHERMOT~EQ|</Desc>
+    <BSE>505200</BSE>
+    <Sector>35</Sector>
+  </Company>
+  <Company>
+    <Symbol>EIH</Symbol>
+    <DispName>EIH LTD</DispName>
+    <Desc>EIH EIH LTD. EAST INDIA HOTELS EIHOTEL 500840 342|EIHOTEL~EQ|</Desc>
+    <BSE>500840</BSE>
+    <Sector>13</Sector>
+  </Company>
+  <Company>
+    <Symbol>EMEL</Symbol>
+    <DispName>EIMCO ELECON</DispName>
+    <Desc>EMEL EIMCO ELECON EIMCOELECO 523708 3485|EIMCOELECO~EQ|</Desc>
+    <BSE>523708</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>ELDER</Symbol>
+    <DispName>ELDER PHARMA</DispName>
+    <Desc>ELDER ELDER PHARMA ELDERPHARM 532322 1561|ELDERPHARM~EQ|</Desc>
+    <BSE>532322</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>ELEG</Symbol>
+    <DispName>ELECON ENGINEERING</DispName>
+    <Desc>ELEG ELECON ENG ELECONENGG 505700 3300|ELECON~EQ|</Desc>
+    <BSE>505700</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>ELETST</Symbol>
+    <DispName>ELECTROSTEEL CAST</DispName>
+    <Desc>ELETST ELECTROSTEEL ELECTROSTEEL CASTINGS ELECTROSTEEL CASTINGS LTD. 500128 1059|ELECTCAST~EQ|</Desc>
+    <BSE>500128</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>ELEQ</Symbol>
+    <DispName>ELGI EQUIPMENTS</DispName>
+    <Desc>ELGI ELEQ ELGI EQUIPMENTS ELGI EQUIPMENTS LTD. ELGIEQUIP ELGI EQUIPMENTS LIMITED 522074|ELGIEQUIP~EQ|</Desc>
+    <BSE>522074</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>HMNI</Symbol>
+    <DispName>EMAMI LTD</DispName>
+    <Desc>HMNI EMAMI HIMANI 531162|EMAMILTD~EQ|</Desc>
+    <BSE>531162</BSE>
+    <Sector>10</Sector>
+  </Company>
+  <Company>
+    <Symbol>EMCO</Symbol>
+    <DispName>EMCO LTD</DispName>
+    <Desc>EMCO EMCO LTD. 504008|EMCO~EQ|</Desc>
+    <BSE>504008</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>ENGS</Symbol>
+    <DispName>ENGINEERS INDIA</DispName>
+    <Desc>ENGS ENGINEERS (I ENGINEERS INDIA ENGINERSIN 532178 754|ENGINERSIN~EQ|</Desc>
+    <BSE>532178</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>ENIL</Symbol>
+    <DispName>ENTERTAINMENT NETWORK</DispName>
+    <Desc>ENIL ENTERTAINMENT NETWORK 532700|ENIL~EQ|</Desc>
+    <BSE>532700</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>ERCN</Symbol>
+    <DispName>ERA INFRA ENGG.</DispName>
+    <Desc>ERCN ERA INFRA ENGINEERING ERA CONSTRUC 530323|ERAINFRA~EQ|</Desc>
+    <BSE>530323</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>EIML</Symbol>
+    <DispName>EROS INTERNATIONAL</DispName>
+    <Desc>EIML EROS INTERNATIONAL MEDIA EROS INTERNATIONAL MEDIA LTD. EROS 533261|EROSMEDIA~EQ|</Desc>
+    <BSE>533261</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>ESBI</Symbol>
+    <DispName>ESAB INDIA</DispName>
+    <Desc>ESBI ESAB INDIA ESABINDIA ESAB INDIA LIMITED 500133|ESABINDIA~EQ|</Desc>
+    <BSE>500133</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>ESCR</Symbol>
+    <DispName>ESCORTS</DispName>
+    <Desc>ESCR ESCORTS ESCORTS 500495 221|ESCORTS~EQ|</Desc>
+    <BSE>500495</BSE>
+    <Sector>35</Sector>
+  </Company>
+  <Company>
+    <Symbol>ESSDEE</Symbol>
+    <DispName>ESS DEE ALUMINIUM</DispName>
+    <Desc>ESDEE ESS DEE ALUMINIUM 532787|ESSDEE~EQ|</Desc>
+    <BSE>532787</BSE>
+    <Sector>17</Sector>
+  </Company>
+  <Company>
+    <Symbol>ESRO</Symbol>
+    <DispName>ESSAR OIL</DispName>
+    <Desc>ESSAR ESRO ESSAR OIL ESSAROIL 500134 6080|ESSAROIL~EQ|</Desc>
+    <BSE>500134</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>ESSH</Symbol>
+    <DispName>ESSAR PORTS</DispName>
+    <Desc>ESSAR ESSAR PORTS ESSAR PORTS LTD. ESSH ESSAR SHIPPING PORTS &amp; LOGISTICS ESSAR SHIPPING ESSAR SHIP SHIPPING ESSARSHIP 500630|ESSARPORTS~EQ|</Desc>
+    <BSE>500630</BSE>
+    <Sector>25</Sector>
+  </Company>
+  <Company>
+    <Symbol>ESPK</Symbol>
+    <DispName>ESSEL PROPACK</DispName>
+    <Desc>ESPK ESSEL PACKIN PACKAGING ESSELPACK PROPACK LTD. 500135 463|ESSELPACK~EQ|</Desc>
+    <BSE>500135</BSE>
+    <Sector>17</Sector>
+  </Company>
+  <Company>
+    <Symbol>EVER</Symbol>
+    <DispName>EVEREADY IND.</DispName>
+    <Desc>EVER EVEREADY INDUSTRIES UNIONCARBI 531508 4816|EVEREADY~EQ|</Desc>
+    <BSE>531508</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>ETEV</Symbol>
+    <DispName>EVEREST INDUSTRIES</DispName>
+    <Desc>ETEV EVEREST INDUSTRIES ETERNIT EVEREST ETERNEVRST 508906 2114|EVERESTIND~EQ|</Desc>
+    <BSE>508906</BSE>
+    <Sector>5</Sector>
+  </Company>
+  <Company>
+    <Symbol>EKCL</Symbol>
+    <DispName>EVEREST KANTO CYLINDER</DispName>
+    <Desc>EKCL EVEREST KANTO CYLINDER 532684|EKC~EQ|</Desc>
+    <BSE>532684</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>EVRON</Symbol>
+    <DispName>EVERONN EDUCATION</DispName>
+    <Desc>EVRON EVERONN EDUCATION EVERONN SYSTEMS INDIA 532876 |EVERONN~EQ|</Desc>
+    <BSE>532876</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>EXCR</Symbol>
+    <DispName>EXCEL CROP CARE</DispName>
+    <Desc>EXCEL EXCR EXCEL CROP CARE 532511 55976|EXCELCROP~EQ|</Desc>
+    <BSE>532511</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>EXIDE</Symbol>
+    <DispName>EXIDE INDUSTRIES</DispName>
+    <Desc>EXIDE EXIDE INDUSTRIES CHLORIDIND 500086 757|EXIDEIND~EQ|</Desc>
+    <BSE>500086</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>FCHT</Symbol>
+    <DispName>FACT</DispName>
+    <Desc>FCHT FACT FERT.&amp;CHEM-T FERTILIZERS AND CHEMICALS TRAVANCORE 590024 5002|FACT~EQ|</Desc>
+    <BSE>590024</BSE>
+    <Sector>36</Sector>
+  </Company>
+  <Company>
+    <Symbol>FAG</Symbol>
+    <DispName>FAG BEARINGS</DispName>
+    <Desc>FAG FAG BEARINGS FAGBEARING 505790 1953|FAGBEARING~EQ|</Desc>
+    <BSE>505790</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>AGRS</Symbol>
+    <DispName>FAIRFILED ATLAS </DispName>
+    <Desc>AGRS FAIRFIELD ATLAS GEARS 520145</Desc>
+    <BSE>520145</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>SCN</Symbol>
+    <DispName>FAME INDIA</DispName>
+    <Desc>SCN FAME INDIA SHRINGAR CINEMA 532631|FAME|</Desc>
+    <BSE>532631</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>FDCL</Symbol>
+    <DispName>FDC LTD.</DispName>
+    <Desc>FDCL FDC LTD. FDC 531599 1158|FDC~EQ|</Desc>
+    <BSE>531599</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>GTZE</Symbol>
+    <DispName>FEDERAL - MOGUL G</DispName>
+    <Desc>GTZE GOETZE GOETZEIND FEDERAL - MOGUL GOETZE 505744 2030|FMGOETZE~EQ|</Desc>
+    <BSE>505744</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>FED</Symbol>
+    <DispName>FEDERAL BANK</DispName>
+    <Desc>FED FEDERAL BANK FEDERALBNK 500469 885|FEDERALBNK~EQ|</Desc>
+    <BSE>500469</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>WRWDT</Symbol>
+    <DispName>FINANCIAL TECH</DispName>
+    <Desc>WRWDT FINANCIAL TECHNOLOGIES WORLDWIDE TE FINTECH 526881|FINANTECH~EQ|</Desc>
+    <BSE>526881</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>FNCB</Symbol>
+    <DispName>FINOLEX CABLES</DispName>
+    <Desc>FNCB FINOLEX CABLES FINCABLES 500144 421|FINCABLES~EQ|</Desc>
+    <BSE>500144</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>FNLX</Symbol>
+    <DispName>FINOLEX IND.</DispName>
+    <Desc>FNLX FINOLEX IND. FINPIPE 500940 559|FINPIPE~EQ|</Desc>
+    <BSE>500940</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>FSRC</Symbol>
+    <DispName>FIRSTSOURCE SOL.</DispName>
+    <Desc>FIRSTSOURCE SOLUTIONS FIRSTSOURCE SOLUTIONS LTD. 532809 FRSC|FSL~EQ|</Desc>
+    <BSE>532809</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>FLMT</Symbol>
+    <DispName>FLUIDOMAT</DispName>
+    <Desc>FLMT FLUIDOMAT 22017</Desc>
+    <BSE>522017</BSE>
+    <Sector>12</Sector>
+  </Company>
+  <Company>
+    <Symbol>BJTM</Symbol>
+    <DispName>FORCE MOTORS</DispName>
+    <Desc>BJTM FORCE MOTORS BAJAJ TEMPO BAJAJTEMPO 500033 1274</Desc>
+    <BSE>500033</BSE>
+    <Sector>35</Sector>
+  </Company>
+  <Company>
+    <Symbol>FORTIS</Symbol>
+    <DispName>FORTIS HEALTHCARE</DispName>
+    <Desc>FORTIS HEALTHCARE FORTIS HEALTHCARE LIMITED FORTIS HEALTHCARE INDIA FORTIS HEALTHCARE FORTIS 532843|FORTIS~EQ|</Desc>
+    <BSE>532843</BSE>
+    <Sector>72</Sector>
+  </Company>
+  <Company>
+    <Symbol>FSCI</Symbol>
+    <DispName>FOSECO INDIA</DispName>
+    <Desc>FSCI FOSECO INDIA FOSECOIND 500150 1171|FOSECOIND~EQ|</Desc>
+    <BSE>500150</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>DBPH</Symbol>
+    <DispName>FRESENIUS KABI ONCO.</DispName>
+    <Desc>DBPH FRESENIUS KABI ONCOLOGY DABUR PHARMA 532545 34086|FKONCO|</Desc>
+    <BSE>532545</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>FLFD</Symbol>
+    <DispName>FULFORD INDIA</DispName>
+    <Desc>FLFD FULFORD (I) FULFORD 506803 844</Desc>
+    <BSE>506803</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>FVIL</Symbol>
+    <DispName>FUTURE CONSUMER</DispName>
+    <Desc>FVIL FUTURE CONSUMER ENTERPRISE LIMITED FUTURE CONSUMER ENTERPRISE LTD. FUTURE VENTURES FUTURE VENTURES INDIA LTD. 533400|FCEL~EQ|</Desc>
+    <BSE>533400</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>PNTR</Symbol>
+    <DispName>FUTURE ENTERPRISES</DispName>
+    <Desc>PNTR FUTURE RETAIL LTD. FUTURE RETAIL LIMITED PANTALOON PANTALOON RETAIL PANTALOON RETAIL (INDIA) 523574|FEL~EQ|</Desc>
+    <BSE>523574</BSE>
+    <Sector>104</Sector>
+  </Company>
+  <Company>
+    <Symbol>GESHIP</Symbol>
+    <DispName>G.E.SHIPPING</DispName>
+    <Desc>GESHIP G E SHIP GREAT EASTERN SHIPPING COMPANY G.E. G. E. SHIPPING GESHIPPING 500620 |GESHIP~EQ|</Desc>
+    <BSE>500620</BSE>
+    <Sector>25</Sector>
+  </Company>
+  <Company>
+    <Symbol>GABR</Symbol>
+    <DispName>GABRIEL (I)</DispName>
+    <Desc>GABR GABRIEL (I) GABRIEL 505714 2891|GABRIEL~EQ|</Desc>
+    <BSE>505714</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>GAIL</Symbol>
+    <DispName>GAIL</DispName>
+    <Desc>GAIL GAS AUTHORITY OF INDIA LTD. GAIL GAS AUTHORTY GAIL 532155 706|GAIL~EQ|</Desc>
+    <BSE>532155</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>GAMM</Symbol>
+    <DispName>GAMMON INDIA</DispName>
+    <Desc>GAMM GAMMON INDIA GAMMONIND 509550 2158|GAMMONIND~EQ|</Desc>
+    <BSE>509550</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>GNST</Symbol>
+    <DispName>GANDHI SP.TUB</DispName>
+    <Desc>GNST GANDHI SPECIAL TUBES LIMITED GANDHI SPECIAL TUBES LTD. 513108|GANDHITUBE~EQ|</Desc>
+    <BSE>513108</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>GATE</Symbol>
+    <DispName>GATEWAY DISTRIPARKS</DispName>
+    <Desc>GATE GATEWAY DISTRIPARKS 532622|GDL~EQ|</Desc>
+    <BSE>532622</BSE>
+    <Sector>103</Sector>
+  </Company>
+  <Company>
+    <Symbol>GACO</Symbol>
+    <DispName>GATI LTD</DispName>
+    <Desc>GATI LIMITED GACO 532345|GATI~EQ|</Desc>
+    <BSE>532345</BSE>
+    <Sector>103</Sector>
+  </Company>
+  <Company>
+    <Symbol>GCOMM</Symbol>
+    <DispName>GEMINI COMM.</DispName>
+    <Desc>GEMINI COMMUNICATIONS 532318|GEMINI~EQ|</Desc>
+    <BSE>532318</BSE>
+    <Sector>55</Sector>
+  </Company>
+  <Company>
+    <Symbol>BVHD</Symbol>
+    <DispName>GEODESIC LTD</DispName>
+    <Desc>BVHD GEODESIC INF B.V.HOLDINGS GEODESIC LTD 503699 62747|GEOINFO|</Desc>
+    <BSE>503699</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>GEOJIT</Symbol>
+    <DispName>GEOJIT BNP PARIBAS</DispName>
+    <Desc>GEOJIT GEOJIT BNP PARIBAS FINANCIAL SERVICES GEOJIT FINANCIAL 532285|GEOJITBNPP~EQ|</Desc>
+    <BSE>532285</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>GMSO</Symbol>
+    <DispName>GEOMETRIC LTD</DispName>
+    <Desc>GMSO GEOMETRIC LTD GEOMETRIC SOFTWARE 532312 813|GEOMETRIC~EQ|</Desc>
+    <BSE>532312</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>GJHC</Symbol>
+    <DispName>GHCL LTD.</DispName>
+    <Desc>GJHC GUJARAT HEAVY CHEM GHCL LTD. GHCL LIMITED 500171 1264|GHCL~EQ|</Desc>
+    <BSE>500171</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>GCHS</Symbol>
+    <DispName>GIC HOUSING</DispName>
+    <Desc>GCHS GIC HOUSING GICHSGFIN 511676 2095|GICHSGFIN~EQ|</Desc>
+    <BSE>511676</BSE>
+    <Sector>14</Sector>
+  </Company>
+  <Company>
+    <Symbol>ISHV</Symbol>
+    <DispName>GILLETTE INDIA</DispName>
+    <Desc>ISHV ISPL GILLETTE INDIA INDIAN SHAVING PRODUCTS INDSHAVING 507815 417|GILLETTE~EQ|</Desc>
+    <BSE>507815</BSE>
+    <Sector>10</Sector>
+  </Company>
+  <Company>
+    <Symbol>GGEM</Symbol>
+    <DispName>GITANJALI GEMS LTD</DispName>
+    <Desc>GGEM GITANJALI GEMS LTD 532715|GITANJALI~EQ|</Desc>
+    <BSE>532715</BSE>
+    <Sector>104</Sector>
+  </Company>
+  <Company>
+    <Symbol>GLPH</Symbol>
+    <DispName>GLENMARK PHARMA</DispName>
+    <Desc>GLPH GLENMARK PHARMA GLENMARK 532296 692|GLENMARK~EQ|</Desc>
+    <BSE>532296</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>PARA</Symbol>
+    <DispName>GLODYNE TECHNOSERVE</DispName>
+    <Desc>PARA GLODYNE TECHNOSERVE PARADYNE 532672|GLODYNE~EQ|</Desc>
+    <BSE>532672</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>GMRI</Symbol>
+    <DispName>GMR INFRA</DispName>
+    <Desc>GMRI GMR INFRA 532754|GMRINFRA~EQ|</Desc>
+    <BSE>532754</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>GDFR</Symbol>
+    <DispName>GODFREY PHILLIPS</DispName>
+    <Desc>GDFR GODFREY PHIL GODFREY PHILLIPS GODFRYPHLP 500163 537|GODFRYPHLP~EQ|</Desc>
+    <BSE>500163</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>GDCN</Symbol>
+    <DispName>GODREJ CONSUMER</DispName>
+    <Desc>GDCN GCPL GODREJ CONSUMER PRODUCTS 532424 991|GODREJCP~EQ|</Desc>
+    <BSE>532424</BSE>
+    <Sector>10</Sector>
+  </Company>
+  <Company>
+    <Symbol>GDSP</Symbol>
+    <DispName>GODREJ INDUSTRIES</DispName>
+    <Desc>GDSP GODREJ SOAPS GODREJ INDUSTRIES GODREJSOP 500164 34344|GODREJIND~EQ|</Desc>
+    <BSE>500164</BSE>
+    <Sector>10</Sector>
+  </Company>
+  <Company>
+    <Symbol>GPL</Symbol>
+    <DispName>GODREJ PROPERTIES</DispName>
+    <Desc>GPL GODREJ PROPERTIES 533150|GODREJPROP~EQ|</Desc>
+    <BSE>533150</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>GOEX</Symbol>
+    <DispName>GOKALDAS EXPORTS</DispName>
+    <Desc>GOEX GOKALDAS EXPORTS 532630 4819|GOKEX~EQ|</Desc>
+    <BSE>532630</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>GOL</Symbol>
+    <DispName>GOL OFFSHORE</DispName>
+    <Desc>GOL GOL OFFSHORE GOL OFFSHORE LIMITED GREAT OFFSHORE 532786 GOL|GTOFFSHORE~EQ|</Desc>
+    <BSE>532786</BSE>
+    <Sector>25</Sector>
+  </Company>
+  <Company>
+    <Symbol>GDRK</Symbol>
+    <DispName>GOODRICKE</DispName>
+    <Desc>GDRK GOODRICKE GOODRICKE 166 1906</Desc>
+    <BSE>500166</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>GDYR</Symbol>
+    <DispName>GOODYEAR (I)</DispName>
+    <Desc>GDYR GOODYEAR (I) GOODYEAR 500168 2111</Desc>
+    <BSE>500168</BSE>
+    <Sector>24</Sector>
+  </Company>
+  <Company>
+    <Symbol>CNEV</Symbol>
+    <DispName>GRAPHITE INDIA</DispName>
+    <Desc>CNEV GRAPHITE INDIA CARBON EVERFLOW CARBEVFLOW GRAPHITE INDIA LIMITED 509488|GRAPHITE~EQ|</Desc>
+    <BSE>509488</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>GRSM</Symbol>
+    <DispName>GRASIM IND.</DispName>
+    <Desc>GRSM GRASIM INDUSTRIES GRASIM 500300 63|GRASIM~EQ|</Desc>
+    <BSE>500300</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>GRVS</Symbol>
+    <DispName>GREAVES COTTON</DispName>
+    <Desc>GRVS GREAVES COTTON LTD. GREAVES 501455 1624|GREAVESCOT~EQ|</Desc>
+    <BSE>501455</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>GRNPY</Symbol>
+    <DispName>GREENPLY IND</DispName>
+    <Desc>GRNPY GREENPLY IND MITTALLAMI 526797 1235|GREENPLY~EQ|</Desc>
+    <BSE>526797</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>GRNR</Symbol>
+    <DispName>GRINDWELL NORTON</DispName>
+    <Desc>GRNR GRINDWELL NORTON GRINWELNOR 506076 2223 48708|GRINDWELL~EQ|</Desc>
+    <BSE>506076</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>GRFN</Symbol>
+    <DispName>GRUH FINANCE</DispName>
+    <Desc>GRFN GRUH FINANCE 511288 32567|GRUH~EQ|</Desc>
+    <BSE>511288</BSE>
+    <Sector>14</Sector>
+  </Company>
+  <Company>
+    <Symbol>SBCH</Symbol>
+    <DispName>GSK CONSUMER</DispName>
+    <Desc>SBCH GSK CONSUMER GLAXO SMITHKLINE BEECHAM CONSUMER HEALTHCARE SBCH SMITHKLINE CONS.HEALTH SMITKLBECH 500676|GSKCONS~EQ|</Desc>
+    <BSE>500676</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>GLXO</Symbol>
+    <DispName>GSK PHARMA</DispName>
+    <Desc>GLXO GSK PHARMA GLAXO INDIA GLAXO (I) LTD. GLAXO SMITHKLINE BEECHAM PHARMA (INDIA) SB PHARMA SMITHKLPHA GLAXO SMITHKLNE PHARMA 500660 172|GLAXO~EQ|</Desc>
+    <BSE>500660</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>GBTL</Symbol>
+    <DispName>GTL LTD</DispName>
+    <Desc>GTL GBTL GLOBAL TELE GLOBAL TELE-SYSTEMS TELESYSTEMS GLOBALTELE GTL LIMITED 500160 7|GTL~EQ|</Desc>
+    <BSE>500160</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>GUSP</Symbol>
+    <DispName>GUJ. STATE PETRONET</DispName>
+    <Desc>GSPL GUSP GUJARAT STATE PETRONET GSPL GUJ. STATE PETRONET GSPL 532702|GSPL~EQ|</Desc>
+    <BSE>532702</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>GJAX</Symbol>
+    <DispName>GUJ.AMB.EXP.</DispName>
+    <Desc>GJAX GUJARAT AMB.EXP. 524226 3844|GAEL~EQ|</Desc>
+    <BSE>524226</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>GAPL</Symbol>
+    <DispName>GUJ.APOLLO INDUS</DispName>
+    <Desc>GAPL GUJARAT APOLLO E INDUSTRIES GUJAPOLEQP 522217 2735|GUJAPOLLO~EQ|</Desc>
+    <BSE>522217</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>GJPW</Symbol>
+    <DispName>GUJ.IND.POW</DispName>
+    <Desc>GJPW GUJARAT INDUSTRIAL POWER GUJARAT POWER GIPCL 517300 574|GIPCL~EQ|</Desc>
+    <BSE>517300</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>GMDC</Symbol>
+    <DispName>GUJ.MINERAL DEV.</DispName>
+    <Desc>GMDC GUJARAT MINERAL DEVELOPMENT CORP GMDC GMDCLTD 532181 755|GMDCLTD~EQ|</Desc>
+    <BSE>532181</BSE>
+    <Sector>83</Sector>
+  </Company>
+  <Company>
+    <Symbol>GNFC</Symbol>
+    <DispName>GUJ.NARMADA</DispName>
+    <Desc>GNFC GUJARAT NARMADA VALLEY FERTILIZERS &amp; CHEMICALS GUJARAT NARMADA 500670|GNFC~EQ|</Desc>
+    <BSE>500670</BSE>
+    <Sector>36</Sector>
+  </Company>
+  <Company>
+    <Symbol>GJNC</Symbol>
+    <DispName>GUJ.NRE COKE</DispName>
+    <Desc>GJNC GUJARAT NRE COKE GUJNRECOKE 512579 28207 9573|GUJNRECOKE~EQ|</Desc>
+    <BSE>512579</BSE>
+    <Sector>83</Sector>
+  </Company>
+  <Company>
+    <Symbol>GALK</Symbol>
+    <DispName>GUJARAT ALKALIES</DispName>
+    <Desc>GALK GUJARAT ALKALIES AND CHEMICALS GUJALKALI GUJARAT ALKALIES &amp; CHEMICALS LIMITED 530001|GUJALKALI~EQ|</Desc>
+    <BSE>530001</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>GJFU</Symbol>
+    <DispName>GUJARAT FLUORO</DispName>
+    <Desc>GJFU GUJARAT FLUORO FLUOROCHEMICALS GUJFLUORO 500173|GUJFLUORO~EQ|</Desc>
+    <BSE>500173</BSE>
+    <Sector>50</Sector>
+  </Company>
+  <Company>
+    <Symbol>GFOI</Symbol>
+    <DispName>GUJARAT FOILS</DispName>
+    <Desc>GFOI GUJARAT FOILS GUJARAT FOILS LIMITED GUJARAT FOILS LTD. GUJFOIL 531410</Desc>
+    <BSE>531410</BSE>
+    <Sector>1</Sector>
+  </Company>
+  <Company>
+    <Symbol>GGAS</Symbol>
+    <DispName>GUJARAT GAS</DispName>
+    <Desc>GGAS GUJARAT GAS GUJRATGAS 523477 291|GUJRATGAS~EQ|</Desc>
+    <BSE>523477</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>GSFC</Symbol>
+    <DispName>GUJARAT STATE FERTILIZERS</DispName>
+    <Desc>GSFC GUJARAT STATE FERTILIZERS &amp;  CHEMICALS LTD. GUJARAT STATE FERTILIZERS &amp;  CHEMICALS LIMITED 500690|GSFC~EQ|</Desc>
+    <BSE>500690</BSE>
+    <Sector>36</Sector>
+  </Company>
+  <Company>
+    <Symbol>GFCL</Symbol>
+    <DispName>GULF OIL CORP</DispName>
+    <Desc>GFCL IDLI GULF OIL CORP IDL INDUSTRS IDLCHEM 506480 -1160|GOCLCORP~EQ|</Desc>
+    <BSE>506480</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>GVKP</Symbol>
+    <DispName>GVK POWER &amp; INFRA</DispName>
+    <Desc>GVKP GVK POWER &amp; INFRASTRUCTURE 532708|GVKPIL~EQ|</Desc>
+    <BSE>532708</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>HTTL</Symbol>
+    <DispName>HANUNG TOYS</DispName>
+    <Desc>HANUNG TOYS 532770|HANUNG~EQ|</Desc>
+    <BSE>532770</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>HCDL</Symbol>
+    <DispName>HATHWAY CABLE</DispName>
+    <Desc>HCDL HATHWAY CABLE &amp; DATACOM 533162 |HATHWAY~EQ|</Desc>
+    <BSE>533162</BSE>
+    <Sector>29</Sector>
+  </Company>
+  <Company>
+    <Symbol>HAVL</Symbol>
+    <DispName>HAVELLS IND</DispName>
+    <Desc>HAVL HAVELLS IND 517354 1067|HAVELLS~EQ|</Desc>
+    <BSE>517354</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>HAWK</Symbol>
+    <DispName>HAWKINS COOKERS</DispName>
+    <Desc>HAWK HAWKINS COOKERS HAWKINCOOK 508486 -1464</Desc>
+    <BSE>508486</BSE>
+    <Sector>9</Sector>
+  </Company>
+  <Company>
+    <Symbol>HCLI</Symbol>
+    <DispName>HCL INFOSYS</DispName>
+    <Desc>HCLI HCL INFOSYSTEMS HCLINFOSYS HCL-INSYS 500179 140|HCL-INSYS~EQ|</Desc>
+    <BSE>500179</BSE>
+    <Sector>7</Sector>
+  </Company>
+  <Company>
+    <Symbol>HTECH</Symbol>
+    <DispName>HCL TECH.</DispName>
+    <Desc>HCL TECHNOLOGIES HCLTECH HTECH 532281 34|HCLTECH~EQ|</Desc>
+    <BSE>532281</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>HDFC</Symbol>
+    <DispName>HDFC</DispName>
+    <Desc>HDFC HDFC HOUSING DEVELOPMENT FINANCE HDFC 500010 103|HDFC~EQ|</Desc>
+    <BSE>500010</BSE>
+    <Sector>14</Sector>
+  </Company>
+  <Company>
+    <Symbol>HDBK</Symbol>
+    <DispName>HDFC BANK</DispName>
+    <Desc>HDFC BANK HDBK  HDFCBANK 500180 159|HDFCBANK~EQ|</Desc>
+    <BSE>500180</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>HEGL</Symbol>
+    <DispName>HEG LTD</DispName>
+    <Desc>HEGL HEG LTD. HEG HEG LIMITED 509631|HEG~EQ|</Desc>
+    <BSE>509631</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>MYCM</Symbol>
+    <DispName>HEIDELBERG CEMENT</DispName>
+    <Desc>MYCM HEIDELBERG CEMENT INDIA HEIDELBERGCEMENT MYSORE CEMENTS MYSORECEM 500292 1152|HEIDELBERG~EQ|</Desc>
+    <BSE>500292</BSE>
+    <Sector>5</Sector>
+  </Company>
+  <Company>
+    <Symbol>HEMAT</Symbol>
+    <DispName>HELIOS &amp; MATHESON</DispName>
+    <Desc>HELIOS &amp; MATHESON INFORMATION TECHNOLOGY 532347 30363|HELIOSMATH~EQ|</Desc>
+    <BSE>532347</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>HERH</Symbol>
+    <DispName>HERCULES HOISTS</DispName>
+    <Desc>HERH HERCULES HOISTS 505720|HERCULES~EQ|</Desc>
+    <BSE>505720</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>HRFO</Symbol>
+    <DispName>HERITAGE FOOD</DispName>
+    <Desc>HRFO HERITAGE FOO HERITGFOOD 519552 1426|HERITGFOOD~EQ|</Desc>
+    <BSE>519552</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>HROH</Symbol>
+    <DispName>HERO MOTOCORP</DispName>
+    <Desc>HROH HERO MOTOCORP HERO MOTOCORP LTD. HERO HONDA MOTORS HEROHONDA 500182|HEROMOTOCO~EQ|</Desc>
+    <BSE>500182</BSE>
+    <Sector>35</Sector>
+  </Company>
+  <Company>
+    <Symbol>APTE</Symbol>
+    <DispName>HEXAWARE TECHNOLOGIES</DispName>
+    <Desc>HEXA APTE HEXAWARE TECHNOLOGIES HEXAWARE TECHNOLOGIES LTD. APTECH LTD. APTECH 532129|HEXAWARE~EQ|</Desc>
+    <BSE>532129</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>HYDI</Symbol>
+    <DispName>HIL LIMITED</DispName>
+    <Desc>HYDI HIL LIMITED HIL LTD. HYDERABAD INDUSTRIES HYDRBADIND 509675 2845|HIL~EQ|</Desc>
+    <BSE>509675</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>HFCM</Symbol>
+    <DispName>HIMACHAL FUTURISTIC</DispName>
+    <Desc>HFCM HFCL HIMACHAL FUTURISTIC COMMUNICATIONS HIMACHLFUT 500183|HFCL~EQ|</Desc>
+    <BSE>500183</BSE>
+    <Sector>28</Sector>
+  </Company>
+  <Company>
+    <Symbol>HMTS</Symbol>
+    <DispName>HIMATSINGKA SEIDE</DispName>
+    <Desc>HMTS HIMATSINGKA SEIDE HIMATSEIDE 514043 1109|HIMATSEIDE~EQ|</Desc>
+    <BSE>514043</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>HNGL</Symbol>
+    <DispName>HIND NAT. GLASS</DispName>
+    <Desc>HNGL HINDUSTHAN NATIONAL GLASS &amp; INDUSTRIES 515145|HINDNATGLS~EQ|EXCE</Desc>
+    <BSE>515145</BSE>
+    <Sector>17</Sector>
+  </Company>
+  <Company>
+    <Symbol>HCNS</Symbol>
+    <DispName>HIND. CONSTRUCTION</DispName>
+    <Desc>HCC HCNS HINDUSTAN CONSTRUCTION HINDCONS 500185|HCC~EQ|</Desc>
+    <BSE>500185</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>HLL</Symbol>
+    <DispName>HIND. UNILEVER</DispName>
+    <Desc>HLL HUL HIND. UNILEVER HINDUSTAN UNILEVER HINDUSTAN LEVER HIND LEVER 500696 |HINDUNILVR~EQ|</Desc>
+    <BSE>500696</BSE>
+    <Sector>10</Sector>
+  </Company>
+  <Company>
+    <Symbol>HOEX</Symbol>
+    <DispName>HIND.OIL EXP</DispName>
+    <Desc>HOEX HINDUSTAN OIL EXP HINDOILEXP 500186 990|HINDOILEXP~EQ|</Desc>
+    <BSE>500186</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>HALC</Symbol>
+    <DispName>HINDALCO</DispName>
+    <Desc>HALC HINDALCO HINDALC0 500440 104|HINDALCO~EQ|</Desc>
+    <BSE>500440</BSE>
+    <Sector>1</Sector>
+  </Company>
+  <Company>
+    <Symbol>HDFN</Symbol>
+    <DispName>HINDUJA VENTURES</DispName>
+    <Desc>HDFN HINDUJA TMT FIN. HINDUJA VENTURES HINDUJAFIN 500189 |HINDUJAVEN~EQ|</Desc>
+    <BSE>500189</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>HNCP</Symbol>
+    <DispName>HINDUSTAN COPPER</DispName>
+    <Desc>HNCP HINDUSTAN COPPER 513599|HINDCOPPER~EQ|</Desc>
+    <BSE>513599</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>HMVL</Symbol>
+    <DispName>HINDUSTAN MEDIA VENT.</DispName>
+    <Desc>HMVL HINDUSTAN MEDIA VENTURES HINDUSTAN MEDIA HMVL 533217|HMVL~EQ|</Desc>
+    <BSE>533217</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>HNMT</Symbol>
+    <DispName>HINDUSTAN MOTORS</DispName>
+    <Desc>HNMT HINDUSTAN MOTORS HINDMOTOR 500500 1175|HINDMOTORS~EQ|</Desc>
+    <BSE>500500</BSE>
+    <Sector>35</Sector>
+  </Company>
+  <Company>
+    <Symbol>HZNC</Symbol>
+    <DispName>HINDUSTAN ZINC</DispName>
+    <Desc>HZNC HINDUSTAN ZINC HINDZINC 500188 392|HINDZINC~EQ|</Desc>
+    <BSE>500188</BSE>
+    <Sector>83</Sector>
+  </Company>
+  <Company>
+    <Symbol>AMHC</Symbol>
+    <DispName>HITACHI HOME</DispName>
+    <Desc>AMHC HITACHI HOME AMTREX APPLI AMTREX APPLIANCES AMTREXAPPL 523398 2056|HITACHIHOM~EQ|</Desc>
+    <BSE>523398</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>HMT</Symbol>
+    <DispName>HMT LTD.</DispName>
+    <Desc>HMT HMT LTD. HMT 500191 2124|HMT~EQ|</Desc>
+    <BSE>500191</BSE>
+    <Sector>35</Sector>
+  </Company>
+  <Company>
+    <Symbol>SHHO</Symbol>
+    <DispName>HONDA SIEL POWER</DispName>
+    <Desc>SHHO SHRIRAM HONDA HONDA SIEL POWER PRODUCTS SHRMHONDA 522064 1148|HONDAPOWER~EQ|</Desc>
+    <BSE>522064</BSE>
+    <Sector>9</Sector>
+  </Company>
+  <Company>
+    <Symbol>TTHW</Symbol>
+    <DispName>HONEYWELL AUTOMATION</DispName>
+    <Desc>TTHW TATA HONEYWELL TATAHONEY TATA HONEYWELL AUTOMATION INDIA 517174 1510|HONAUT~EQ|</Desc>
+    <BSE>517174</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>LEELA</Symbol>
+    <DispName>HOTEL LEELAVENT.</DispName>
+    <Desc>LEELA HOTEL LEELAVENTURE HOTELEELA 500193 566|HOTELEELA~EQ|</Desc>
+    <BSE>500193</BSE>
+    <Sector>13</Sector>
+  </Company>
+  <Company>
+    <Symbol>HDIL</Symbol>
+    <DispName>HOUSING DEV. INFRA </DispName>
+    <Desc>HDIL HOUSING DEVELOPMENT &amp; INFRASTRUCTURE 532873|HDIL~EQ|</Desc>
+    <BSE>532873</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>HOVS</Symbol>
+    <DispName>HOV SERVICES</DispName>
+    <Desc>HOV SERVICES 532761 HOVS|HOVS~EQ|</Desc>
+    <BSE>532761</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>HPCL</Symbol>
+    <DispName>HPCL</DispName>
+    <Desc>HPCL HINDUSTAN PETROLEUM HPCL HINDPETRO 500104 106|HINDPETRO~EQ|</Desc>
+    <BSE>500104</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>HSAN</Symbol>
+    <DispName>HSIL LTD</DispName>
+    <Desc>HSAN HSIL HINDUSTAN SANITARYWARE HINDUSTAN SANITARYWARE &amp; INDUSTRIES HINDSANIT 500187 1437|HSIL~EQ|</Desc>
+    <BSE>500187</BSE>
+    <Sector>33</Sector>
+  </Company>
+  <Company>
+    <Symbol>HTMA</Symbol>
+    <DispName>HT MEDIA</DispName>
+    <Desc>HTMA HTMEDIA HT MEDIA H T MEDIA 532662|HTMEDIA~EQ|</Desc>
+    <BSE>532662</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>AKRUTI</Symbol>
+    <DispName>HUBTOWN LTD</DispName>
+    <Desc>AKRUTI HUBTOWN LTD. HUBTOWN LIMITED HUBTOWN ACKRUTI CITY LTD NIRMAN AKRUTI CITY 532799|HUBTOWN~EQ|</Desc>
+    <BSE>532799</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>PPRD</Symbol>
+    <DispName>HUHTAMAKI PPL</DispName>
+    <Desc>PPRD HUHTAMAKI PPL LIMITED HUHTAMAKI PPL LTD. PAPER PRODUCTS PAPERPROD 509820 1559|PAPERPROD~EQ|</Desc>
+    <BSE>509820</BSE>
+    <Sector>17</Sector>
+  </Company>
+  <Company>
+    <Symbol>ICBK</Symbol>
+    <DispName>ICICI BANK</DispName>
+    <Desc>ICICI ICBK ICICI BANKING CORP. IBN IC ICICIBANK 532174 129|ICICIBANK~EQ|</Desc>
+    <BSE>532174</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>ICRA</Symbol>
+    <DispName>ICRA LTD</DispName>
+    <Desc>ICRA LTD ICRA 532835 14601|ICRA~EQ|</Desc>
+    <BSE>532835</BSE>
+    <Sector>107</Sector>
+  </Company>
+  <Company>
+    <Symbol>MDHPC</Symbol>
+    <DispName>ICSA INDIA</DispName>
+    <Desc>MDHPC ICSA INDUSTRIES MADHUPALA CR 531524|ICSA~EQ|</Desc>
+    <BSE>531524</BSE>
+    <Sector>100</Sector>
+  </Company>
+  <Company>
+    <Symbol>IDBI</Symbol>
+    <DispName>IDBI BANK</DispName>
+    <Desc>IDBI IDBI BANK INDUSTRIAL DEVELOPMENT BANK OF INDIA IDBI 500116 306|IDBI~EQ|</Desc>
+    <BSE>500116</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>IDEA</Symbol>
+    <DispName>IDEA CELLULAR</DispName>
+    <Desc>IDEA CELLULAR 532822 IDEA|IDEA~EQ|</Desc>
+    <BSE>532822</BSE>
+    <Sector>28</Sector>
+  </Company>
+  <Company>
+    <Symbol>IDFC</Symbol>
+    <DispName>IDFC LIMITED</DispName>
+    <Desc>IDFC IDFC LIMITED IDFC LTD. INFRASTRUCTURE DEVELOPMENT FINANCE INFRA. DEV. FIN CORP INFRA. DEVELOP CORP 532659|IDFC~EQ|</Desc>
+    <BSE>532659</BSE>
+    <Sector>14</Sector>
+  </Company>
+  <Company>
+    <Symbol>IFCI</Symbol>
+    <DispName>IFCI</DispName>
+    <Desc>IFCI IFCI INDUSTRIAL FINANCIAL CORPORATION IFCI 500106 734|IFCI~EQ|</Desc>
+    <BSE>500106</BSE>
+    <Sector>14</Sector>
+  </Company>
+  <Company>
+    <Symbol>ININFO</Symbol>
+    <DispName>IIFL HOLDINGS</DispName>
+    <Desc>ININFO IIFL HOLDINGS LIMITED IIFL HOLDINGS LTD. INDIA INFOLINE 532636 13381|IIFL~EQ|</Desc>
+    <BSE>532636</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>IFVN</Symbol>
+    <DispName>IL&amp;FS INV. MANAGERS</DispName>
+    <Desc>IFVN IL&amp;FS IL &amp; FS INVESTMENT MANAGERS ILFS ILFS INVESTMENT MANAGERS VENT IVC IL&amp;FS INVESTMENT MANAGERS IL &amp; FS VENTURE CORP. 511208 2630|IVC~EQ|</Desc>
+    <BSE>511208</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>ICMN</Symbol>
+    <DispName>INDIA CEMENTS</DispName>
+    <Desc>ICMN INDIA CEMENTS INDIACEM 530005 173|INDIACEM~EQ|</Desc>
+    <BSE>530005</BSE>
+    <Sector>5</Sector>
+  </Company>
+  <Company>
+    <Symbol>INGL</Symbol>
+    <DispName>INDIA GLYCOLS</DispName>
+    <Desc>INGL IND.GLYCOLS INDIA GLYCOLS INDIAGLYCO 500201 1026|INDIAGLYCO~EQ|</Desc>
+    <BSE>500201</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>IBULL</Symbol>
+    <DispName>INDIABULLS FIN. SER.</DispName>
+    <Desc>IBULL INDIABULLS FINANCIAL SERVICES INDIA BULLS 532544|INDIABULLS|</Desc>
+    <BSE>532544</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>IBRL</Symbol>
+    <DispName>INDIABULLS REAL EST</DispName>
+    <Desc>IBRL INDIA BULLS INDIABULLS REAL EST INDIABULLS REAL ESTATE 532832 IBRL|IBREALEST~EQ|</Desc>
+    <BSE>532832</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>INDBK</Symbol>
+    <DispName>INDIAN BANK</DispName>
+    <Desc>INDBK INDIAN BANK 532814|INDIANB~EQ|</Desc>
+    <BSE>532814</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>IOB</Symbol>
+    <DispName>INDIAN OVERSEAS BANK</DispName>
+    <Desc>IOB INDIAN OVERSEAS BANK IOB 532388 1277|IOB~EQ|</Desc>
+    <BSE>532388</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>IRSY</Symbol>
+    <DispName>INDO RAMA SYN.</DispName>
+    <Desc>IRSY INDO RAMA SYNTHETICS 500207 661|INDORAMA~EQ|</Desc>
+    <BSE>500207</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>ITTL</Symbol>
+    <DispName>INDO TECH TRANS.</DispName>
+    <Desc>ITTL INDO TECH INDOTECH TRANSFORM 532717|INDOTECH~EQ|</Desc>
+    <BSE>532717</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>INDOCO</Symbol>
+    <DispName>INDOCO REMEDIES</DispName>
+    <Desc>INDOCO REMEDIES INDCO INDOCO REMEDIES LIMITED 532612 50663|INDOCO~EQ|</Desc>
+    <BSE>532612</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>IGL</Symbol>
+    <DispName>INDRAPRASTHA GAS</DispName>
+    <Desc>IGL INDRAPRASTHA GAS LIMITED 532514|IGL~EQ|</Desc>
+    <BSE>532514</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>IRMED</Symbol>
+    <DispName>INDRAPRASTHA MEDICAL</DispName>
+    <Desc>IRMED INDRAMEDCO INDRAMEDCO INPS INDRAPRASTHA MEDICAL CORP 532150 1053|INDRAMEDCO~EQ|</Desc>
+    <BSE>532150</BSE>
+    <Sector>72</Sector>
+  </Company>
+  <Company>
+    <Symbol>IFILA</Symbol>
+    <DispName>INDUS FILA </DispName>
+    <Desc>INDUS FILA LTD 532821 IFILA|INDUSFILA~EQ|</Desc>
+    <BSE>532821</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>INDIN</Symbol>
+    <DispName>INDUSIND BANK</DispName>
+    <Desc>INDIN INDUSIND BANK INDUS IND BK INDUS 532187 1415|INDUSINDBK~EQ|</Desc>
+    <BSE>532187</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>BABS</Symbol>
+    <DispName>INEOS STYROLUTION INDIA LTD</DispName>
+    <Desc>BABS INEOS STYROLUTION INDIA STYROLUTION ABS STYROLUTION ABS (INDIA) LANXESS ABS BAYER ABS ABSIND INEOS ABS (INDIA) STYROLUTN 506222|INEOSSTYRO~EQ|</Desc>
+    <BSE>506222</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>ICSL</Symbol>
+    <DispName>INFINITE COMPUTER</DispName>
+    <Desc>ICSL INFINITE COMPUTER SOLUTION INDIA 533154|INFINITE~EQ|</Desc>
+    <BSE>533154</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>NAUKRI</Symbol>
+    <DispName>INFO EDGE</DispName>
+    <Desc>INFO EDGE NAUKRI 532777|NAUKRI~EQ|</Desc>
+    <BSE>532777</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>TTDO</Symbol>
+    <DispName>INFOMEDIA PRESS</DispName>
+    <Desc>TTDO INFOMEDIA PRESS LIMITED INFOMEDIA PRESS LTD. INFOMEDIA INDIA INFOMEDIA 18 509069 |INFOMEDIA~EQ|</Desc>
+    <BSE>509069</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>INFY</Symbol>
+    <DispName>INFOSYS LTD</DispName>
+    <Desc>INFY INFOSYS LTD INFOSYS LTD. INFOSYS TECHNOLOGIES INFY INFOSYS INFOSYSTCH 500209|INFY~EQ|</Desc>
+    <BSE>500209</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>VYSY</Symbol>
+    <DispName>ING VYSYA BANK</DispName>
+    <Desc>VYSY ING VYSYA BANK VYSYABANK 531807 742|INGVYSYABK~EQ|</Desc>
+    <BSE>531807</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>INGER</Symbol>
+    <DispName>INGERSOLL RAND</DispName>
+    <Desc>INGER INGERSOLL RAND INGERRAND 500210 635|INGERRAND~EQ|</Desc>
+    <BSE>500210</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>INVIL</Symbol>
+    <DispName>INNOVENTIVE INDUST.</DispName>
+    <Desc>INVIL INNOVENTIVE INDUSTRIES INNOVENTIVE INDUSTRIES LTD. INNOVENTIVE 533402|INNOIND~EQ|</Desc>
+    <BSE>533402</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>INOL</Symbol>
+    <DispName>INOX LEISURE</DispName>
+    <Desc>INOX INOL INOX LEISURE 532706|INOXLEISUR~EQ|</Desc>
+    <BSE>532706</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>ADPA</Symbol>
+    <DispName>INTERNATIONAL PAP.</DispName>
+    <Desc>ADPA INTERNATIONAL PAPER APPM ANDHRA PRADESH PAPER ANDHRA PRADESH PAPER MILLS ANDHRA PRADESH PAPER MILLS LIMITED APPAPER 502330|IPAPPM~EQ|</Desc>
+    <BSE>502330</BSE>
+    <Sector>19</Sector>
+  </Company>
+  <Company>
+    <Symbol>IOC</Symbol>
+    <DispName>IOC</DispName>
+    <Desc>IOC INDIAN OIL CORP IOC IOC 530965 364|IOC~EQ|</Desc>
+    <BSE>530965</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>IPLB</Symbol>
+    <DispName>IPCA LABS</DispName>
+    <Desc>IPLB IPCA LABORATORIES IPCALAB 524494 656|IPCALAB~EQ|</Desc>
+    <BSE>524494</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>IRB</Symbol>
+    <DispName>IRB INFRA.</DispName>
+    <Desc>IRB IRB INFRASTRUCTURE DEVELOPERS 532947|IRB~EQ|</Desc>
+    <BSE>532947</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>ISST</Symbol>
+    <DispName>ISMT LTD</DispName>
+    <Desc>ISST ISMT LTD ISMT LTD. INDIAN SEAMLESS STEEL ISSAL  532479 3579|ISMTLTD~EQ|</Desc>
+    <BSE>532479</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>ITC</Symbol>
+    <DispName>ITC LTD</DispName>
+    <Desc>ITC ITC LTD. I.T.C. ITC 500875 33|ITC~EQ|</Desc>
+    <BSE>500875</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>IVRI</Symbol>
+    <DispName>IVRCL LTD</DispName>
+    <Desc>IVRI IVRCL LTD. IVRCL LIMITED IVRCL INFRA  IVR CONSTRUCT IVRCONST IVRCL INFRA 530773 1018|IVRCLINFRA~EQ|</Desc>
+    <BSE>530773</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>LOGIX</Symbol>
+    <DispName>IZMO LIMITED</DispName>
+    <Desc>LOGIX IZMO LIMITED IZMO LTD. LOGIX MICROSYSTEMS LTD LOGIXMICRO 532341|IZMO~EQ|</Desc>
+    <BSE>532341</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>JKBK</Symbol>
+    <DispName>J&amp;K BANK</DispName>
+    <Desc>JKBK J &amp; K BANK J&amp;K BANK JAMMU AND KASHMIR BANK J&amp;KBANK 532209 681|J&amp;KBANK~EQ|</Desc>
+    <BSE>532209</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>JBCH</Symbol>
+    <DispName>J.B.CHEMICALS</DispName>
+    <Desc>JBCH J.B.CHEMICAL J B CHEMICALS 506943 JB CHEMICALS|JBCHEPHARM~EQ|</Desc>
+    <BSE>506943</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>JKIL</Symbol>
+    <DispName>J.KUMAR INFRA</DispName>
+    <Desc>JKIL J.KUMAR INFRAPROJECTS J KUMAR INFRAPROJECTS 532940|JKIL~EQ|</Desc>
+    <BSE>532940</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>JAGP</Symbol>
+    <DispName>JAGRAN PRAKASHAN</DispName>
+    <Desc>JAGP JAGRAN PRAKASHAN 532705|JAGRAN~EQ|</Desc>
+    <BSE>532705</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>JCLD</Symbol>
+    <DispName>JAI CORP LTD</DispName>
+    <Desc>JCLD JAI CORP LTD JAICORPLTD 512237 2966|JAICORPLTD~EQ|</Desc>
+    <BSE>512237</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>JNIR</Symbol>
+    <DispName>JAIN IRRIGATION</DispName>
+    <Desc>JNIR JAIN IRRIGATION JAINIRRIG JAIN IRRIGATION SYSTEMS LIMITED 500219 14578|JISLJALEQS~EQ|</Desc>
+    <BSE>500219</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>JPAS</Symbol>
+    <DispName>JAIPRAKASH ASSO.</DispName>
+    <Desc>JAIPRAKASH JP ASSOCIATES JPAS JAIPRAKASH ASSOCIATES JP ASSOCIATES LTD. 532532 5563|JPASSOCIAT~EQ|</Desc>
+    <BSE>532532</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>JPHY</Symbol>
+    <DispName>JAIPRAKASH POWER</DispName>
+    <Desc>JAIPRAKASH POWER VENTURES JAIPRAKASH JPHY JAIPRAKASH HYDRO  532627 48242|JPPOWER~EQ|</Desc>
+    <BSE>532627</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>JYSWN</Symbol>
+    <DispName>JAYASWAL NECO</DispName>
+    <Desc>JYSWN JAYASWAL NECO INDUS JAYASWALS NECO NAGPUR ENGG JAYASWLNEC 522285 4217|JAYNECOIND~EQ|</Desc>
+    <BSE>522285</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>JBFI</Symbol>
+    <DispName>JBF INDUSTRIES</DispName>
+    <Desc>JBFI JBF IND.LTD JBFIND 514034 -230|JBFIND~EQ|</Desc>
+    <BSE>514034</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>JET</Symbol>
+    <DispName>JET AIRWAYS</DispName>
+    <Desc>JET JET AIRWAYS 532617 31835|JETAIRWAYS~EQ|</Desc>
+    <BSE>532617</BSE>
+    <Sector>31</Sector>
+  </Company>
+  <Company>
+    <Symbol>JLDR</Symbol>
+    <DispName>JINDAL DRILLING</DispName>
+    <Desc>JLDR JINDAL DRILLING &amp; INDUSTRIES 511034 |JINDRILL~EQ|</Desc>
+    <BSE>511034</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>JLPH</Symbol>
+    <DispName>JINDAL PHOTO</DispName>
+    <Desc>JLPH JINDAL PHOTO JINDALFOTO 532624 47933|JINDALPHOT~EQ|</Desc>
+    <BSE>532624</BSE>
+    <Sector>91</Sector>
+  </Company>
+  <Company>
+    <Symbol>SAWP</Symbol>
+    <DispName>JINDAL SAW LTD</DispName>
+    <Desc>SAWP JINDAL SAW LTD SAW PIPES SAWPIPES 500378 79|JINDALSAW~EQ|</Desc>
+    <BSE>500378</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>JNST</Symbol>
+    <DispName>JINDAL STAINLESS</DispName>
+    <Desc>JNST JINDAL STAINLESS JSL STAINLESS JSL LIMITED JINDAL STAINLESS LIMITED JINDAL STAINLESS LTD. 532508|JSL~EQ|</Desc>
+    <BSE>532508</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>JISPL</Symbol>
+    <DispName>JINDAL STEEL &amp; POWER</DispName>
+    <Desc>JISPL JINDAL STEEL &amp; POWER JINDALSTEL 532286 146|JINDALSTEL~EQ|</Desc>
+    <BSE>532286</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>JKCE</Symbol>
+    <DispName>JK CEMENT</DispName>
+    <Desc>JKCE JK CEMENTS J.K. CEMENT J K CEMENT LIMITED J K CEMENT LIMITED 532644|JKCEMENT~EQ|</Desc>
+    <BSE>532644</BSE>
+    <Sector>5</Sector>
+  </Company>
+  <Company>
+    <Symbol>JKCO</Symbol>
+    <DispName>JK LAKSHMI CEMENT</DispName>
+    <Desc>JKCO JK CEMENT JK LAKSHMI CEMENT JK CORPN.LTD J.K.CORPORATION JK CORP J. K. CORP J.K. CORP JKCORP 500380 1604|JKLAKSHMI~EQ|</Desc>
+    <BSE>500380</BSE>
+    <Sector>5</Sector>
+  </Company>
+  <Company>
+    <Symbol>CPMS</Symbol>
+    <DispName>JK PAPER</DispName>
+    <Desc>JK CPMS JK PAPER CENT PULP MILLS 532162 35867|JKPAPER~EQ|</Desc>
+    <BSE>532162</BSE>
+    <Sector>19</Sector>
+  </Company>
+  <Company>
+    <Symbol>JKID</Symbol>
+    <DispName>JK TYRE &amp; IND</DispName>
+    <Desc>JKID JK TYRE &amp; IND JK TYRE &amp; INDUSTIRES LTD.  J.K. INDUSTRIES 530007 |JKTYRE~EQ|</Desc>
+    <BSE>530007</BSE>
+    <Sector>24</Sector>
+  </Company>
+  <Company>
+    <Symbol>JSWE</Symbol>
+    <DispName>JSW ENERGY</DispName>
+    <Desc>JSWE JSW ENERGY 533148|JSWENERGY~EQ|</Desc>
+    <BSE>533148</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>JSWH</Symbol>
+    <DispName>JSW HOLDINGS</DispName>
+    <Desc>JSWH JSW HOLDINGS LIMITED JSW HOLDINGS LTD. JINDAL SOUTHWEST HOLDING 532642|JSWHL~EQ|</Desc>
+    <BSE>532642</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>ISPAT</Symbol>
+    <DispName>JSW ISPAT</DispName>
+    <Desc>ISPAT JSW ISPAT JSW ISPAT STEEL LTD. JSW ISPAT STEEL ISPAT INDS. ISPAT INDUSTRIES NIPPONDENR0 500305 2249|JSWISPAT|</Desc>
+    <BSE>500305</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>JLVY</Symbol>
+    <DispName>JSW STEEL</DispName>
+    <Desc>JLVY JSW STEEL JINDAL VIJAY JINDVIJSTL 500228 668|JSWSTEEL~EQ|</Desc>
+    <BSE>500228</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>JFWL</Symbol>
+    <DispName>JUBILANT FOODWORKS</DispName>
+    <Desc>JFWL JUBILANT FOODWORKS 533155|JUBLFOOD~EQ|</Desc>
+    <BSE>533155</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>JUBOL</Symbol>
+    <DispName>JUBILANT LIFE SCIENCES</DispName>
+    <Desc>VMOR JUBILANT LIFE SCIENCES JUBILANT LIFE SCIENCES LTD VAM ORGANIC VAMORGANIC JUBILANT ORGANOSYS JUBILANT ORGANOSYS LTD 530019 1333|JUBILANT~EQ|</Desc>
+    <BSE>530019</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>JYLB</Symbol>
+    <DispName>JYOTHY LABS</DispName>
+    <Desc>JYLB JYOTHY LABS LIMITED JYOTHY LABORATORIES LIMITED 532926|JYOTHYLAB~EQ|</Desc>
+    <BSE>532926</BSE>
+    <Sector>10</Sector>
+  </Company>
+  <Company>
+    <Symbol>JYTST</Symbol>
+    <DispName>JYOTI STRUCTURE</DispName>
+    <Desc>JYTST JYOTI STRUCT JYOTISTRUC 513250 2109|JYOTISTRUC~EQ|</Desc>
+    <BSE>513250</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>KSOL</Symbol>
+    <DispName>K.S.OILS LTD</DispName>
+    <Desc>KSOL K.S.OILS K S OILS KS OILS 526209|KSOILS|</Desc>
+    <BSE>526209</BSE>
+    <Sector>10</Sector>
+  </Company>
+  <Company>
+    <Symbol>KJCR</Symbol>
+    <DispName>KAJARIA CERAMICS</DispName>
+    <Desc>KJCR KAJARIA CERAMICS KAJARIACER 500233 954|KAJARIACER~EQ|</Desc>
+    <BSE>500233</BSE>
+    <Sector>33</Sector>
+  </Company>
+  <Company>
+    <Symbol>KAPW</Symbol>
+    <DispName>KALPATARU POWER</DispName>
+    <Desc>KAPW KALPATARU POWER KALPAT 522287 2689|KALPATPOWR~EQ|</Desc>
+    <BSE>522287</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>KYST</Symbol>
+    <DispName>KALYANI STEELS</DispName>
+    <Desc>KYST KALYANI STEELS LTD 500235 1707|KSL~EQ|</Desc>
+    <BSE>500235</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>KACH</Symbol>
+    <DispName>KANORIA CHEMICALS</DispName>
+    <Desc>KACH KANORIA CHEMICALS KANORICHEM 506525 6658|KANORICHEM~EQ|</Desc>
+    <BSE>506525</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>GLNE</Symbol>
+    <DispName>KANSAI NEROLAC</DispName>
+    <Desc>GLNE KANSAI GOODLASS NEROLAC GNPL GOODLASNER 500165 1291|KANSAINER~EQ|</Desc>
+    <BSE>500165</BSE>
+    <Sector>18</Sector>
+  </Company>
+  <Company>
+    <Symbol>KBANK</Symbol>
+    <DispName>KARNATAKA BANK</DispName>
+    <Desc>KBANK KARNATAKA BANK THE KARNATAKA BANK KARNATAKA BANK LIMITED KARNATAKA BANK LTD. 532652|KTKBANK~EQ|</Desc>
+    <BSE>532652</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>KARUR</Symbol>
+    <DispName>KARUR VYSYA BANK</DispName>
+    <Desc>KARUR KARUR VYSYSBANK KARURVYSYA KARUR VYSYA BANK LTD. 590003|KARURVYSYA~EQ|</Desc>
+    <BSE>590003</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>KARUT</Symbol>
+    <DispName>KARUTURI GLOBAL</DispName>
+    <Desc>KARUT KARUTURI GLOBAL KARUTURI NETWORKS LTD KARUTURI FLO KARUTURI GLOBAL LIMITED 531687|KGL~EQ|</Desc>
+    <BSE>531687</BSE>
+    <Sector>10</Sector>
+  </Company>
+  <Company>
+    <Symbol>KSCL</Symbol>
+    <DispName>KAVERI SEED</DispName>
+    <Desc>KSCL KAVERI SEED COMPANY LIMITED 532899|KSCL~EQ|</Desc>
+    <BSE>532899</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>KECI</Symbol>
+    <DispName>KEC INTERNATIONAL</DispName>
+    <Desc>KECI KEC INTERNATIONAL 532714|KEC~EQ|</Desc>
+    <BSE>532714</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>KEIN</Symbol>
+    <DispName>KEI INDUSTRIES</DispName>
+    <Desc>KEIN KEI INDUSTRIES 517569|KEI~EQ|</Desc>
+    <BSE>517569</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>WDIA</Symbol>
+    <DispName>KENNAMETAL INDIA</DispName>
+    <Desc>WDIA KENNAMETAL INDIA KENNAMETAL WIDIA  505890 </Desc>
+    <BSE>505890</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>KESO</Symbol>
+    <DispName>KESORAM IND</DispName>
+    <Desc>KESO KESORAM INDUSTRIES KESORAMIND 502937 253|KESORAMIND~EQ|</Desc>
+    <BSE>502937</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>KKCL</Symbol>
+    <DispName>KEWAL KIRAN CLOTH</DispName>
+    <Desc>KKCL KEWAL KIRAN CLOTH KEWAL KIRAN CLOTHING KEWAL KIRAN CLOTHING LIMITED KEWAL KIRAN CLOTHING LTD. 532732|KKCL~EQ|</Desc>
+    <BSE>532732</BSE>
+    <Sector>104</Sector>
+  </Company>
+  <Company>
+    <Symbol>DCAV</Symbol>
+    <DispName>KINGFISHER AIRLINES</DispName>
+    <Desc>DCAV KINGFISHER AIRLINES AIRDECCAN DECCAN AVIATION 532747|KFA~EQ|</Desc>
+    <BSE>532747</BSE>
+    <Sector>31</Sector>
+  </Company>
+  <Company>
+    <Symbol>KLBR</Symbol>
+    <DispName>KIRLOSKAR BROS.</DispName>
+    <Desc>KLBR KIRLOSKAR BROTHERS KIRL.BROS. 500241|KIRLOSBROS~EQ|</Desc>
+    <BSE>500241</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>KLOE</Symbol>
+    <DispName>KIRLOSKAR INDUSTRIES</DispName>
+    <Desc>KLOE KIRLOSKAR INDUSTRIES KIRLOSKAR OIL ENGINES KOEL KIRLOSOIL 500243 1226|KIRLOSIND~EQ|</Desc>
+    <BSE>500243</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>KXGN</Symbol>
+    <DispName>KITEX GARMENTS</DispName>
+    <Desc>KXGN KITEX GARMENTS KITEX GARMENTS LIMITED KITEX GARMENTS LTD. KITEXTX 521248|KITEX~EQ|</Desc>
+    <BSE>521248</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>KOLTE</Symbol>
+    <DispName>KOLTE PATIL</DispName>
+    <Desc>KOLTE PATIL DEVELOPERS KOLTE - PATIL DEVELOPERS 532924|KOLTEPATIL~EQ|</Desc>
+    <BSE>532924</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>KOTAK</Symbol>
+    <DispName>KOTAK MAH. BANK</DispName>
+    <Desc>KOTAK KOTAK MAHINDRA BANK LIMITED KOTAK MAHINDRA BANK LTD. KOTAK MAHINDRA FINANCE LTD. KMFL KOTAKMAH KOTAK BANK 500247 1121|KOTAKBANK~EQ|</Desc>
+    <BSE>500247</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>KOPD</Symbol>
+    <DispName>KOTHARI PRODUCTS</DispName>
+    <Desc>KOPD KOTHARI PRODUCTS LIMITED KOTHARI PRODUCTS LTD. 530299 1173|KOTHARIPRO~EQ|</Desc>
+    <BSE>530299</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>KPIT</Symbol>
+    <DispName>KPIT TECHNOLOGIES</DispName>
+    <Desc>KPIT KPIT TECHNOLOGIES LIMITED KPIT TECHNOLOGIES LTD. KPIT CUMMINS INFO KPIT SYSTEMS KPIT KPIT CUMMINS INFOSYSTEMS LIMITED 532400|KPIT~EQ|</Desc>
+    <BSE>532400</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>KHRB</Symbol>
+    <DispName>KRBL LIMITED</DispName>
+    <Desc>KHRB KRBL LIMITED KHUSHI RAM B 530813 19437|KRBL~EQ|</Desc>
+    <BSE>530813</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>KSBP</Symbol>
+    <DispName>KSB PUMPS</DispName>
+    <Desc>KSBP KSB PUMPS KSBPUMPS 500249 1315|KSBPUMPS~EQ|</Desc>
+    <BSE>500249</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>KWDR</Symbol>
+    <DispName>KWALITY DAIRY</DispName>
+    <Desc>KWDR KWALITY DAIRY (INDIA) 531882|KWALITY~EQ|</Desc>
+    <BSE>531882</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>LART</Symbol>
+    <DispName>L&amp;T</DispName>
+    <Desc>LART LARSEN &amp; TOUBRO L&amp;T L&amp;T 500510 21|LT~EQ|</Desc>
+    <BSE>500510</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>LNTFH</Symbol>
+    <DispName>L&amp;T FINANCE HOLDINGS</DispName>
+    <Desc>LNTFH L&amp;T FINANCE L&amp;T FINANCE HOLDINGS L&amp;T FINANCE HOLDINGS LTD. LARSEN &amp; TURBO 533519|L&amp;TFH~EQ|</Desc>
+    <BSE>533519</BSE>
+    <Sector>14</Sector>
+  </Company>
+  <Company>
+    <Symbol>LAMH</Symbol>
+    <DispName>LAKSHMI MACHINE</DispName>
+    <Desc>LAMH LAKSHMI MACHINE WORKS LAKSHMI MACH LAXMIMACH LMW WORKS 500252|LAXMIMACH~EQ|</Desc>
+    <BSE>500252</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>LAOV</Symbol>
+    <DispName>LAKSHMI OVERSEAS IND.</DispName>
+    <Desc>LAOV LAKSHMI OVERSEAS IND. LAKSHMI OVERSEAS INDUSTRIES LIMITED 519570|LAKSHMIEFL~EQ|</Desc>
+    <BSE>519570</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>LITL</Symbol>
+    <DispName>LANCO INFRATECH</DispName>
+    <Desc>LANCO INFRATECH 532778 LITL|LITL~EQ|</Desc>
+    <BSE>532778</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>LICHF</Symbol>
+    <DispName>LIC HOUSING</DispName>
+    <Desc>LICHF LIC HOUSING FINANCE LICHSGFIN 500253 444|LICHSGFIN~EQ|</Desc>
+    <BSE>500253</BSE>
+    <Sector>14</Sector>
+  </Company>
+  <Company>
+    <Symbol>LCPP</Symbol>
+    <DispName>LINC PEN &amp; PLASTICS LTD</DispName>
+    <Desc>LCPP LINC PEN &amp; LTD PLASTICS LINC PEN &amp; PLASTICS LIMITED LINC PEN PLASTICS LTD. LINC PEN &amp;PL 531241 |LINCPEN~EQ|</Desc>
+    <BSE>531241</BSE>
+    <Sector>10</Sector>
+  </Company>
+  <Company>
+    <Symbol>BOC</Symbol>
+    <DispName>LINDE INDIA</DispName>
+    <Desc>BOC LINDE INDIA LINDE INDIA LIMITED LINDE INDIA LTD. BOC (I) LTD. BRITISH OXYGEN IOL 523457|LINDEINDIA~EQ|</Desc>
+    <BSE>523457</BSE>
+    <Sector>73</Sector>
+  </Company>
+  <Company>
+    <Symbol>LDEL</Symbol>
+    <DispName>LLOYD ELECTRIC</DispName>
+    <Desc>LDEL LLOYD ELECT. LLOYDELENG 517518 3937|LLOYDELENG~EQ|</Desc>
+    <BSE>517518</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>LOVAL</Symbol>
+    <DispName>LOVABLE LINGERIE</DispName>
+    <Desc>LOVAL LOVABLE LINGERIE LOVABLE LINGERIE LTD. 533343|LOVABLE~EQ|</Desc>
+    <BSE>533343</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>LUPL</Symbol>
+    <DispName>LUPIN LTD</DispName>
+    <Desc>LUPL LUPIN LIMITED LUPIN CHEMICALS LUPIN LABORATORIES 500257 13897|LUPIN~EQ|</Desc>
+    <BSE>500257</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>MAHM</Symbol>
+    <DispName>M&amp;M</DispName>
+    <Desc>MAHM MAHINDRA &amp; MAHINDRA M&amp;M M &amp; M M&amp;M MAHINDRA 500520 91|M&amp;M~EQ|</Desc>
+    <BSE>500520</BSE>
+    <Sector>35</Sector>
+  </Company>
+  <Company>
+    <Symbol>MPRJ</Symbol>
+    <DispName>MADHUCON PROJECTS</DispName>
+    <Desc>MPRJ MADHUCON PROJECTS 531497|MADHUCON~EQ|</Desc>
+    <BSE>531497</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>MMLG</Symbol>
+    <DispName>MAGMA FINCORP</DispName>
+    <Desc>MMLG MAGMA SHRACHI FINANCE MAGMA LEASING MAGMA FINCORP 524000 36159|MAGMA~EQ|</Desc>
+    <BSE>524000</BSE>
+    <Sector>14</Sector>
+  </Company>
+  <Company>
+    <Symbol>MASM</Symbol>
+    <DispName>MAH. SEAMLESS</DispName>
+    <Desc>MASM MAH.SEAMLESS MAHARASHTRA SEAMLESS MAHSEAMLES 500265|MAHSEAMLES~EQ|</Desc>
+    <BSE>500265</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>MMFS</Symbol>
+    <DispName>MAHINDRA FINANCE</DispName>
+    <Desc>MMFS MAHINDRA FINANCE MAHINDRA M&amp;M FINANCIAL SERVICES 532720|M&amp;MFIN~EQ|</Desc>
+    <BSE>532720</BSE>
+    <Sector>14</Sector>
+  </Company>
+  <Company>
+    <Symbol>MHRI</Symbol>
+    <DispName>MAHINDRA HOLIDAYS</DispName>
+    <Desc>MHRI MAHINDRA HOLIDAYS &amp; RESORTS 533088|MHRIL~EQ|</Desc>
+    <BSE>533088</BSE>
+    <Sector>13</Sector>
+  </Company>
+  <Company>
+    <Symbol>GESCO</Symbol>
+    <DispName>MAHINDRA LIFESPACE </DispName>
+    <Desc>GESCO MAHINDRA GESCO MAHINDRA LIFESPACE DEVELOPERS  532313 835|MAHLIFE~EQ|</Desc>
+    <BSE>532313</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>MAND</Symbol>
+    <DispName>MAN IND.(I)</DispName>
+    <Desc>MAND MAN IND.(I) MANALUMN MAN INDUSTRIES 513269 -851|MANINDS~EQ|</Desc>
+    <BSE>513269</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>MNPT</Symbol>
+    <DispName>MANALI PETRO</DispName>
+    <Desc>MNPT MANALI PETRO MANALIPET 500268 2776|MANALIPETC~EQ|</Desc>
+    <BSE>500268</BSE>
+    <Sector>20</Sector>
+  </Company>
+  <Company>
+    <Symbol>MGLC</Symbol>
+    <DispName>MANGALAM CEMENT</DispName>
+    <Desc>MGLC MANGALAM CEMENT MANGLMCEM MANGALAM CEMENT LIMITED 502157|MANGLMCEM~EQ|</Desc>
+    <BSE>502157</BSE>
+    <Sector>5</Sector>
+  </Company>
+  <Company>
+    <Symbol>MNGL</Symbol>
+    <DispName>MANGALORE CHEM.</DispName>
+    <Desc>MNGL MANGLR.CHEM MANGALORE CHEMICALS &amp; FERTILISERS LTD. 530011|MANGCHEFER~EQ|</Desc>
+    <BSE>530011</BSE>
+    <Sector>36</Sector>
+  </Company>
+  <Company>
+    <Symbol>MGRI</Symbol>
+    <DispName>MANUGRAPH INDIA</DispName>
+    <Desc>MGRI MANUGRAPH INDIA MANUGRAIND 505324 -1490|MANUGRAPH~EQ|</Desc>
+    <BSE>505324</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>PIRLS</Symbol>
+    <DispName>MARATHON NEXTGEN</DispName>
+    <Desc>PIRLS PIRAMAL SPG. &amp; WEAVING MILLS LTD.  MARATHON NEXTGEN REALTY &amp; TEXTILES LTD. 503101</Desc>
+    <BSE>503101</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>MRGC</Symbol>
+    <DispName>MARG LTD</DispName>
+    <Desc>MRGC MARG CONSTRUCTION MARG LTD 530543|MARG~EQ|</Desc>
+    <BSE>530543</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>MRCO</Symbol>
+    <DispName>MARICO LTD</DispName>
+    <Desc>MRCO MARICO LTD. MARICO LIMITED MARICO INDUSTRIES MARICOIND 531642 1056|MARICO~EQ|</Desc>
+    <BSE>531642</BSE>
+    <Sector>10</Sector>
+  </Company>
+  <Company>
+    <Symbol>MARUTI</Symbol>
+    <DispName>MARUTI SUZUKI</DispName>
+    <Desc>MARUTI MARUTI SUZUKI UDYOG 532500 48756|MARUTI~EQ|</Desc>
+    <BSE>532500</BSE>
+    <Sector>35</Sector>
+  </Company>
+  <Company>
+    <Symbol>MAST</Symbol>
+    <DispName>MASTEK</DispName>
+    <Desc>MAST MASTEK MASTEK 523704 142|MASTEK~BE|</Desc>
+    <BSE>523704</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>MAXL</Symbol>
+    <DispName>MAX FINANCIAL SERVICES LTD</DispName>
+    <Desc>MAXL MAX (I) LTD. MAX FINANCIAL SERVICES MAX INDIA MAX INDIA LTD 500271 509|MFSL~EQ|</Desc>
+    <BSE>500271</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>MYUN</Symbol>
+    <DispName>MAYUR UNIQUOTERS</DispName>
+    <Desc>MYUN MAYUR UNIQUOTERS MAYUR UNIQUOTERS LIMITED MAYURUN 522249|MAYURUNIQ~EQ|</Desc>
+    <BSE>522249</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>MCRL</Symbol>
+    <DispName>MCLEOD RUSSEL</DispName>
+    <Desc>MCRL MCLEOD RUSSEL MCLEODRUS 532654 -371|MCLEODRUSS~EQ|</Desc>
+    <BSE>532654</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>MRCR</Symbol>
+    <DispName>MERCATOR LTD</DispName>
+    <Desc>MRCR MERCATOR LTD MERCATOR LIMITED MERCATOR LINES 526235|MERCATOR~EQ|</Desc>
+    <BSE>526235</BSE>
+    <Sector>25</Sector>
+  </Company>
+  <Company>
+    <Symbol>EMER</Symbol>
+    <DispName>MERCK LTD</DispName>
+    <Desc>EMER EMERCK  MERCK EMERCK 500126 406|MERCK~EQ|</Desc>
+    <BSE>500126</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>MICE</Symbol>
+    <DispName>MIC ELECTRONICS</DispName>
+    <Desc>MICE MIC ELECTRONICS LTD. MIC ELECTRONICS LIMITED 532850|MIC~EQ|</Desc>
+    <BSE>532850</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>MITH</Symbol>
+    <DispName>MICRO TECH</DispName>
+    <Desc>MITH MICRO TECH MICRO TECHNOLOGIES LTD MICRO TECHNOLOGIES INDIA LIMITED 532494|MICROTECH~EQ|</Desc>
+    <BSE>532494</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>MIND</Symbol>
+    <DispName>MINDTREE LTD</DispName>
+    <Desc>MINDTREE CONSULTING LTD MINDTREE 532819|MINDTREE~EQ|</Desc>
+    <BSE>532819</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>MIRC</Symbol>
+    <DispName>MIRC ELEC.</DispName>
+    <Desc>MIRC MIRC ELECTRONICS MIRCELECTR 500279 334|MIRCELECTR~EQ|</Desc>
+    <BSE>500279</BSE>
+    <Sector>9</Sector>
+  </Company>
+  <Company>
+    <Symbol>MZTN</Symbol>
+    <DispName>MIRZA INTL</DispName>
+    <Desc>MZTN MIRZA INTL MIRZA INTERNATIONAL LTD MIRZA TANNER MIRZATAN MIRZA INTERNATIONAL LIMITED 526642|MIRZAINT~EQ|</Desc>
+    <BSE>526642</BSE>
+    <Sector>104</Sector>
+  </Company>
+  <Company>
+    <Symbol>MMTC</Symbol>
+    <DispName>MMTC LTD</DispName>
+    <Desc>MMTC  MMTC LTD MINERALS &amp; METALS TRADING 513377|MMTC~EQ|</Desc>
+    <BSE>513377</BSE>
+    <Sector>83</Sector>
+  </Company>
+  <Company>
+    <Symbol>MOIL</Symbol>
+    <DispName>MOIL LTD</DispName>
+    <Desc>MOIL MOIL LTD MOIL LIMITED 533286|MOIL~EQ|</Desc>
+    <BSE>533286</BSE>
+    <Sector>83</Sector>
+  </Company>
+  <Company>
+    <Symbol>MNIT</Symbol>
+    <DispName>MONNET ISPAT</DispName>
+    <Desc>MNIT MONNET ISPAT MONNETISPA 513446 633|MONNETISPA~EQ|</Desc>
+    <BSE>513446</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>MOCH</Symbol>
+    <DispName>MONSANTO INDIA</DispName>
+    <Desc>MOCH MONSANTO CHEMICALS OF INDIA LTD. 524084 520|MONSANTO~EQ|</Desc>
+    <BSE>524084</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>MRBR</Symbol>
+    <DispName>MOSER-BAER INDIA</DispName>
+    <Desc>MRBR MOSER-BAER INDIA MOSER BAER MOSERBAER 517140|MOSERBAER~EQ|</Desc>
+    <BSE>517140</BSE>
+    <Sector>7</Sector>
+  </Company>
+  <Company>
+    <Symbol>MHSS</Symbol>
+    <DispName>MOTHERSON SUMI</DispName>
+    <Desc>MHSS MOTHERSON SUMI MOTHERSON SUMI SYSTEMS LTD. MOTHERSON SUMI SYSTEMS LIMITED 517334|MOTHERSUMI~EQ|</Desc>
+    <BSE>517334</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>MOTIL</Symbol>
+    <DispName>MOTILAL OSWAL</DispName>
+    <Desc>MOTIL MOTILAL OSWAL FINANCIAL SERVICES 532892|MOTILALOFS~EQ|</Desc>
+    <BSE>532892</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>BFL</Symbol>
+    <DispName>MPHASIS LTD</DispName>
+    <Desc>BFL BFL SOFTWARE MPHASIS BFL BFLSOFTWAR 526299 959|MPHASIS~EQ|</Desc>
+    <BSE>526299</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>MACM</Symbol>
+    <DispName>MPS LTD</DispName>
+    <Desc>MACM MPS LTD MACMILLAN 532440 19438|MPSLTD~EQ|</Desc>
+    <BSE>532440</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>MRF</Symbol>
+    <DispName>MRF LTD.</DispName>
+    <Desc>MRF MRF LTD. MRF 500290 832|MRF~EQ|</Desc>
+    <BSE>500290</BSE>
+    <Sector>24</Sector>
+  </Company>
+  <Company>
+    <Symbol>MRPL</Symbol>
+    <DispName>MRPL</DispName>
+    <Desc>MRPL MANGALORE REFINERY &amp; PETROCHEMICALS LTD. MRPL 500109|MRPL~EQ|</Desc>
+    <BSE>500109</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>MTEL</Symbol>
+    <DispName>MT EDUCARE</DispName>
+    <Desc>MTEL MT EDUCARE MT EDUCARE LIMITED MT EDUCARE LTD. 534312|MTEDUCARE~EQ|</Desc>
+    <BSE>534312</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>MTNL</Symbol>
+    <DispName>MTNL</DispName>
+    <Desc>MTNL MAHANAGAR TELEPHONE NIGAM LIMITED MTNL MTNL 500108 43|MTNL~EQ|</Desc>
+    <BSE>500108</BSE>
+    <Sector>28</Sector>
+  </Company>
+  <Company>
+    <Symbol>MUKD</Symbol>
+    <DispName>MUKAND LIMITED</DispName>
+    <Desc>MUKD MUKAND LIMITED MUKAND 500460 27424|MUKANDLTD~EQ|</Desc>
+    <BSE>500460</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>MJSW</Symbol>
+    <DispName>MUNJAL SHOWA</DispName>
+    <Desc>MJSW MUNJAL SHOWA MUNJALSHOW 520043 1791|MUNJALSHOW~EQ|</Desc>
+    <BSE>520043</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>MUTFL</Symbol>
+    <DispName>MUTHOOT FINANCE</DispName>
+    <Desc>MUTFL MUTHOOT FINANCE MUTHOOT FINANCE LTD. MUTHOOT 533398|MUTHOOTFIN~EQ|</Desc>
+    <BSE>533398</BSE>
+    <Sector>14</Sector>
+  </Company>
+  <Company>
+    <Symbol>NRAG</Symbol>
+    <DispName>NAGARJUNA AGRICHEM</DispName>
+    <Desc>NRAG NAGARJUNA AGRICHEM 524709</Desc>
+    <BSE>524709</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>NRSP</Symbol>
+    <DispName>NAHAR SPINNING M</DispName>
+    <Desc>NRSP NAHAR SPINNING MILLS NAHARSPG 500296 55037|NAHARSPING~EQ|</Desc>
+    <BSE>500296</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>NALCO</Symbol>
+    <DispName>NALCO</DispName>
+    <Desc>NALCO NALCO NATIONAL ALUMINIUM COMPANY LIMITED NATIONALUM 532234 299|NATIONALUM~EQ|</Desc>
+    <BSE>532234</BSE>
+    <Sector>1</Sector>
+  </Company>
+  <Company>
+    <Symbol>JLSP</Symbol>
+    <DispName>NALWA SONS INV</DispName>
+    <Desc>JLSP NALWA SONS INV JINDAL STRIPS 532256|NSIL~EQ|</Desc>
+    <BSE>532256</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>NTPH</Symbol>
+    <DispName>NATCO PHARMA</DispName>
+    <Desc>NTPH NATCO PHARMA NATCOPHARM 524816 2715|NATCOPHARM~EQ|</Desc>
+    <BSE>524816</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>NTFR</Symbol>
+    <DispName>NATIONAL FERT.</DispName>
+    <Desc>NTFR NATIONAL FERTILIZERS 523630|NFL~EQ|</Desc>
+    <BSE>523630</BSE>
+    <Sector>36</Sector>
+  </Company>
+  <Company>
+    <Symbol>NABF</Symbol>
+    <DispName>NAVA BHARAT VENTURES</DispName>
+    <Desc>NABF NAVA BHARAT VENTURES  NAVBARFERO 513023 2903|NBVENTURES~EQ|</Desc>
+    <BSE>513023</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>POLN</Symbol>
+    <DispName>NAVIN FLUORINE</DispName>
+    <Desc>POLN NAVIN FLUORINE INTERNATIONAL POLYOLFINS 532504|NAVINFLUOR~EQ|</Desc>
+    <BSE>532504</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>NAVN</Symbol>
+    <DispName>NAVNEET EDUCATION</DispName>
+    <Desc>NAVN NAVNEET EDUCATION LIMITED NAVNEET EDUCATION LTD. NAVNEET PUBLICATIONS NAVNETPUBL 508989|NAVNETEDUL~EQ|</Desc>
+    <BSE>508989</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>NRCN</Symbol>
+    <DispName>NCC LTD</DispName>
+    <Desc>NCC NRCN NCC LIMITED NCC LTD. NAGARJUNA CONSTRUCTION NAGAR CONST NAGARCONST NCC 500294|NCC~EQ|</Desc>
+    <BSE>500294</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>NDTV</Symbol>
+    <DispName>NDTV</DispName>
+    <Desc>NDTV NEW DELHI TELEVISION LTD. 532529|NDTV~EQ|</Desc>
+    <BSE>532529</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>NWSE</Symbol>
+    <DispName>NESCO LIMITED</DispName>
+    <Desc>NWSE NESCO LIMITED NESCO 505355|NESCO~EQ|</Desc>
+    <BSE>505355</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>NEST</Symbol>
+    <DispName>NESTLE</DispName>
+    <Desc>NEST NESTLE INDIA LTD. NESTLE 500790|NESTLEIND~EQ|</Desc>
+    <BSE>500790</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>MIDDY</Symbol>
+    <DispName>NEXT MEDIAWORKS</DispName>
+    <Desc>MIDDY NEXT MEDIAWORKS NEXT MEDIAWORKS LTD. MID-DAY MULTIMEDIA MID DAY MIDDAY 532416|NEXTMEDIA~EQ|</Desc>
+    <BSE>532416</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>NYVL</Symbol>
+    <DispName>NEYVELI LIGNITE</DispName>
+    <Desc>NYVL NEYVELI LIGNITE CORPORATION 513683 573|NEYVELILIG~EQ|</Desc>
+    <BSE>513683</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>NHPC</Symbol>
+    <DispName>NHPC LTD</DispName>
+    <Desc>NHPC NHPC LTD 533098|NHPC~EQ|</Desc>
+    <BSE>533098</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>NIIT</Symbol>
+    <DispName>NIIT LTD</DispName>
+    <Desc>NIIT NIIT LTD. NIIT 500304 31119|NIITLTD~EQ|</Desc>
+    <BSE>500304</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>NIITT</Symbol>
+    <DispName>NIIT TECHNOLOGIES</DispName>
+    <Desc>NIITT NIIT TECHNOLOGIES 532541 NIIT TECHNOLOGIES LIMITED NIITTECH|NIITTECH~EQ|</Desc>
+    <BSE>532541</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>NILK</Symbol>
+    <DispName>NILKAMAL LTD.</DispName>
+    <Desc>NILK NILKAMAL LTD. NILKAMAL LIMITED NILKAMAL PLASTICS NILKAMPLST NILKAMAL 523385|NILKAMAL~EQ|</Desc>
+    <BSE>523385</BSE>
+    <Sector>22</Sector>
+  </Company>
+  <Company>
+    <Symbol>NITCO</Symbol>
+    <DispName>NITCO LTD</DispName>
+    <Desc>NITCO NITCO TILES NITCO LTD NITCO LIMITED 532722|NITCO~EQ|</Desc>
+    <BSE>532722</BSE>
+    <Sector>33</Sector>
+  </Company>
+  <Company>
+    <Symbol>NFIR</Symbol>
+    <DispName>NITIN FIRE PROTEC</DispName>
+    <Desc>NFIR NITIN FIRE PROTECTION INDUSTRIES LTD. 532854|NITINFIRE~EQ|</Desc>
+    <BSE>532854</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>NTML</Symbol>
+    <DispName>NMDC LTD</DispName>
+    <Desc>NTML NATIONAL MINERAL DEVELOPMENT NMDC LTD 526371|NMDC~EQ|</Desc>
+    <BSE>526371</BSE>
+    <Sector>83</Sector>
+  </Company>
+  <Company>
+    <Symbol>NOCIL</Symbol>
+    <DispName>NOCIL LTD.</DispName>
+    <Desc>NOCIL NATIONAL ORGANIC CHEMICALS NOCIL NOCIL 500730 533|NOCIL~EQ|</Desc>
+    <BSE>500730</BSE>
+    <Sector>20</Sector>
+  </Company>
+  <Company>
+    <Symbol>NOTO</Symbol>
+    <DispName>NOIDA TOLL BRIDGE</DispName>
+    <Desc>NOTO NOIDA TOLL BRIDGE NOIDATOLLBRIDGE NOIDA TOLL BRIDGE COMPANY LIMITED 532481 53831|NOIDATOLL~EQ|</Desc>
+    <BSE>532481</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>NVRT</Symbol>
+    <DispName>NOVARTIS</DispName>
+    <Desc>NVRT NOVARTIS INDIA LTD. NOVARTIS 500672 381</Desc>
+    <BSE>500672</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>NRBB</Symbol>
+    <DispName>NRB BEARINGS</DispName>
+    <Desc>NRBB NRB BEARINGS 530367 1775|NRBBEARING~EQ|</Desc>
+    <BSE>530367</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>NTPC</Symbol>
+    <DispName>NTPC</DispName>
+    <Desc>NTPC NATIONAL THERMAL POWER CORP 532555 40145|NTPC~EQ|</Desc>
+    <BSE>532555</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>NUSE</Symbol>
+    <DispName>NUCLEUS SOFTWARE</DispName>
+    <Desc>NUSE NUCLEUS SOFTWARE EXPORTS NUCLE.SOFT NUCLEUS SOFTWARE EXPORTS LIMITED 531209|NUCLEUS~EQ|</Desc>
+    <BSE>531209</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>OIL</Symbol>
+    <DispName>OIL INDIA LTD.</DispName>
+    <Desc>OIL OIL INDIA LTD. 533106|OIL~EQ|</Desc>
+    <BSE>533106</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>OXAU</Symbol>
+    <DispName>OMAX AUTOS.</DispName>
+    <Desc>OXAU OMAX AUTOS. 520021 34335|OMAXAUTO~EQ|</Desc>
+    <BSE>520021</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>OMAXE</Symbol>
+    <DispName>OMAXE LTD</DispName>
+    <Desc>OMAXE OMAXE LTD 532880 24520|OMAXE~EQ|</Desc>
+    <BSE>532880</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>ONGC</Symbol>
+    <DispName>ONGC</DispName>
+    <Desc>ONGC ONGC OIL &amp; NATURAL GAS CORPORATION OF INDIA LTD. ONGC 500312 398|ONGC~EQ|</Desc>
+    <BSE>500312</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>ONMG</Symbol>
+    <DispName>ONMOBILE GLOBAL</DispName>
+    <Desc>ONMG ONMOBILE GLOBAL 532944|ONMOBILE~EQ|</Desc>
+    <BSE>532944</BSE>
+    <Sector>28</Sector>
+  </Company>
+  <Company>
+    <Symbol>OPCT</Symbol>
+    <DispName>OPTO CIRCUITS</DispName>
+    <Desc>OPTO CIRCUITS OPCT OPTO CIRCUITS INDIA LTD. OPTO CIRCUITS INDIA LIMITED 532391|OPTOCIRCUI~EQ|</Desc>
+    <BSE>532391</BSE>
+    <Sector>65</Sector>
+  </Company>
+  <Company>
+    <Symbol>IFLEX</Symbol>
+    <DispName>ORACLE FINANCIAL SERVICES</DispName>
+    <Desc>IFLEX IFLEX SOLUTIONS I-FLEX SOLUTIONS ORACLE FINANCIAL SERVICES SOFTWARE 532466 21718|OFSS~EQ|</Desc>
+    <BSE>532466</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>ORBIT</Symbol>
+    <DispName>ORBIT CORP</DispName>
+    <Desc>ORBIT ORBIT CORPORATION LTD. ORBIT CORPORATION LIMITED 532837 14777|ORBITCORP~EQ|</Desc>
+    <BSE>532837</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>OREX</Symbol>
+    <DispName>ORBIT EXPORTS</DispName>
+    <Desc>OREX ORBIT EXPORT LIMITED ORBIT EXPORTS LTD. 512626|ORBTEXP~EQ|</Desc>
+    <BSE>512626</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>ORCHID</Symbol>
+    <DispName>ORCHID CHEMICALS</DispName>
+    <Desc>ORCHID ORCHID CHEMICALS &amp; PHARMACEUTICALS LTD. ORCHIDCHEM 524372 1101|ORCHIDCHEM~EQ|</Desc>
+    <BSE>524372</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>ORPR</Symbol>
+    <DispName>ORIENT PAPER</DispName>
+    <Desc>ORPR ORIENT PAPER &amp; INDUSTRIES LTD. ORIENTPPR 502420 1554|ORIENTPPR~EQ|</Desc>
+    <BSE>502420</BSE>
+    <Sector>19</Sector>
+  </Company>
+  <Company>
+    <Symbol>OBC</Symbol>
+    <DispName>ORIENTAL BANK</DispName>
+    <Desc>OBC ORIENTAL BANK OF COMMERCE ORIENT BANK OBC 500315 399|ORIENTBANK~EQ|</Desc>
+    <BSE>500315</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>ORHT</Symbol>
+    <DispName>ORIENTAL HOTELS</DispName>
+    <Desc>ORHT ORIENT HOTEL ORIENTAL HOTELS ORIENTHOT 500314 2210|ORIENTHOT~EQ|</Desc>
+    <BSE>500314</BSE>
+    <Sector>13</Sector>
+  </Company>
+  <Company>
+    <Symbol>OMDCL</Symbol>
+    <DispName>ORISSA MINERALS DEV.</DispName>
+    <Desc>OMDCL ORISSA MINERALS DEVELOPMENT COMPANY ORISSA OMDC 590086|ORISSAMINE~EQ|</Desc>
+    <BSE>590086</BSE>
+    <Sector>83</Sector>
+  </Company>
+  <Company>
+    <Symbol>PROC</Symbol>
+    <DispName>P&amp;G HYGIENE</DispName>
+    <Desc>PROC P&amp;G PROCTER &amp; GAMBLE HYGIENE &amp; HEALTHCARE 500459 |PGHH~EQ|</Desc>
+    <BSE>500459</BSE>
+    <Sector>10</Sector>
+  </Company>
+  <Company>
+    <Symbol>PAGE</Symbol>
+    <DispName>PAGE INDUSTRIES</DispName>
+    <Desc>PAGE INDUSTRIES PAGE PAGE INDUSTRIES LIMITED 532827|PAGEIND~EQ|</Desc>
+    <BSE>532827</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>PANB</Symbol>
+    <DispName>PANACEA BIOTECH</DispName>
+    <Desc>PANB PANACEA BIOT PANACEABIO 531349 555|PANACEABIO~EQ|</Desc>
+    <BSE>531349</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>PRMC</Symbol>
+    <DispName>PARAMOUNT COMM.</DispName>
+    <Desc>PRMC PARAMOUNT COMMUNICATIONS 530555|PARACABLES~EQ|</Desc>
+    <BSE>530555</BSE>
+    <Sector>29</Sector>
+  </Company>
+  <Company>
+    <Symbol>PAAL</Symbol>
+    <DispName>PAREKH ALUMINEX</DispName>
+    <Desc>PAAL PAREKH ALUMINEX PAREKH ALUMINEX LIMITED 532606|PARAL~EQ|</Desc>
+    <BSE>532606</BSE>
+    <Sector>17</Sector>
+  </Company>
+  <Company>
+    <Symbol>PARS</Symbol>
+    <DispName>PARSVNATH DEV</DispName>
+    <Desc>PARSVNATH DEVELOPERS PARS 532780|PARSVNATH~EQ|</Desc>
+    <BSE>532780</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>PATEL</Symbol>
+    <DispName>PATEL ENGG.</DispName>
+    <Desc>PATEL PATEL ENGG. PATEL ENGINEERING 531120 30365|PATELENG~EQ|</Desc>
+    <BSE>531120</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>PTAR</Symbol>
+    <DispName>PATELS AIRTEMP</DispName>
+    <Desc>PATELS PTAR PATELS AIRTEMP PATELS AIRTEMP INDIA LTD. 517417</Desc>
+    <BSE>517417</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>PCJL</Symbol>
+    <DispName>PC JEWELLER</DispName>
+    <Desc>PCJL PC JEWELLER PC JEWELLER LIMITED PC JEWELLER LTD. PCJEWELLER 534809|PCJEWELLER~EQ|</Desc>
+    <BSE>534809</BSE>
+    <Sector>69</Sector>
+  </Company>
+  <Company>
+    <Symbol>PEARL</Symbol>
+    <DispName>PEARL GLOBAL</DispName>
+    <Desc>PEARL GLOBAL INDUSTRIES PEARL GLOBAL INDUSTRIES LIMITED PEARL GLOBAL INDUSTRIES LTD. HOUSE OF PEARL PGIL 532808|PGIL~EQ|</Desc>
+    <BSE>532808</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>MRJE</Symbol>
+    <DispName>PENINSULA LAND</DispName>
+    <Desc>MRJE PENINSULA LAND MORARJEE REALITIES MORARJEE GOCULDAS SPINNING &amp; WEAVING MORARJEE GOCULDAS SPG. &amp; WEAVING PENINSULA 503031|PENINLAND~EQ|</Desc>
+    <BSE>503031</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>PERSL</Symbol>
+    <DispName>PERSISTENT SYSTEMS</DispName>
+    <Desc>PERSL PERSISTENT SYSTEMS 533179|PERSISTENT~EQ|</Desc>
+    <BSE>533179</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>PTEN</Symbol>
+    <DispName>PETRON ENGG.</DispName>
+    <Desc>PTEN PETRON ENGG. PETRONENGG PETRON ENGINEERING CONSTRUCTION LIMITED 530381|PETRONENGG~EQ|</Desc>
+    <BSE>530381</BSE>
+    <Sector>12</Sector>
+  </Company>
+  <Company>
+    <Symbol>PLNG</Symbol>
+    <DispName>PETRONET LNG</DispName>
+    <Desc>PLNG PETRONET LNG 532522|PETRONET~EQ|</Desc>
+    <BSE>532522</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>PFIZ</Symbol>
+    <DispName>PFIZER</DispName>
+    <Desc>PFIZ PFIZER PFIZER 500680 361|PFIZER~EQ|</Desc>
+    <BSE>500680</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>PHIL</Symbol>
+    <DispName>PHILLIPS CARBON BLACK</DispName>
+    <Desc>PHIL PHILLIPS CARBON BLACK LTD. PHILIP CARB 506590 3693|PHILIPCARB~EQ|</Desc>
+    <BSE>506590</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>PHLM</Symbol>
+    <DispName>PHOENIX LAMPS</DispName>
+    <Desc>PHLM PHOENIX LAMPS LIMITED PHOENIX LAMPS LTD. HALONIX LTD. 517296 2435|PHOENIXLL~EQ|</Desc>
+    <BSE>517296</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>PHNXM</Symbol>
+    <DispName>PHOENIX MILL</DispName>
+    <Desc>PHNXM PHOENIX MILL 503100|PHOENIXLTD~EQ|</Desc>
+    <BSE>503100</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>PIIN</Symbol>
+    <DispName>PI INDUSTRIES</DispName>
+    <Desc>PIIN PI INDUSTRIES LTD. PIIND PI NDUSTRIES 523642|PIIND~EQ|</Desc>
+    <BSE>523642</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>PIDI</Symbol>
+    <DispName>PIDILITE INDUSTRIES</DispName>
+    <Desc>PIDI PIDILITE INDUSTRIES PIDILITIND 500331 663|PIDILITIND~EQ|</Desc>
+    <BSE>500331</BSE>
+    <Sector>10</Sector>
+  </Company>
+  <Company>
+    <Symbol>NCHP</Symbol>
+    <DispName>PIRAMAL ENTERPRISES</DispName>
+    <Desc>NCHP PIRAMAL ENTERPRISES PIRAMAL ENTERPRISES LIMITED PIRAMALNICHOLAS PIRAMAL INDIA LTD. PIRAMAL HEALTHCARE NICOLASPIR PIRHEALTH 500302|PEL~EQ|</Desc>
+    <BSE>500302</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>GUJG</Symbol>
+    <DispName>PIRAMAL GLASS</DispName>
+    <Desc>GUJG PIRAMAL GLASS GUJARAT GLASS PIRGLASS 532949|PIRGLASS~EQ|</Desc>
+    <BSE>532949</BSE>
+    <Sector>17</Sector>
+  </Company>
+  <Company>
+    <Symbol>PLPL</Symbol>
+    <DispName>PLETHICO PHARMA</DispName>
+    <Desc>PLPL PLETHICO PHARMA 532739 22812|PLETHICO~EQ|</Desc>
+    <BSE>532739</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>PNB</Symbol>
+    <DispName>PNB</DispName>
+    <Desc>PNB PUNJAB NATIONAL BANK PUN. NAT. BANK PNB PUNJAB NATIONAL BANK LIMITED 532461|PNB~EQ|</Desc>
+    <BSE>532461</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>PGILT</Symbol>
+    <DispName>PNB GILTS</DispName>
+    <Desc>PNB GILTS PNBGILTS 532366 1089|PNBGILTS~EQ|</Desc>
+    <BSE>532366</BSE>
+    <Sector>14</Sector>
+  </Company>
+  <Company>
+    <Symbol>PLRS</Symbol>
+    <DispName>POLARIS CONSULTING</DispName>
+    <Desc>PLRS POLARIS CONSULTING &amp; SERVICES POLARIS FINANCIAL TECHNOLOGY LTD POLARIS FINANCIAL POLARIS SOFTWARE 532254|POLARIS~EQ|</Desc>
+    <BSE>532254</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>POME</Symbol>
+    <DispName>POLY MEDICURE</DispName>
+    <Desc>POLY POME POLY MEDICURE POLY MEDICURE LIMITED POLME POLY MEDICURE LTD. 531768|POLYMED~EQ|</Desc>
+    <BSE>531768</BSE>
+    <Sector>65</Sector>
+  </Company>
+  <Company>
+    <Symbol>PFC</Symbol>
+    <DispName>POWER FIN CORP</DispName>
+    <Desc>PFC POWER FINANCE CORPORATION 532810|PFC~EQ|</Desc>
+    <BSE>532810</BSE>
+    <Sector>14</Sector>
+  </Company>
+  <Company>
+    <Symbol>PGRID</Symbol>
+    <DispName>POWER GRID</DispName>
+    <Desc>PGRID POWER GRID CORP. PGCIL 532898|POWERGRID~EQ|</Desc>
+    <BSE>532898</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>PRAJ</Symbol>
+    <DispName>PRAJ IND.LTD</DispName>
+    <Desc>PRAJ PRAJ INDUSTRIES LTD PRAJIND 522205 3218|PRAJIND~EQ|</Desc>
+    <BSE>522205</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>PREN</Symbol>
+    <DispName>PRAJAY ENGG.</DispName>
+    <Desc>PREN PRAJAY ENGS. 531746|PRAENG~EQ|</Desc>
+    <BSE>531746</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>PRKI</Symbol>
+    <DispName>PRAKASH INDUSTRIES</DispName>
+    <Desc>PRKI PRAKASH INDUSTRIES PRAKASH 506022 3719 3842|PRAKASH~EQ|</Desc>
+    <BSE>506022</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>PAIL</Symbol>
+    <DispName>PRATIBHA INDS</DispName>
+    <Desc>PAIL PRATIBHA INDUSTRIES 532718|PRATIBHA~EQ|</Desc>
+    <BSE>532718</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>PRMI</Symbol>
+    <DispName>PRICOL LIMITED</DispName>
+    <Desc>PRMI PRICOL LIMITED PREMIER INST PREMINSTR 526109 2080|PRICOL~EQ|</Desc>
+    <BSE>526109</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>PEFO</Symbol>
+    <DispName>PRIME FOCUS</DispName>
+    <Desc>PEFO PRIME FOCUS 532748 17288|PFOCUS~EQ|</Desc>
+    <BSE>532748</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>PRSE</Symbol>
+    <DispName>PRIME SECURITIES</DispName>
+    <Desc>PRSE PRIME SECURITIES PRIMESEC 500337 46103|PRIMESECU~EQ|</Desc>
+    <BSE>500337</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>PRISM</Symbol>
+    <DispName>PRISM CEMENT</DispName>
+    <Desc>PRISM PRISM CEMENT PRISMCEM 500338 1632|PRISMCEM~EQ|</Desc>
+    <BSE>500338</BSE>
+    <Sector>5</Sector>
+  </Company>
+  <Company>
+    <Symbol>PRTH</Symbol>
+    <DispName>PRITHVI INFO</DispName>
+    <Desc>PRTH PRITHVI INFO 532675 28296|PRITHVI~EQ|</Desc>
+    <BSE>532675</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>PROV</Symbol>
+    <DispName>PROVOGUE (I) LTD</DispName>
+    <Desc>PROV PROVOGUE 532647|PROVOGE~EQ|</Desc>
+    <BSE>532647</BSE>
+    <Sector>104</Sector>
+  </Company>
+  <Company>
+    <Symbol>PSLH</Symbol>
+    <DispName>PSL LTD</DispName>
+    <Desc>PSLH PSL HOLDINGS PSLHOLD 526801 1991|PSL~EQ|</Desc>
+    <BSE>526801</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>PTC</Symbol>
+    <DispName>PTC INDIA LTD</DispName>
+    <Desc>PTCL PTC INDIA LIMITED POWER TRADING CORPORATION 532524 33283|PTC~EQ|</Desc>
+    <BSE>532524</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>PUNL</Symbol>
+    <DispName>PUNJ LLOYD </DispName>
+    <Desc>PUNL PUNJ LLOYD PUNJLLOYD 532693|PUNJLLOYD~EQ|</Desc>
+    <BSE>532693</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>PSB</Symbol>
+    <DispName>PUNJAB &amp; SIND BANK</DispName>
+    <Desc>PSB PUNJAB &amp; SIND BANK PUNJAB AND SIND BANK 533295|PSB~EQ|</Desc>
+    <BSE>533295</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>PURVA</Symbol>
+    <DispName>PURAVANKARA</DispName>
+    <Desc>PURVA PURAVANKARA PURVANKARA PROJECTS 532891|PURVA~EQ|</Desc>
+    <BSE>532891</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>PVR</Symbol>
+    <DispName>PVR LTD</DispName>
+    <Desc>PVR PVR LIMITED 532689|PVR~EQ|</Desc>
+    <BSE>532689</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>RDKH</Symbol>
+    <DispName>RADICO KHAITAN</DispName>
+    <Desc>RDKH RADICO KHAITAN RADICOKHAI 532497 1950|RADICO~EQ|</Desc>
+    <BSE>532497</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>PRCE</Symbol>
+    <DispName>RAIN INDUSTRIES</DispName>
+    <Desc>PRCE RAIN INDUSTRIES LIMITED RAIN INDUSTRIES LTD. RAIN COMMODITIES PRIYA CEMENT PRIYADCEM RAINCOM 500339|RAIN~EQ|</Desc>
+    <BSE>500339</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>ROML</Symbol>
+    <DispName>RAJ OIL MILLS</DispName>
+    <Desc>ROML RAJ OIL MILLS LTD 533093|RAJOIL~EQ|</Desc>
+    <BSE>533093</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>RAJTV</Symbol>
+    <DispName>RAJ TELEVISION</DispName>
+    <Desc>RAJ TELEVISION NETWORK LTD. RAJ TELEVSION RAJTV RAJ TV 532826|RAJTV~EQ|</Desc>
+    <BSE>532826</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>RAMS</Symbol>
+    <DispName>RAJAPALAYAM MILLS</DispName>
+    <Desc>RAMS RAJAPALAYAM MILLS 532503|RAJPALAYAM~EQ|</Desc>
+    <BSE>532503</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>RAJEX</Symbol>
+    <DispName>RAJESH EXPORTS</DispName>
+    <Desc>RAJEX RAJESH EXPORTS RAJESHEXPO 531500 2690|RAJESHEXPO~EQ|</Desc>
+    <BSE>531500</BSE>
+    <Sector>69</Sector>
+  </Company>
+  <Company>
+    <Symbol>RALL</Symbol>
+    <DispName>RALLIS</DispName>
+    <Desc>RALL RALLIS INDIA RALLIS 500355 1390|RALLIS~EQ|</Desc>
+    <BSE>500355</BSE>
+    <Sector>36</Sector>
+  </Company>
+  <Company>
+    <Symbol>RANB</Symbol>
+    <DispName>RANBAXY LAB</DispName>
+    <Desc>RANB RANBAXY LABORATORIES RANBAXY RANBAXY LABORATORIES LTD. 500359</Desc>
+    <BSE>500359</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>RSYP</Symbol>
+    <DispName>RASOYA PROTEINS</DispName>
+    <Desc>RASOYA PROTEINS RSYP MAH.SOYA IND 531522|RASOYPR~EQ|</Desc>
+    <BSE>531522</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>RTME</Symbol>
+    <DispName>RATNAMANI METALS</DispName>
+    <Desc>RTME RATNAMANI METALS &amp; TUBES  RATNAMANI METALS &amp; TUBES LIMITED 520111|RATNAMANI~EQ|</Desc>
+    <BSE>520111</BSE>
+    <Sector>82</Sector>
+  </Company>
+  <Company>
+    <Symbol>RYMD</Symbol>
+    <DispName>RAYMOND</DispName>
+    <Desc>RYMD RAYMOND LIMITED RAYMOND 500330 133|RAYMOND~EQ|</Desc>
+    <BSE>500330</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>RCFL</Symbol>
+    <DispName>RCF</DispName>
+    <Desc>RCFL RASHTRIYA CHEMICALS &amp; FERTILISERS RCF RCF 524230 1096|RCF~EQ|</Desc>
+    <BSE>524230</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>REDTN</Symbol>
+    <DispName>REDINGTON (INDIA)</DispName>
+    <Desc>REDINGTON (INDIA) REDTN 532805 |REDINGTON~EQ|</Desc>
+    <BSE>532805</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>REAG</Symbol>
+    <DispName>REI AGRO LTD.</DispName>
+    <Desc>REAG REI AGRO LIMITED 532106 37562|REIAGROLTD~EQ|</Desc>
+    <BSE>532106</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>RINF</Symbol>
+    <DispName>REL.INDUS.INFRAS</DispName>
+    <Desc>RINF RELIANCE INFRASTRUCTURE RELIANCE INDUSTRIAL INFRASTRUCTURE RIIL 523445 |RIIL~EQ|</Desc>
+    <BSE>523445</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>RELXO</Symbol>
+    <DispName>RELAXO FOOTWEARS</DispName>
+    <Desc>RELXO RELAXO FOOTWEARS RELAXO FOOT RELAXOFOOT RELAXO FOOTWEARS LTD. 530517|RELAXO~EQ|</Desc>
+    <BSE>530517</BSE>
+    <Sector>10</Sector>
+  </Company>
+  <Company>
+    <Symbol>RCAP</Symbol>
+    <DispName>RELIANCE CAPITAL</DispName>
+    <Desc>RCAP RELIANCE CAPITAL LTD. RELCAPITAL 500111 86|RELCAPITAL~EQ|</Desc>
+    <BSE>500111</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>RCOM</Symbol>
+    <DispName>RELIANCE COMMUNICATIONS</DispName>
+    <Desc>RCOM RELIANCE COMMUNICATIONS VENTURES REL COMM. VENT. RCVL RELIANCE COMMUNICATIONS 532712 55521|RCOM~EQ|</Desc>
+    <BSE>532712</BSE>
+    <Sector>28</Sector>
+  </Company>
+  <Company>
+    <Symbol>RELI</Symbol>
+    <DispName>RELIANCE IND.</DispName>
+    <Desc>RELI RELIANCE INDUSTRIES LTD. RELIANCE INDUSTRIES RIL RELIANCE INDUSTRIES LIMITED 500325|RELIANCE~EQ|</Desc>
+    <BSE>500325</BSE>
+    <Sector>37</Sector>
+  </Company>
+  <Company>
+    <Symbol>BSES</Symbol>
+    <DispName>RELIANCE INFRA</DispName>
+    <Desc>REL. INFRA BSES RELIANCE ENERGY LTD. RELIANCE INFRASTRUCTURE LTD RELINFRA 500390 |RELINFRA~EQ|</Desc>
+    <BSE>500390</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>ADLABS</Symbol>
+    <DispName>RELIANCE MEDIA WORKS</DispName>
+    <Desc>ADLABS RELIANCE MEDIA WORKS ADLABS FILMS ADLABS FILMS 532399 767|RELMEDIA~EQ|</Desc>
+    <BSE>532399</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>RPWR</Symbol>
+    <DispName>RELIANCE POWER</DispName>
+    <Desc>RPWR RELIANCE POWER RELIANCE POWER LTD. RELIANCE POWER LIMITED RPOWER 532939|RPOWER~EQ|</Desc>
+    <BSE>532939</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>RELIG</Symbol>
+    <DispName>RELIGARE ENT.</DispName>
+    <Desc>RELIG RELIGARE ENTERPRISES 532915 |RELIGARE~EQ|</Desc>
+    <BSE>532915</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>REHF</Symbol>
+    <DispName>REPCO HOME</DispName>
+    <Desc>REHF REPCO HOME FINANCE REPCO HOME FINANCE LIMITED REPCO HOME FINANCE LTD. REPCOHOME 535322|REPCOHOME~EQ|</Desc>
+    <BSE>535322</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>REIND</Symbol>
+    <DispName>RESPONSIVE INDUSTRIES</DispName>
+    <Desc>REIND RESPONSIVE INDUSTRIES RESPONSIVE INDUSTRIES LTD 505509|RESPONIND~EQ|</Desc>
+    <BSE>505509</BSE>
+    <Sector>22</Sector>
+  </Company>
+  <Company>
+    <Symbol>RAUT</Symbol>
+    <DispName>RICO AUTO</DispName>
+    <Desc>RAUT RICO AUTO INDUSTRIES RICOAUTO 520008 1608|RICOAUTO~EQ|</Desc>
+    <BSE>520008</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>ROLT</Symbol>
+    <DispName>ROLTA INDIA</DispName>
+    <Desc>ROLT ROLTA INDIA ROLTA 500366 83|ROLTA~EQ|</Desc>
+    <BSE>500366</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>ROCH</Symbol>
+    <DispName>ROYAL ORCHID HOTELS</DispName>
+    <Desc>ROCH ROYAL ORCHID HOTELS ROHL 532699|ROHLTD~EQ|</Desc>
+    <BSE>532699</BSE>
+    <Sector>13</Sector>
+  </Company>
+  <Company>
+    <Symbol>RJSP</Symbol>
+    <DispName>RSWM LTD</DispName>
+    <Desc>RJSP RSWM LTD RAJASTHAN SPIN RAJ.SPINNING RAJASSPG 500350 1928|RSWM~EQ|</Desc>
+    <BSE>500350</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>RUBY</Symbol>
+    <DispName>RUBY MILLS</DispName>
+    <Desc>RUBY RUBY MILLS RUBYMILLS 503169 -2106|RUBYMILLS~EQ|</Desc>
+    <BSE>503169</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>RUSO</Symbol>
+    <DispName>RUCHI SOYA INDUSTRIES</DispName>
+    <Desc>RUCHI RUSO RUCHI SOYA INDUSTRIES RUCHISOYA 500368 1586|RUCHISOYA~EQ|</Desc>
+    <BSE>500368</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>RUPA</Symbol>
+    <DispName>RUPA &amp; CO.</DispName>
+    <Desc>RUPA &amp; COMPANY RUPA RUPA COMPANY RUPA &amp; COMPANY LTD. 533552|RUPA~EQ|</Desc>
+    <BSE>533552</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>REC</Symbol>
+    <DispName>RURAL ELECT.</DispName>
+    <Desc>REC RURAL ELECTRIFICATION LTD 532955 RECLTD|RECLTD~EQ|</Desc>
+    <BSE>532955</BSE>
+    <Sector>14</Sector>
+  </Company>
+  <Company>
+    <Symbol>SKSY</Symbol>
+    <DispName>S. KUMARS NAT</DispName>
+    <Desc>SKSY S KUMARS NATIONWIDE SKNL S. KUMARS S.KUMARS SYNTHETICS SKUMARSYNF 514304 |SKUMARSYNF~EQ|</Desc>
+    <BSE>514304</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>SAEL</Symbol>
+    <DispName>SADBHAV ENGINEERING</DispName>
+    <Desc>SAEL SADBHAV ENGINEERING SADBHAV ENGINEERING LTD. 532710|SADBHAV~EQ|</Desc>
+    <BSE>532710</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>SAIL</Symbol>
+    <DispName>SAIL</DispName>
+    <Desc>SAIL STEEL AUTHORITY OF INDIA LTD. SAIL SAIL 500113 257|SAIL~EQ|</Desc>
+    <BSE>500113</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>SLZE</Symbol>
+    <DispName>SALZER ELEC</DispName>
+    <Desc>SLZE SALZER ELEC 17059 517059|SALZERELEC~EQ|</Desc>
+    <BSE>517059</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>SMCO</Symbol>
+    <DispName>SAMTEL COLOR</DispName>
+    <Desc>SMCO SAMTEL COLOR SAMTEL COLOUR SAMTEL 500372 20357|SAMTEL~EQ|</Desc>
+    <BSE>500372</BSE>
+    <Sector>9</Sector>
+  </Company>
+  <Company>
+    <Symbol>GREMAC</Symbol>
+    <DispName>SANCIA GLOBAL</DispName>
+    <Desc>SANCIA GLOBAL INFRAPROJECTS SANCIA GLOBAL GREMACH INFRASTRUCTURE EQUIPMENTS &amp; PROJECTS LTD GREMACH INFRA 532836 </Desc>
+    <BSE>532836</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>SGMI</Symbol>
+    <DispName>SANGAM INDIA</DispName>
+    <Desc>SGMI SANGAM INDIA SANGAMIND 514234 3755|SANGAMIND~EQ|</Desc>
+    <BSE>514234</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>SHVM</Symbol>
+    <DispName>SANGHVI MOVERS</DispName>
+    <Desc>SHVM SANGHVI MOVERS 530073|SANGHVIMOV~EQ|</Desc>
+    <BSE>530073</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>HOCM</Symbol>
+    <DispName>SANOFI INDIA</DispName>
+    <Desc>HOCM SANOFI INDIA SANOFI INDIA LIMITED SANOFI INDIA LTD. HOECHST MARION HOECHST AVENTIS PHARMA 500674|SANOFI~EQ|</Desc>
+    <BSE>500674</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>SWAG</Symbol>
+    <DispName>SANWARIA AGRO OILS</DispName>
+    <Desc>SWAG SANWARIA AGRO OILS 519260|SANWARIA~EQ|</Desc>
+    <BSE>519260</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>GRMCO</Symbol>
+    <DispName>SAREGAMA</DispName>
+    <Desc>GRMCO SAREGAMA GRAMOPHON CO GRAMAPHONE COMPANY SAREGAMA GRAMOPHONE 532163 1756|SAREGAMA~EQ|</Desc>
+    <BSE>532163</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>SASK</Symbol>
+    <DispName>SASKEN COMM</DispName>
+    <Desc>SASK SASKEN COMM 532663|SASKEN~EQ|</Desc>
+    <BSE>532663</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>SJVN</Symbol>
+    <DispName>SATLUJ JAL VIDYUT</DispName>
+    <Desc>SJVN SATLUJ JAL VIDYUT NIGAM LTD. 533206|SJVN~EQ|</Desc>
+    <BSE>533206</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>SVCH</Symbol>
+    <DispName>SAVITA OIL TECH.</DispName>
+    <Desc>SVCH SAVITA OIL TECHNOLOGIES SAVITA CHEM. SAVITACHEM SAVITA OIL TECHNOLOGIES LIMITED 524667|SOTL~EQ|</Desc>
+    <BSE>524667</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>SBI</Symbol>
+    <DispName>SBI</DispName>
+    <Desc>SBI STATE BANK OF INDIA SBI SBIN 500112 40|SBIN~EQ|</Desc>
+    <BSE>500112</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>SHAL</Symbol>
+    <DispName>SHALIMAR PAINTS</DispName>
+    <Desc>SHAL SHALIMAR PAINTS SHALPAINTS 509874|SHALPAINTS~EQ|</Desc>
+    <BSE>509874</BSE>
+    <Sector>18</Sector>
+  </Company>
+  <Company>
+    <Symbol>SGEAR</Symbol>
+    <DispName>SHANTHI GEARS</DispName>
+    <Desc>SGEAR SHANTHI GEARS SHANTI GEARS SHANTHIGEAR SHANTHI GEARS LIMITED 522034|SHANTIGEAR~EQ|</Desc>
+    <BSE>522034</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>SHSCH</Symbol>
+    <DispName>SHASUN PHARMA</DispName>
+    <Desc>SHSCH SHASUN PHARMACEUTICALS SHASUN PHARMA SHASUNPHA SHASUN CHEMICALS SHASUNCHEM 524552 1015|SHASUNPHAR~EQ|</Desc>
+    <BSE>524552</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>SHCN</Symbol>
+    <DispName>SHIPPING CORP.</DispName>
+    <Desc>SHCN SCI SHIPPING CORPORATION OF INDIA SHIPPING CORPN. SHIP. CORP. SCI 523598|SCI~EQ|</Desc>
+    <BSE>523598</BSE>
+    <Sector>25</Sector>
+  </Company>
+  <Company>
+    <Symbol>SSTOP</Symbol>
+    <DispName>SHOPPERS STOP</DispName>
+    <Desc>SSTOP SHOPPERS STOP 532638|SHOPERSTOP~EQ|</Desc>
+    <BSE>532638</BSE>
+    <Sector>104</Sector>
+  </Company>
+  <Company>
+    <Symbol>SHRCM</Symbol>
+    <DispName>SHREE CEMENT</DispName>
+    <Desc>SHRCM SHREE CEMENT SHREECEM 500387 915|SHREECEM~EQ|</Desc>
+    <BSE>500387</BSE>
+    <Sector>5</Sector>
+  </Company>
+  <Company>
+    <Symbol>RENSU</Symbol>
+    <DispName>SHREE RENUKA SUGARS</DispName>
+    <Desc>RENSU SHREE RENUKA SUGARS SHREE RENUKA SUGARS LTD. 532670|RENUKA~EQ|</Desc>
+    <BSE>532670</BSE>
+    <Sector>27</Sector>
+  </Company>
+  <Company>
+    <Symbol>SHCU</Symbol>
+    <DispName>SHRIRAM CITY UNION</DispName>
+    <Desc>SHCU SHRIRAM CITY UNION FINANCE 532498|SHRIRAMCIT~EQ|</Desc>
+    <BSE>532498</BSE>
+    <Sector>14</Sector>
+  </Company>
+  <Company>
+    <Symbol>SHTRA</Symbol>
+    <DispName>SHRIRAM TRANSPORT FIN.</DispName>
+    <Desc>SHRIRAM SHTRA SHRIRAM TRANSPORT FINANCE SRTRANSFIN STFC 511218|SRTRANSFIN~EQ|</Desc>
+    <BSE>511218</BSE>
+    <Sector>14</Sector>
+  </Company>
+  <Company>
+    <Symbol>SICAG</Symbol>
+    <DispName>SICAL LOGISTICS</DispName>
+    <Desc>SICAG SICAL LOGISTICS SIC AGENCY 520086 2365|SICAL~EQ|</Desc>
+    <BSE>520086</BSE>
+    <Sector>103</Sector>
+  </Company>
+  <Company>
+    <Symbol>SIEM</Symbol>
+    <DispName>SIEMENS</DispName>
+    <Desc>SIEM SIEMENS SIEMENS 500550 236|SIEMENS~EQ|</Desc>
+    <BSE>500550</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>SXCN</Symbol>
+    <DispName>SIMPLEX INFRA</DispName>
+    <Desc>SXCN SIMPLEX INFRA SIMPLEXCON 523838 -949|SIMPLEXINF~EQ|</Desc>
+    <BSE>523838</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>SNTX</Symbol>
+    <DispName>SINTEX IND.</DispName>
+    <Desc>SNTX SINTEX INDUSTRIES SINTEX 502742 3393|SINTEX~EQ|</Desc>
+    <BSE>502742</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>WIRE</Symbol>
+    <DispName>SITI CABLE NETWORK</DispName>
+    <Desc>SITI CABLE NETWORK SITI CABLE NETWORK LIMITED SITI CABLE NETWORK LTD. WIRE &amp; WIRELESS WIRESITICABLE 532795|SITICABLE~EQ|</Desc>
+    <BSE>532795</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>SKF</Symbol>
+    <DispName>SKF INDIA</DispName>
+    <Desc>SKF SKF BEARINGS SKFBEARING 500472 1108|SKFINDIA~EQ|</Desc>
+    <BSE>500472</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>DLIK</Symbol>
+    <DispName>SMARTLINK NET</DispName>
+    <Desc>DLIK SMARTLINK NETWORK SYSTEMS D-LINK INDIA 532419 1587|SMARTLINK~EQ|</Desc>
+    <BSE>532419</BSE>
+    <Sector>7</Sector>
+  </Company>
+  <Company>
+    <Symbol>SWMZ</Symbol>
+    <DispName>SML ISUZU</DispName>
+    <Desc>SWMZ SML ISUZU SML ISUZU LTD. SWARAJ MAZDA SWARAJMAZD 505192 1876|SMLISUZU~EQ|</Desc>
+    <BSE>505192</BSE>
+    <Sector>35</Sector>
+  </Company>
+  <Company>
+    <Symbol>SOBHA</Symbol>
+    <DispName>SOBHA LIMITED</DispName>
+    <Desc>SOBHA SOBHA LIMITED SOBHA LTD. DEVELOPERS 532784|SOBHA~EQ|</Desc>
+    <BSE>532784</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>SOEX</Symbol>
+    <DispName>SOLAR INDUSTRIES</DispName>
+    <Desc>SOEX SOLAR INDUSTRIES INDIA SOLAR EXPLOSIVES 532725|SOLARINDS~EQ|</Desc>
+    <BSE>532725</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>SOST</Symbol>
+    <DispName>SONA  KOYO STEER</DispName>
+    <Desc>SOST SONA KOYO STEER SONASTEER 520057 2906|SONASTEER~EQ|</Desc>
+    <BSE>520057</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>SSOW</Symbol>
+    <DispName>SONATA SOFTWARE</DispName>
+    <Desc>SSOW SONATA SOFTWARE SONATSOFTW 532221 207|SONATSOFTW~EQ|</Desc>
+    <BSE>532221</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>SIBK</Symbol>
+    <DispName>SOUTH IND.BANK</DispName>
+    <Desc>SIBK SOUTH INDIAN BANK SOUTH IND.BANK SOUTH INDIAN BANK SOUTHINDBA 532218|SOUTHBANK~EQ|</Desc>
+    <BSE>532218</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>MOLF</Symbol>
+    <DispName>SPICEJET LTD</DispName>
+    <Desc>MOLF SPICEJET ROYAL AIRWAYS MODILUFT MODILUFT 500285 -861</Desc>
+    <BSE>500285</BSE>
+    <Sector>31</Sector>
+  </Company>
+  <Company>
+    <Symbol>SBPR</Symbol>
+    <DispName>SPML INFRA</DispName>
+    <Desc>SBPR SPML INFRA SUBHASH PROJECTS SUBHASPROJ 500402 40529|SPMLINFRA~EQ|</Desc>
+    <BSE>500402</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>SRNF</Symbol>
+    <DispName>SREI INFRA FINANCE</DispName>
+    <Desc>SRNF SREI INFRASTRUCTURE FINANCE SREINTFIN SREI INFRASTRUCTURE FINANCE LIMITED 523756|SREINFRA~EQ|</Desc>
+    <BSE>523756</BSE>
+    <Sector>14</Sector>
+  </Company>
+  <Company>
+    <Symbol>SRFL</Symbol>
+    <DispName>SRF LTD</DispName>
+    <Desc>SRFL SRF LTD. SRF 503806 764|SRF~EQ|</Desc>
+    <BSE>503806</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>STCI</Symbol>
+    <DispName>STC INDIA</DispName>
+    <Desc>STCI STATE TRADING CORP STC INDIA 512531 37016|STCINDIA~EQ|</Desc>
+    <BSE>512531</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>STEA</Symbol>
+    <DispName>STERLING BIOTECH</DispName>
+    <Desc>STEA STERL.TEA STERLING BIOTECH STERLING BIOTECH 512299 902|STERLINBIO~EQ|</Desc>
+    <BSE>512299</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>STRL</Symbol>
+    <DispName>STERLITE IND.</DispName>
+    <Desc>STRL STERLITE INDUSTRIES STERLITE INDUSTRIES LTD. STERLITIND 500900 135|STER|</Desc>
+    <BSE>500900</BSE>
+    <Sector>83</Sector>
+  </Company>
+  <Company>
+    <Symbol>STOPT</Symbol>
+    <DispName>STERLITE TECH.</DispName>
+    <Desc>STOPT STERLITE TECHNOLOGIES STERLITE OPTICAL TECHNOLOGIES LIMITED STROPTICAL STRTECH 532374|STRTECH~EQ|</Desc>
+    <BSE>532374</BSE>
+    <Sector>29</Sector>
+  </Company>
+  <Company>
+    <Symbol>PLLB</Symbol>
+    <DispName>STRIDES SHASUN LTD</DispName>
+    <Desc>PLLB STRIDES SHASUN SHASHUN LTD STRIDES ARCOLAB STRIDES ARCOLAB LTD. STRIDES PLAMA LAB. STAR 532531|STAR~EQ|</Desc>
+    <BSE>532531</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>SUBEX</Symbol>
+    <DispName>SUBEX LTD</DispName>
+    <Desc>SUBEX LTD SUBEX AZURE LTD  532348 53388|SUBEX~EQ|</Desc>
+    <BSE>532348</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>SUNP</Symbol>
+    <DispName>SUN PHARMA</DispName>
+    <Desc>SUNP SUN PHARMACEUTICALS SUNPHARMA 524715 210|SUNPHARMA~EQ|</Desc>
+    <BSE>524715</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>SUNTV</Symbol>
+    <DispName>SUN TV</DispName>
+    <Desc>SUNTV SUN TV LTD 532733 7153|SUNTV~EQ|</Desc>
+    <BSE>532733</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>SCLAY</Symbol>
+    <DispName>SUNDARAM CLAYTON</DispName>
+    <Desc>SCLAY SUNDARAM CLAYTON SUNDRMCLAY SUNCLAYTON 520056 1421|SUNCLAYLTD~EQ|</Desc>
+    <BSE>520056</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>SFN</Symbol>
+    <DispName>SUNDARAM FINANCE</DispName>
+    <Desc>SFN SUNDARAM FINANCE 1617 590071 |SUNDARMFIN~EQ|</Desc>
+    <BSE>590071</BSE>
+    <Sector>14</Sector>
+  </Company>
+  <Company>
+    <Symbol>SNFS</Symbol>
+    <DispName>SUNDRAM FASTENERS</DispName>
+    <Desc>SNFS SUNDRAM FASTENERS SUNDARAM FASTENERS SUNDRMFAST 500403 918|SUNDRMFAST~EQ|</Desc>
+    <BSE>500403</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>INET</Symbol>
+    <DispName>SUNTECK REALTY</DispName>
+    <Desc>INET SUNTECK REALTY &amp; INFRAS INSUL ELECTRIC 512179|SUNTECK~EQ|</Desc>
+    <BSE>512179</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>SENGG</Symbol>
+    <DispName>SUPRAJIT ENGG</DispName>
+    <Desc>SENGG SUPRAJIT ENGG SUPRAJIT ENGINEERING SUPRAJIT ENGINEERING LTD. SUPRAJIT ENGINEERING LIMITED 532509 590014|SUPRAJIT~EQ|</Desc>
+    <BSE>532509</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>SPRM</Symbol>
+    <DispName>SUPREME INDUSTRIES</DispName>
+    <Desc>SPRM SUPREME INDUSTRIES SUPREMEIND 509930 940|SUPREMEIND~EQ|</Desc>
+    <BSE>509930</BSE>
+    <Sector>22</Sector>
+  </Company>
+  <Company>
+    <Symbol>SVNP</Symbol>
+    <DispName>SUVEN LIFE</DispName>
+    <Desc>SVNP SUVEN PHARMA SUVEN LIFE SUVEN LIFE SCIENCES LTD. 530239 60783 |SUVEN~EQ|</Desc>
+    <BSE>530239</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>SUZL</Symbol>
+    <DispName>SUZLON ENERGY</DispName>
+    <Desc>SUZL SUZLON ENERGY SUZLON ENERGY LTD. 532667|SUZLON~EQ|</Desc>
+    <BSE>532667</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>SWNM</Symbol>
+    <DispName>SWAN ENERGY</DispName>
+    <Desc>SWNM SWAN ENERGY SWAN ENERGY LIMITED SWAN ENERGY LTD. SWAN MILLS 503310|SWANENERGY~EQ|</Desc>
+    <BSE>503310</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>SWRJ</Symbol>
+    <DispName>SWARAJ ENGINES</DispName>
+    <Desc>SWRJ SWARAJ ENGINES SWARAJENG SWARAJ ENGINES LIMITED 500407|SWARAJENG~EQ|</Desc>
+    <BSE>500407</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>NMPW</Symbol>
+    <DispName>SWELECT ENERGY SYSTEMS</DispName>
+    <Desc>NMPW NUMERIC POWER SWELECT ENERGY SYSTEMS SWELECT ENERGY SYSTEMS LIMITED 532051|SWELECTES~EQ|</Desc>
+    <BSE>532051</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>SYPH</Symbol>
+    <DispName>SYMPHONY LTD</DispName>
+    <Desc>SYPH SYMPHONY LTD SYMPHONY LTD. SYMPHONY LIMITED SYMPHONY COM SYMPHONY LIMITE D517385|SYMPHONY~EQ|</Desc>
+    <BSE>517385</BSE>
+    <Sector>9</Sector>
+  </Company>
+  <Company>
+    <Symbol>SYBK</Symbol>
+    <DispName>SYNDICATE BANK</DispName>
+    <Desc>SYBK SYNDICATE BANK 532276 671|SYNDIBANK~EQ|</Desc>
+    <BSE>532276</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>TAJGV</Symbol>
+    <DispName>TAJ GVK</DispName>
+    <Desc>TAJGV TAJ GVK HOTELS TAJGVK 532390 2429|TAJGVK~EQ|</Desc>
+    <BSE>532390</BSE>
+    <Sector>13</Sector>
+  </Company>
+  <Company>
+    <Symbol>TAKE</Symbol>
+    <DispName>TAKE SOLUTIONS</DispName>
+    <Desc>TAKE SOLUTIONS LIMITED TAKE SOLUTIONS LIMITED 532890|TAKE~EQ|</Desc>
+    <BSE>532890</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>TBVF</Symbol>
+    <DispName>TALWALKARS BETTER VAL.</DispName>
+    <Desc>TBVF TALWALKARS BETTER VALUE FITNESS 533200|TALWALKARS~EQ|</Desc>
+    <BSE>533200</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>TLNP</Symbol>
+    <DispName>TAMIL NADU NEWSPRINT</DispName>
+    <Desc>TLNP TAMIL NADU NEWSPRINT TAMIL NADU NEWSPRINT &amp; PAPERS LTD. TAMIL NADU NEWS TNPL 531426|TNPL~EQ|</Desc>
+    <BSE>531426</BSE>
+    <Sector>19</Sector>
+  </Company>
+  <Company>
+    <Symbol>TANSL</Symbol>
+    <DispName>TANLA SOLUTIONS</DispName>
+    <Desc>TANSL TANLA SOLUTIONS 532790|TANLA~EQ|</Desc>
+    <BSE>532790</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>TTCH</Symbol>
+    <DispName>TATA CHEMICALS</DispName>
+    <Desc>TTCH TATA CHEMICALS TATACHEM 500770 192|TATACHEM~EQ|</Desc>
+    <BSE>500770</BSE>
+    <Sector>36</Sector>
+  </Company>
+  <Company>
+    <Symbol>CCOFF</Symbol>
+    <DispName>TATA COFFEE</DispName>
+    <Desc>CCOFF CONSOLIDATED COFFEE CONSCOFFEE TATA COFFEE 532301 1973|TATACOFFEE~EQ|</Desc>
+    <BSE>532301</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>VSNL</Symbol>
+    <DispName>TATA COMM.</DispName>
+    <Desc>VSNL TATA COMMUNICATIONS VIDESH SANCHAR NIGAM LIMITED VSL 500483|TATACOMM~EQ|</Desc>
+    <BSE>500483</BSE>
+    <Sector>28</Sector>
+  </Company>
+  <Company>
+    <Symbol>TTEX</Symbol>
+    <DispName>TATA ELXSI</DispName>
+    <Desc>TTEX TATA ELXSI LIMITED TATAELXSI 500408 134|TATAELXSI~EQ|</Desc>
+    <BSE>500408</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>TTEA</Symbol>
+    <DispName>TATA GLOBAL BEV.</DispName>
+    <Desc>TTEA TATA GLOBAL BEVERAGES TATA TEA TATATEA 500800 77|TATAGLOBAL~EQ|</Desc>
+    <BSE>500800</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>TINV</Symbol>
+    <DispName>TATA INVEST. CORP.</DispName>
+    <Desc>TINV TATA INVEST. TATA INVESTMENT CORPORATION TATA INVESTMENTS INVESTCORP 501301 1904|TATAINVEST~EQ|</Desc>
+    <BSE>501301</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>TELCO</Symbol>
+    <DispName>TATA MOTORS</DispName>
+    <Desc>TELCO TATA MOTORS TATA ENGINEERING LIMITED TELCO TELCO 500570 66|TATAMOTORS~EQ|</Desc>
+    <BSE>500570</BSE>
+    <Sector>35</Sector>
+  </Company>
+  <Company>
+    <Symbol>TTPW</Symbol>
+    <DispName>TATA POWER</DispName>
+    <Desc>TTPW TATA POWER TATA HYDRO ANDHRA VALLEY TATAPOWER 500400 74|TATAPOWER~EQ|</Desc>
+    <BSE>500400</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>TTSP</Symbol>
+    <DispName>TATA SPONGE</DispName>
+    <Desc>TTSP TATA SPONGE IPITATASPO TATA SPONGE IRON LIMITED 513010|TATASPONGE~EQ|</Desc>
+    <BSE>513010</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>TISCO</Symbol>
+    <DispName>TATA STEEL</DispName>
+    <Desc>TISCO TATA STEEL TISCO TATASTEEL TATA IRON &amp; STEEL COMPANY TISCO 500470 39|TATASTEEL~EQ|</Desc>
+    <BSE>500470</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>HGTEL</Symbol>
+    <DispName>TATA TELESERVICES</DispName>
+    <Desc>HGTEL TATA TELESERVICES HUGHES TELE HUGHESTELE 532371 647 HGTEL|TTML~EQ|</Desc>
+    <BSE>532371</BSE>
+    <Sector>28</Sector>
+  </Company>
+  <Company>
+    <Symbol>TCS</Symbol>
+    <DispName>TCS</DispName>
+    <Desc>TCS TATA CONSULTANCY SERVICES TCS LTD. 532540|TCS~EQ|</Desc>
+    <BSE>532540</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>TEMH</Symbol>
+    <DispName>TECH MAHINDRA</DispName>
+    <Desc>TECH MAHINDRA TEMH 532755 TECHM|TECHM~EQ|</Desc>
+    <BSE>532755</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>TEEL</Symbol>
+    <DispName>TECHNO ELECTRIC</DispName>
+    <Desc>TEEL TECHNO ELECTRIC &amp; ENGINEERING COMPANY TECHNO ELECTRIC &amp; ENGINEERING COMPANY LTD. TECHNO TECHNO ELECTRIC TECHNOE 533281 505397|TECHNO~EQ|</Desc>
+    <BSE>533281</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>TIIL</Symbol>
+    <DispName>TECHNOCRAFT INDUS.</DispName>
+    <Desc>TECHNOCRAFT INDUSTRIES INDIA TIIL 532804|TIIL~EQ|</Desc>
+    <BSE>532804</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>TXML</Symbol>
+    <DispName>TEXMACO INFRA</DispName>
+    <Desc>TXML TEXMACO INFRASTRUCTURE TEXMACO INFRASTRUCTURE &amp; HOLDINGS TEXMACO LTD. 505400|TEXINFRA~EQ|</Desc>
+    <BSE>505400</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>IHCL</Symbol>
+    <DispName>THE INDIAN HOTELS</DispName>
+    <Desc>IHCL INDIAN HOTELS THE INDIAN HOTELS THE INDIAN HOTELS LIMITED INDIAN HOTELS INDHOTEL 500850 316|INDHOTEL~EQ|</Desc>
+    <BSE>500850</BSE>
+    <Sector>13</Sector>
+  </Company>
+  <Company>
+    <Symbol>MDCM</Symbol>
+    <DispName>THE RAMCO CEMENTS</DispName>
+    <Desc>MDCM MADRAS CEMENTS THE RAMCO CEMENTS LIMITED MADRASCEM 500260 367|RAMCOCEM~EQ|</Desc>
+    <BSE>500260</BSE>
+    <Sector>5</Sector>
+  </Company>
+  <Company>
+    <Symbol>TRMX</Symbol>
+    <DispName>THERMAX LTD</DispName>
+    <Desc>TRMX THERMAX LTD. THERMAX LIMITED THERMAX 500411 284|THERMAX~EQ|</Desc>
+    <BSE>500411</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>TUMI</Symbol>
+    <DispName>THIRUMALAI CHEMICALS</DispName>
+    <Desc>TUMI THIRUMALAI CHEMICALS TIRUMALCHM 500412 1719|TIRUMALCHM~EQ|</Desc>
+    <BSE>500412</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>THOM</Symbol>
+    <DispName>THOMAS COOK INDIA</DispName>
+    <Desc>THOM THOMAS COOK INDIA THOMASCOOK 500413 482|THOMASCOOK~EQ|</Desc>
+    <BSE>500413</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>TILL</Symbol>
+    <DispName>TIL LTD</DispName>
+    <Desc>TILL TIL LTD. TIL 5196 TIL LIMITED 3827|TIL~EQ|</Desc>
+    <BSE>505196</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>TLKN</Symbol>
+    <DispName>TILAKNAGAR IND.</DispName>
+    <Desc>TLKN TILAKNAGAR INDUSTRIES TILAK NAGAR INDUSTRIES TILAKNAGAR 507205|TI~EQ|</Desc>
+    <BSE>507205</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>TTECH</Symbol>
+    <DispName>TIME TECHNO</DispName>
+    <Desc>TTECH TIME TECHNOPLAST 532856  |TIMETECHNO~EQ|</Desc>
+    <BSE>532856</BSE>
+    <Sector>22</Sector>
+  </Company>
+  <Company>
+    <Symbol>TMKN</Symbol>
+    <DispName>TIMKEN INDIA</DispName>
+    <Desc>TMKN TIMKEN INDIA 522113 |TIMKEN~EQ|</Desc>
+    <BSE>522113</BSE>
+    <Sector>32</Sector>
+  </Company>
+  <Company>
+    <Symbol>TNPL</Symbol>
+    <DispName>TINPLATE</DispName>
+    <Desc>TINPLATE TNPL TINPLATE 504966 -287|TINPLATE~EQ|</Desc>
+    <BSE>504966</BSE>
+    <Sector>17</Sector>
+  </Company>
+  <Company>
+    <Symbol>TWL</Symbol>
+    <DispName>TITAGARH WAGONS</DispName>
+    <Desc>TWL TITAGARH WAGONS 532966|TWL~EQ|</Desc>
+    <BSE>532966</BSE>
+    <Sector>12</Sector>
+  </Company>
+  <Company>
+    <Symbol>TITN</Symbol>
+    <DispName>TITAN COMPANY</DispName>
+    <Desc>TITN TITAN COMPANY LIMITED TITAN COMPANY LTD. TITAN IND. TITAN INDUSTRIES TITAN 500114 409|TITAN~EQ|</Desc>
+    <BSE>500114</BSE>
+    <Sector>104</Sector>
+  </Company>
+  <Company>
+    <Symbol>TORR</Symbol>
+    <DispName>TORRENT PHARMA</DispName>
+    <Desc>TORR TORRENT PHARMA. TORNTPHARM 500420 -1365|TORNTPHARM~EQ|</Desc>
+    <BSE>500420</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>TRPWR</Symbol>
+    <DispName>TORRENT POWER LTD</DispName>
+    <Desc>TRPWR TORRENT POWER LTD 532779|TORNTPOWER~EQ|</Desc>
+    <BSE>532779</BSE>
+    <Sector>23</Sector>
+  </Company>
+  <Company>
+    <Symbol>TRCP</Symbol>
+    <DispName>TRANS CORPN</DispName>
+    <Desc>TRCP TRANS CORPN. TRANSPORT CORPORATION OF INDIA TCI INDUSTRIES LIMITED TRANSCORP 532349  19387|TCI~EQ|</Desc>
+    <BSE>532349</BSE>
+    <Sector>103</Sector>
+  </Company>
+  <Company>
+    <Symbol>THEL</Symbol>
+    <DispName>TREE HOUSE</DispName>
+    <Desc>THEL TREE HOUSE EDUCATION &amp; ACCESSORIES TREE HOUSE EDUCATION &amp; ACCESSORIES LTD. 533540|TREEHOUSE~EQ|</Desc>
+    <BSE>533540</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>TRENT</Symbol>
+    <DispName>TRENT LTD</DispName>
+    <Desc>500251 TRENT LAKME LTD. TRENT LTD. LAKME 500251 553|TRENT~EQ|</Desc>
+    <BSE>500251</BSE>
+    <Sector>104</Sector>
+  </Company>
+  <Company>
+    <Symbol>TRFL</Symbol>
+    <DispName>TRF LTD</DispName>
+    <Desc>TRFL TRF LTD. 505854|TRF~EQ|</Desc>
+    <BSE>505854</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>TBZL</Symbol>
+    <DispName>TRIBHOVANDAS BHIMJI</DispName>
+    <Desc>TBZL TRIBHOVANDAS BHIMJI TRIBHOVANDAS BHIMJI ZAVERI TRIBHOVANDAS BHIMJI ZAVERI LIMITED TRIBHOVANDAS BHIMJI ZAVERI LTD. 534369|TBZ~EQ|</Desc>
+    <BSE>534369</BSE>
+    <Sector>69</Sector>
+  </Company>
+  <Company>
+    <Symbol>ABHI</Symbol>
+    <DispName>TRIDENT LTD.</DispName>
+    <Desc>ABHI TRIDENT LTD. TRIDENT LIMITED TRIDENT ABHISHEK IND ABHISHEK INUSTRIES 521064|TRIDENT~EQ|</Desc>
+    <BSE>521064</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>TREN</Symbol>
+    <DispName>TRIVENI ENGG.</DispName>
+    <Desc>TREN TRIVENI ENGINEERING TRIVENI ENG. TRIVENGIND 532356 4181|TRIVENI~EQ|</Desc>
+    <BSE>532356</BSE>
+    <Sector>27</Sector>
+  </Company>
+  <Company>
+    <Symbol>TTKP</Symbol>
+    <DispName>TTK HEALTHCARE</DispName>
+    <Desc>TTKP TTK HEALTHCARE TTK HEALTH CARETTK PHARMA TTKPHARMA 507747|TTKHLTCARE~EQ|</Desc>
+    <BSE>507747</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>TKPR</Symbol>
+    <DispName>TTK PRESTIGE</DispName>
+    <Desc>TKPR TTK PRESTIGE TTKPRESTIG 517506 2454|TTKPRESTIG~EQ|</Desc>
+    <BSE>517506</BSE>
+    <Sector>9</Sector>
+  </Company>
+  <Company>
+    <Symbol>TUBE</Symbol>
+    <DispName>TUBE INVESTMENTS</DispName>
+    <Desc>TUBE TUBE INVESTMENTS TUBEINVEST 504973 1125|TUBEINVEST~EQ|</Desc>
+    <BSE>504973</BSE>
+    <Sector>35</Sector>
+  </Company>
+  <Company>
+    <Symbol>TULIP</Symbol>
+    <DispName>TULIP TELECOM</DispName>
+    <Desc>TULIP TULIP IT SERVICES TULIP TELECOM 532691|TULIP~BZ|</Desc>
+    <BSE>532691</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>TVTD</Symbol>
+    <DispName>TV TODAY NETWORK</DispName>
+    <Desc>TVTD TV TODAY NETWORK 532515 25201|TVTODAY~EQ|</Desc>
+    <BSE>532515</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>GBN</Symbol>
+    <DispName>TV18 BROADCAST</DispName>
+    <Desc>GBN TV18 BROADCAST TV18 BROADCAST LTD. GLOBAL BROADCAST NEWS IBN18 BROADCAST LTD IBN18 532800|TV18BRDCST~EQ|</Desc>
+    <BSE>532800</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>TVS</Symbol>
+    <DispName>TVS MOTORS</DispName>
+    <Desc>TVS TVS MOTOR TVS MOTOR COMPANY TVS MOTOR COMPANY LTD. TVS SUZUKI TVS-SUZUKI TVS-SUZUKI TVS MOTOR COMPANY 532343 59785 15871|TVSMOTOR~EQ|</Desc>
+    <BSE>532343</BSE>
+    <Sector>35</Sector>
+  </Company>
+  <Company>
+    <Symbol>UPHT</Symbol>
+    <DispName>U.P. HOTELS</DispName>
+    <Desc>UPHT U.P.HOTELS UP HOTELS U P HOTELS 509960</Desc>
+    <BSE>509960</BSE>
+    <Sector>13</Sector>
+  </Company>
+  <Company>
+    <Symbol>UDBW</Symbol>
+    <DispName>UB (HOLDINGS)</DispName>
+    <Desc>UDBW UB (HOLDINGS) LTD KINGFISHER PROPERTIES UNITED BREWERIES HOLDINGS UBHOLDINGS 507458 |UBHOLDINGS~EQ|</Desc>
+    <BSE>507458</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>UCLF</Symbol>
+    <DispName>UCAL FUEL</DispName>
+    <Desc>UCLF UCAL FUEL UCALFUEL 500464 1640|UCALFUEL~EQ|</Desc>
+    <BSE>500464</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>FXIN</Symbol>
+    <DispName>UFLEX LTD.</DispName>
+    <Desc>FXIN UFLEX LIMITED FLEX INDUS FLEX 500148 525|UFLEX~EQ|</Desc>
+    <BSE>500148</BSE>
+    <Sector>17</Sector>
+  </Company>
+  <Company>
+    <Symbol>CEMCO</Symbol>
+    <DispName>ULTRATECH CEMENT</DispName>
+    <Desc>CEMCO ULTRATECH CEMENT 532538 33270|ULTRACEMCO~EQ|</Desc>
+    <BSE>532538</BSE>
+    <Sector>5</Sector>
+  </Company>
+  <Company>
+    <Symbol>UNCHM</Symbol>
+    <DispName>UNICHEM LAB</DispName>
+    <Desc>UNCHM UNICHEM LAB UNICHEMLAB 506690 1149|UNICHEMLAB~EQ|</Desc>
+    <BSE>506690</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>UNBK</Symbol>
+    <DispName>UNION BANK</DispName>
+    <Desc>UNBK UNION BANK UBI 532477|UNIONBANK~EQ|</Desc>
+    <BSE>532477</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>UNTE</Symbol>
+    <DispName>UNITECH</DispName>
+    <Desc>UNTE UNITECH UNITECH LTD. UNITECH LIMITED 507878|UNITECH~EQ|</Desc>
+    <BSE>507878</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>UTBK</Symbol>
+    <DispName>UNITED BANK OF INDIA</DispName>
+    <Desc>UTBK UNITED BANK OF INDIA 533171|UNITEDBNK~EQ|</Desc>
+    <BSE>533171</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>UDBS</Symbol>
+    <DispName>UNITED BREWERIES</DispName>
+    <Desc>UDBS UNITED BREWERIES 532478|UBL~EQ|</Desc>
+    <BSE>532478</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>MCDL</Symbol>
+    <DispName>UNITED SPIRITS</DispName>
+    <Desc>MCDL MCDOWELL &amp; COMPANY MCDOWELL UNITED SPIRITS UNITED SPIRITS LTD. 532432 |MCDOWELL-N~EQ|</Desc>
+    <BSE>532432</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>UNFRA</Symbol>
+    <DispName>UNITY INFRAPROJECTS</DispName>
+    <Desc>UNFRA UNITY INFRAPROJECTS 532746|UNITY~EQ|</Desc>
+    <BSE>532746</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>UNPS</Symbol>
+    <DispName>UPL LIMITED</DispName>
+    <Desc>UNPS UPL LIMITED UPL LTD. UNITED PHOSPHORUS 512070 UNITEDPHOS |UPL~EQ|</Desc>
+    <BSE>512070</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>USBN</Symbol>
+    <DispName>USHA MARTIN</DispName>
+    <Desc>USHA USBN USHA MARTIN INDUSTRIES USHA BELTRON USHABELTRO 517146 686|USHAMART~EQ|</Desc>
+    <BSE>517146</BSE>
+    <Sector>29</Sector>
+  </Company>
+  <Company>
+    <Symbol>UTMS</Symbol>
+    <DispName>UTTAM GALVA STEEL</DispName>
+    <Desc>UTMS UTTAM GALVA STEEL UTTAM STEEL UTTAMSTL 513216 2521|UTTAMSTL~EQ|</Desc>
+    <BSE>513216</BSE>
+    <Sector>26</Sector>
+  </Company>
+  <Company>
+    <Symbol>VGUARD</Symbol>
+    <DispName>V GUARD IND.</DispName>
+    <Desc>VGUARD V - GUARD INDUSTRIES V GUARD INDUSTRIES 532953|VGUARD~EQ|</Desc>
+    <BSE>532953</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>VMART</Symbol>
+    <DispName>V-MART RETAIL</DispName>
+    <Desc>VMART V-MART RETAIL VMART V-MART RETAIL LTD. V MART 534976|VMART~EQ|</Desc>
+    <BSE>534976</BSE>
+    <Sector>104</Sector>
+  </Company>
+  <Company>
+    <Symbol>VTECH</Symbol>
+    <DispName>VA TECH WABAG</DispName>
+    <Desc>VTECH VA TECH WABAG VA TECH WABAG LTD. VATECH WABAG VA TECH WABAG 533269|WABAG~EQ|</Desc>
+    <BSE>533269</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>VLIN</Symbol>
+    <DispName>VADILAL INDUSTRIES</DispName>
+    <Desc>VLIN VADILAL INDUSTRIES VADILAL INDUSTRIES LTD. VADILINDQ 519156|VADILALIND~EQ|</Desc>
+    <BSE>519156</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>VAKRA</Symbol>
+    <DispName>VAKRANGEE LTD.</DispName>
+    <Desc>VAKRA VAKRANGEE LTD. VAKRANGEE LIMITED VAKRANGEE SOFTWARES VAKRANGEE SOFTWARES LIMITED VAKRANGEE SOFTWARES LTD. 511431|VAKRANGEE~EQ|</Desc>
+    <BSE>511431</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>MHSP</Symbol>
+    <DispName>VARDHMAN TEXTILES</DispName>
+    <Desc>MHSP VARDHMAN TEXT MAHAVIR SPG. VARDHMAN TEXTILES MAHAVIR SPINNING MILLS LTD. MAHAVIRSPG 502986 1085|VTL~EQ|</Desc>
+    <BSE>502986</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>VNSH</Symbol>
+    <DispName>VARUN SHIPPING</DispName>
+    <Desc>VNSH VARUN SHIPPING COMPANY VARUNSHIP 500465 1194|VARUNSHIP~EQ|</Desc>
+    <BSE>500465</BSE>
+    <Sector>25</Sector>
+  </Company>
+  <Company>
+    <Symbol>SESA</Symbol>
+    <DispName>VEDANTA LTD</DispName>
+    <Desc>SESA VEDANTA LTD VEDANTA LIMITED SESA STERLITE SESA GOA LTD. SESAGOA 500295 449|VEDL~EQ|</Desc>
+    <BSE>500295</BSE>
+    <Sector>83</Sector>
+  </Company>
+  <Company>
+    <Symbol>WSHT</Symbol>
+    <DispName>VENKYS (I) LIMITED</DispName>
+    <Desc>WSHT VENKYS VENKYS INDIA LIMITED WEST.HATCH(E) WESTERN HATCHERIES(E) WESTHATCH 523261 745|VENKEYS~EQ|</Desc>
+    <BSE>523261</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>VSRM</Symbol>
+    <DispName>VENUS REMEDIES</DispName>
+    <Desc>VSRM VENUS REMEDIES 26953|VENUSREM~EQ|</Desc>
+    <BSE>526953</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>VDFN</Symbol>
+    <DispName>VIDEOCON INDUSTRIES</DispName>
+    <Desc>VDFN VIDEOCON INDUSTRIES VIDEOCON LEASING FINANCE VDOLEASE 511389 3219|VIDEOIND~EQ|</Desc>
+    <BSE>511389</BSE>
+    <Sector>11</Sector>
+  </Company>
+  <Company>
+    <Symbol>VBANK</Symbol>
+    <DispName>VIJAYA BANK</DispName>
+    <Desc>VBANK VIJAYA BANK 532401 1206|VIJAYABANK~EQ|</Desc>
+    <BSE>532401</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>VNOR</Symbol>
+    <DispName>VINATI ORG.</DispName>
+    <Desc>VNOR VINATI ORGANICS. 524200|VINATIORGA~EQ|</Desc>
+    <BSE>524200</BSE>
+    <Sector>6</Sector>
+  </Company>
+  <Company>
+    <Symbol>VIPI</Symbol>
+    <DispName>VIP INDUSTRIES</DispName>
+    <Desc>VIPI VIP INDUSTRIES V.I.P. INDUSTRIES VIPIND 507880 1741|VIPIND~EQ|</Desc>
+    <BSE>507880</BSE>
+    <Sector>9</Sector>
+  </Company>
+  <Company>
+    <Symbol>VINFY</Symbol>
+    <DispName>VISESH INFOTECHNICS</DispName>
+    <Desc>VINFY VISESH INFOTECHNICS VISESH INFOTECHNICS LIMITED VISESH INFOTECHNICS LTD. VISESH INFOSYS VISESHINFO VISESH INFOTECNICS 532411|VISESHINFO~EQ|</Desc>
+    <BSE>532411</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>VAMP</Symbol>
+    <DispName>VOLTAMP TRANSFORMERS</DispName>
+    <Desc>VAMP VOLTAMP TRANS VOLTAMP TRANSFORMERS LIMITED 532757|VOLTAMP~EQ|</Desc>
+    <BSE>532757</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>VOLT</Symbol>
+    <DispName>VOLTAS</DispName>
+    <Desc>VOLT VOLTAS VOLTAS 500575 455|VOLTAS~EQ|</Desc>
+    <BSE>500575</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>VST</Symbol>
+    <DispName>VST INDUSTRIES</DispName>
+    <Desc>VST VST INDUSTRIES VSTIND 509966 600|VSTIND~EQ|</Desc>
+    <BSE>509966</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>VSTT</Symbol>
+    <DispName>VST TILLERS</DispName>
+    <Desc>VSTT VST TILLERS TRACTORS VST TILLERS TRACTORS LTD. V.S.T VST TILLERS 531266|VSTTILLERS~EQ|</Desc>
+    <BSE>531266</BSE>
+    <Sector>35</Sector>
+  </Company>
+  <Company>
+    <Symbol>WABCO</Symbol>
+    <DispName>WABCO INDIA</DispName>
+    <Desc>WABCO WABCO INDIA WABCO INDIA LTD. WABCO-TVS (INDIA) LTD 533023|WABCOINDIA~EQ|</Desc>
+    <BSE>533023</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>WLCH</Symbol>
+    <DispName>WALCHANDNAGAR</DispName>
+    <Desc>WLCH WALCHANDNAGAR INDUSTRIES WALCHANNAG 507410 2410|WALCHANNAG~EQ|</Desc>
+    <BSE>507410</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>WSGJ</Symbol>
+    <DispName>WELSPUN CORP</DispName>
+    <Desc>WSGJ WELSPUN CORP WELSPUN GUJARAT STAHL ROHREN WELSPUN GUJ. 532144 WELGUJ|WELCORP~EQ|</Desc>
+    <BSE>532144</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>WLSP</Symbol>
+    <DispName>WELSPUN INDIA</DispName>
+    <Desc>WLSP WELSPUN (I) WELSPUN INDIA LIMITED WELSPUN (INDIA) LIMITED WELSPUNPOL 514162 64277|WELSPUNIND~EQ|</Desc>
+    <BSE>514162</BSE>
+    <Sector>30</Sector>
+  </Company>
+  <Company>
+    <Symbol>WNDT</Symbol>
+    <DispName>WENDT (INDIA)</DispName>
+    <Desc>WNDT WENDT(INDIA) WENDTINDIA 505412 2774|WENDT~EQ|</Desc>
+    <BSE>505412</BSE>
+    <Sector>105</Sector>
+  </Company>
+  <Company>
+    <Symbol>WSCS</Symbol>
+    <DispName>WEST COAST PAPER MILLS</DispName>
+    <Desc>WSCS WEST COAST PAPER MILLS WSTCSTPAPR 500444 1504|WSTCSTPAPR~EQ|</Desc>
+    <BSE>500444</BSE>
+    <Sector>19</Sector>
+  </Company>
+  <Company>
+    <Symbol>WHEEL</Symbol>
+    <DispName>WHEELS INDIA</DispName>
+    <Desc>WHEEL WHEELS INDIA WHEELS 3289 590073|WHEELS~EQ|</Desc>
+    <BSE>590073</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>WHRP</Symbol>
+    <DispName>WHIRLPOOL OF INDIA</DispName>
+    <Desc>WHRP WHIRLPOOL OF INDIA LIMITED KELVINATOR 500238|WHIRLPOOL~EQ|</Desc>
+    <BSE>500238</BSE>
+    <Sector>9</Sector>
+  </Company>
+  <Company>
+    <Symbol>WMPL</Symbol>
+    <DispName>WIM PLAST LTD.</DispName>
+    <Desc>WMPL WIM PLAST LTD. WIMPLAST 526586 2819</Desc>
+    <BSE>526586</BSE>
+    <Sector>22</Sector>
+  </Company>
+  <Company>
+    <Symbol>WPRO</Symbol>
+    <DispName>WIPRO</DispName>
+    <Desc>WPRO WIPRO WIT WIPRO 507685 9|WIPRO~EQ|</Desc>
+    <BSE>507685</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>WOCK</Symbol>
+    <DispName>WOCKHARDT LTD.</DispName>
+    <Desc>WOCK WOCKHARDT LIMITED WOCKPHARMA 532300 234|WOCKPHARMA~EQ|</Desc>
+    <BSE>532300</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>WYLD</Symbol>
+    <DispName>WYETH LTD</DispName>
+    <Desc>WYLD WYETH LEDERLE CYNAMID WYETHLEDE 500095 884|WYETH~EQ|</Desc>
+    <BSE>500095</BSE>
+    <Sector>21</Sector>
+  </Company>
+  <Company>
+    <Symbol>YES</Symbol>
+    <DispName>YES BANK</DispName>
+    <Desc>YES BANK YESBANK 532648|YESBANK~EQ|</Desc>
+    <BSE>532648</BSE>
+    <Sector>3</Sector>
+  </Company>
+  <Company>
+    <Symbol>ZNDU</Symbol>
+    <DispName>ZANDU REALTY</DispName>
+    <Desc>ZNDU ZANDU REALTY ZANDU PHARMACEUTICAL WORKS LTD. ZANDUPHARM 506720 1476|ZANDUREALT~EQ|</Desc>
+    <BSE>506720</BSE>
+    <Sector>8</Sector>
+  </Company>
+  <Company>
+    <Symbol>ZEE</Symbol>
+    <DispName>ZEE ENTERTAINMENT</DispName>
+    <Desc>ZEE ZEE TELEFILMS ENTERTAINMENT ZEE ENTERTAIN ZEETELE 505537 ZEEL|ZEEL~EQ|</Desc>
+    <BSE>505537</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>ZNEWS</Symbol>
+    <DispName>ZEE MEDIA CORP.</DispName>
+    <Desc>ZEE ZEE MEDIA CORPORATION LIMITED ZEE MEDIA CORPORATION LTD. NEWS ZNEWS 532794 |ZEEMEDIA~EQ|</Desc>
+    <BSE>532794</BSE>
+    <Sector>16</Sector>
+  </Company>
+  <Company>
+    <Symbol>ZINF</Symbol>
+    <DispName>ZENITH INFOTECH</DispName>
+    <Desc>ZINF ZENITH INFOTECH 532298 1177|ZENITHINFO~EQ|</Desc>
+    <BSE>532298</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>FUJI</Symbol>
+    <DispName>ZENSAR TECHNOLOGIES</DispName>
+    <Desc>FUJI FUJITSU ICIM FUJITSICIM ZENSAR TECHNOLOGIES LIMITED 504067 283|ZENSARTECH~EQ|</Desc>
+    <BSE>504067</BSE>
+    <Sector>34</Sector>
+  </Company>
+  <Company>
+    <Symbol>ZFSG</Symbol>
+    <DispName>ZF STEERING</DispName>
+    <Desc>ZFSG ZF STEERING ZFSTEERING Z F STEERING 505163 -1572</Desc>
+    <BSE>505163</BSE>
+    <Sector>2</Sector>
+  </Company>
+  <Company>
+    <Symbol>ZUAR</Symbol>
+    <DispName>ZUARI GLOBAL</DispName>
+    <Desc>ZUAR ZUARI INDUSTRIES ZUARI ZUARI GLOBAL LIMITED ZUARIAGRO 500780 906|ZUARIGLOB~EQ|</Desc>
+    <BSE>500780</BSE>
+    <Sector>36</Sector>
+  </Company>
+  <Company>
+    <Symbol>CRNU</Symbol>
+    <DispName>ZYDUS WELLNESS</DispName>
+    <Desc>CRNU CARNATION NU ZYDUS WELLNESS 531335|ZYDUSWELL~EQ|</Desc>
+    <BSE>531335</BSE>
+    <Sector>4</Sector>
+  </Company>
+  <Company>
+    <Symbol>ZYLOG</Symbol>
+    <DispName>ZYLOG SYSTEMS</DispName>
+    <Desc>ZYLOG SYSTEMS ZYLOG SYSTEMS LTD. ZYLOG SYSTEMS LIMITED 532883|ZYLOG~EQ|</Desc>
+    <BSE>532883</BSE>
+    <Sector>34</Sector>
+  </Company>
+</Companies>
