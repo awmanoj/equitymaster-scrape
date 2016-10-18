@@ -21,6 +21,12 @@ report = "report.txt"
 if len(sys.argv) > 3:
 	report = sys.argv[3]
 
+only_increasing = False
+if len(sys.argv) > 4:
+	only_increasing = sys.argv[4] == "True"
+
+print only_increasing
+
 with open(report) as file:
 	for line in file:
 		splits = line.strip().split("|")
@@ -35,7 +41,16 @@ with open(report) as file:
 				break
 	
 		if skip: continue	
-
+	
+		if only_increasing:
+			skip = False
+			mx = roes[0]
+			for roe in roes[:-1]:
+				if roe < mx:
+					skip = True
+					break
+			if skip: continue	
+		
 		skip = False
 		for der in ders[:-1]:
 			if der > max_dte or der < 0:
